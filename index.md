@@ -7,15 +7,13 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "#"
+  - link: "#/mission"
     link_text: mission
-  - link: "#"
+  - link: "#/values"
     link_text: values
-  - link: "#"
-    link_text: contact
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: "#/contact"
+    button_text: work with us
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
