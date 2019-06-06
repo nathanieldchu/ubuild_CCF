@@ -10,7 +10,7 @@ page_sections:
   - link: "#"
     link_text: mission
   - link: "#"
-    link_text: Pricing
+    link_text: values
   - link: "#"
     link_text: Team
   cta:
