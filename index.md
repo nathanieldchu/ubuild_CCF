@@ -16,7 +16,8 @@ page_sections:
     button_text: work with us
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: a new generation of <strong>sustainable</strong> cultured foods <br><strong>uncompromised
+    delicious</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
