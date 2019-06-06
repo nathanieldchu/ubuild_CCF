@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: values
   - link: "#"
-    link_text: Team
+    link_text: contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
