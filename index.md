@@ -18,10 +18,9 @@ page_sections:
   block: hero-2
   headline: a new generation of <strong>sustainable</strong> cultured foods <br><strong>uncompromised
     delicious</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: 'We craft exceptional foods that '
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
