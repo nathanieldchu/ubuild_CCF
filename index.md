@@ -21,9 +21,9 @@ page_sections:
     foods that bring new and familiar flavors with dramatically smaller ecological
     footprints.
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: "#/contact"
+    button_text: WORK WITH US
   image:
     image: "/uploads/2019/06/06/IMG_1405.jpg"
     alt_text: Product Shot
@@ -40,11 +40,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Building a more <strong>sustainable</strong> world
+  headline: building a more <strong>sustainable</strong> world
   content: Inspired by the natural world and driven to preserve it, we set out to
     change the food system for the better. We're a public benefit company, meaning
     that we baked our mission into our corporate DNA. We're not making an industrial
-    money machine. We're making kick-@$$ cheese and working towards shared prosperity
+    money machine. We're making kick-@$$ cheese and working for shared prosperity
     for our human and ecological communities. <strong>Doing the right thing shouldn't
     have to taste like broccoli</strong> (but for the record, we really like broccoli).
   media:
