@@ -32,8 +32,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>#cheesewecanbelievein</strong>"
-  content: A new category of cheese is coming. It's made from plants. It's creamy
-    and melty. And above all, it tastes damn good.
+  content: A <strong>new category of cheese</strong> is coming. It's made from plants.
+    It's creamy and melty. And above all, it tastes damn good.
   media:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: uBuild Blocks Mock-Up
