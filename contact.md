@@ -8,6 +8,5 @@ page_sections:
   content: If you work in food service or food manufacturing, please reach out to
     us if you are interested in collaborating on a new wave of sustainable foods!
   email_recipient: crossculturedfoods@gmail.com
-published: false
 
 ---
