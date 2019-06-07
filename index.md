@@ -50,15 +50,18 @@ page_sections:
   block: three-column-1
   col_1:
     headline: For you
-    content: We will choose long-term over short-term, open conversation over veiled
-      secrets,
+    content: We choose <strong>long-term well being over short-term gains</strong>,
+      open conversation over hidden secrets, and crafted the right way over processed
+      the cheap way
   col_2:
     headline: For us
-    content: We will pursue excellence through a love of learning, we will go slow
-      to go fast, and we will
+    content: We pursue growth through a love of learning, we <strong>go slow to go
+      fast</strong>, and we know that shared missions outshine conflicting opinions
   col_3:
     headline: For the world
-    content: ''
+    content: We believe that even big scary problems still have solutions, optimists
+      may not always be right but they sure do have more fun, and <strong>drops add
+      up to waves</strong>
 - template: signup-bar
   block: cta-bar
   content: Let us know how to tell you about our progress!
