@@ -56,13 +56,23 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/06/07/IMG_1489.jpg"
   caption: Because who in the world doesn't like sweet potato tacos?
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Copyright Cross Cultured Foods PBC, 2019
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 
 ---
 foo bar
