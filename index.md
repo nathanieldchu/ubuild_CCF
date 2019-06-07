@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/06/06/oneline_dagger_2.5inwide.png"
   navigation:
   - link: "#/mission"
-    link_text: mission
+    link_text: MISSION
   - link: "#/values"
     link_text: values
   cta:
