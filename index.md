@@ -33,7 +33,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>#cheesewecanbelievein</strong>"
   content: A <strong>new category of cheese</strong> is coming. It's made from sustainable
-    plants. It's creamy and melty. Above all, it tastes damn good.
+    plants. It's creamy and melty. Above all, <em>it tastes damn good</em>.
   media:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: cheese forward
