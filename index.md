@@ -58,8 +58,8 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: signup-bar
   block: cta-bar
-  content: What does this look like?
-  email_recipient: ''
+  content: Let us know how to tell you about our progress!
+  email_recipient: crossculturedfoods@gmail.com
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/06/07/IMG_1489.jpg"
