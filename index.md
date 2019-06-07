@@ -40,10 +40,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: Building a more sustainable world
+  content: Inspired by the natural world and driven to preserve it, we set out to
+    change the food system for the better. We're a public benefit company, meaning
+    that we baked our mission into our corporate DNA. We're not making an industrial
+    money machine. We're making kick-@$$ cheese and working towards lasting prosperity
+    for our human and ecological communities. Doing the right thing shouldn't have
+    to taste like broccoli (but for the record, we really like broccoli).
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
