@@ -10,10 +10,10 @@ page_sections:
   - link: "#/mission"
     link_text: MISSION
   - link: "#/values"
-    link_text: values
+    link_text: VALUES
   cta:
     url: "#/contact"
-    button_text: work with us
+    button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
   headline: 'a new generation of <strong>sustainable</strong> cultured foods '
