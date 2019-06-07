@@ -18,7 +18,8 @@ page_sections:
   block: hero-2
   headline: 'a new generation of <strong>sustainable</strong> cultured foods '
   content: Using culinary tradition and modern microbiology, we are crafting exceptional
-    foods that make the most delicious choice also the most sustainable
+    foods that bring new and familiar flavors with dramatically smaller ecological
+    footprints.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
