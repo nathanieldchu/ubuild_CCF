@@ -48,7 +48,7 @@ page_sections:
     for our human and ecological communities. Doing the right thing shouldn't have
     to taste like broccoli (but for the record, we really like broccoli).
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2019/06/07/img_20180530_120132624_hdr.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
