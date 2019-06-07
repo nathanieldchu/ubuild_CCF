@@ -16,9 +16,9 @@ page_sections:
     button_text: work with us
 - template: hero-banner-w-image
   block: hero-2
-  headline: a new generation of <strong>sustainable</strong> cultured foods <br><strong>uncompromised
-    delicious</strong>
-  content: 'We craft exceptional foods that '
+  headline: 'a new generation of <strong>sustainable</strong> cultured foods '
+  content: Using culinary tradition and modern microbiology, we are crafting exceptional
+    foods that make the most delicious choice also the most sustainable
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
@@ -71,7 +71,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-published: false
 
 ---
 foo bar
