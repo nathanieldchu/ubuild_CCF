@@ -35,7 +35,7 @@ page_sections:
   content: A new category of cheese is coming. It's made from plants. It's creamy
     and melty. And above all, it tastes damn good.
   media:
-    image: "/ubuild-jekyll/uploads/2019/06/07/IMG_1428.jpg"
+    image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
