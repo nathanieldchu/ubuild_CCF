@@ -58,7 +58,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: signup-bar
   block: cta-bar
-  content: ''
+  content: What does this look like?
   email_recipient: ''
 - template: full-width-media-element
   block: media-1
@@ -67,12 +67,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright Cross Cultured Foods PBC, 2019
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
 
 ---
 foo bar
