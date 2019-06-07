@@ -40,7 +40,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Building a more sustainable world
+  headline: Building a more <strong>sustainable</strong> world
   content: Inspired by the natural world and driven to preserve it, we set out to
     change the food system for the better. We're a public benefit company, meaning
     that we baked our mission into our corporate DNA. We're not making an industrial
