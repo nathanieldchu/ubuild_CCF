@@ -50,12 +50,17 @@ page_sections:
   media:
     image: "/uploads/2019/06/07/img_20180530_120132624_hdr.jpg"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Test block text
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 - template: signup-bar
   block: cta-bar
   content: Let us know how to tell you about our progress!
