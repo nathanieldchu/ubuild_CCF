@@ -53,13 +53,15 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Test block text
-    content: ''
+    headline: For you
+    content: We will choose long-term over short-term, open conversation over veiled
+      secrets,
   col_2:
-    headline: ''
-    content: ''
+    headline: For us
+    content: We will pursue excellence through a love of learning, we will go slow
+      to go fast, and we will
   col_3:
-    headline: ''
+    headline: For the world
     content: ''
 - template: signup-bar
   block: cta-bar
