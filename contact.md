@@ -13,7 +13,7 @@ page_sections:
   email_recipient: crossculturedfoods@gmail.com
 - template: full-width-media-element
   block: media-1
-  image: ''
+  image: "/uploads/2019/06/10/IMG_1469.jpg"
   caption: ''
 - template: simple-footer
   block: footer-1
