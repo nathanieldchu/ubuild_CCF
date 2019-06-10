@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/06/06/oneline_dagger_2.5inwide.png"
   navigation: []
   cta:
-    url: "/contact"
+    url: "/ubuild-jekyll/contact"
     button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
@@ -18,7 +18,7 @@ page_sections:
     footprints.
   cta:
     enabled: true
-    url: "/contact"
+    url: "/ubuild-jekyll/contact"
     button_text: WORK WITH US
   image:
     image: "/uploads/2019/06/06/IMG_1405.jpg"
