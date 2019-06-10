@@ -18,7 +18,7 @@ page_sections:
     footprints.
   cta:
     enabled: true
-    url: "/contact"
+    url: https://nathanieldchu.github.io/ubuild-jekyll/contact
     button_text: WORK WITH US
   image:
     image: "/uploads/2019/06/06/IMG_1405.jpg"
