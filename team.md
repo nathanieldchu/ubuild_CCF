@@ -12,7 +12,7 @@ page_sections:
   headline: ''
   content: ''
   media:
-    image: ''
+    image: "/uploads/2019/06/10/ndchu_headshot_wedding_2.jpg"
     alt_text: ''
 published: false
 
