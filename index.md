@@ -63,7 +63,7 @@ page_sections:
       always right but sure have more fun, and <strong>even tiny drops add up to waves</strong>
 - template: signup-bar
   block: cta-bar
-  content: Let us know how to tell you about our progress!
+  content: Want updates about our progress?
   email_recipient: crossculturedfoods@gmail.com
 - template: full-width-media-element
   block: media-1
