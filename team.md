@@ -19,7 +19,7 @@ page_sections:
     these passions with my joy of eating to find ways to create foods with big flavors
     and tiny footprints.
   media:
-    image: "/uploads/2019/06/10/ndc_headshot_circle_2in.png"
+    image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
