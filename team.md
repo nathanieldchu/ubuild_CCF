@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Team
-date: 2019-06-10T07:00:00.000+00:00
+date: 2019-06-10 07:00:00 +0000
 page_sections:
 - template: simple-header
   block: header-3
