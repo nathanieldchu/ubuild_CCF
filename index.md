@@ -67,7 +67,8 @@ page_sections:
   email_recipient: crossculturedfoods@gmail.com
 - template: simple-footer
   block: footer-1
-  content: Copyright Cross Cultured Foods PBC, 2019
+  content: <a href="https://nathanieldchu.github.io/ubuild-jekyll/team" title="Team">About
+    our Team</a>. Copyright Cross Cultured Foods PBC, 2019
 
 ---
 foo bar
