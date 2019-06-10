@@ -14,7 +14,7 @@ page_sections:
   block: hero-2
   headline: 'a new generation of <strong>sustainable</strong> cultured foods '
   content: Using culinary tradition and modern microbiology, we are crafting exceptional
-    foods that bring new and familiar flavors with dramatically smaller ecological
+    foods that offer new and familiar flavors with dramatically smaller ecological
     footprints.
   cta:
     enabled: true
@@ -23,7 +23,7 @@ page_sections:
   image:
     image: "/uploads/2019/06/06/IMG_1405.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/2019/06/07/StockSnap_RQFZWA5OOP.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
