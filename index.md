@@ -68,7 +68,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/06/07/IMG_1489.jpg"
-  caption: Because who in the world doesn't like sweet potato tacos?
+  caption: ''
 - template: simple-footer
   block: footer-1
   content: Copyright Cross Cultured Foods PBC, 2019
