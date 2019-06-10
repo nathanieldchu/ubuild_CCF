@@ -58,10 +58,9 @@ page_sections:
     content: We pursue growth through a love of learning, know that <strong>shared
       missions outshine conflicting opinions</strong>, and go slow to go fast
   col_3:
-    headline: For the world
-    content: We believe that even big scary problems still have solutions, optimists
-      may not always be right but they sure do have more fun, and <strong>drops add
-      up to waves</strong>
+    headline: Our values for the world
+    content: We know that big scary problems still have solutions, optimists are not
+      always right but sure have more fun, and <strong>even tiny drops add up to waves</strong>
 - template: signup-bar
   block: cta-bar
   content: Let us know how to tell you about our progress!
