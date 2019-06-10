@@ -65,10 +65,6 @@ page_sections:
   block: cta-bar
   content: Want updates about our progress?
   email_recipient: crossculturedfoods@gmail.com
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2019/06/07/IMG_1489.jpg"
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: Copyright Cross Cultured Foods PBC, 2019
