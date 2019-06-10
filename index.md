@@ -49,10 +49,10 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: For you
-    content: We choose <strong>long-term well being over short-term gains</strong>,
-      open conversation over hidden secrets, and crafted the right way over processed
-      the cheap way
+    headline: Our values for you
+    content: We choose <strong>shared, lasting well being over short-term gains</strong>;
+      openness and partnership over concealment and competition; and mission over
+      money
   col_2:
     headline: For us
     content: We pursue growth through a love of learning, we <strong>go slow to go
