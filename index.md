@@ -54,9 +54,9 @@ page_sections:
       openness and partnership over concealment and competition; and mission over
       money
   col_2:
-    headline: For us
-    content: We pursue growth through a love of learning, we <strong>go slow to go
-      fast</strong>, and we know that shared missions outshine conflicting opinions
+    headline: Our values for us
+    content: We pursue growth through a love of learning, know that <strong>shared
+      missions outshine conflicting opinions</strong>, and go slow to go fast
   col_3:
     headline: For the world
     content: We believe that even big scary problems still have solutions, optimists
