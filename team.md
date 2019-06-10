@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Team
-date: 2019-06-10 07:00:00 +0000
+date: 2019-06-10T07:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
@@ -21,6 +21,5 @@ page_sections:
   media:
     image: "/uploads/2019/06/10/ndchu_headshot_wedding_2.jpg"
     alt_text: ''
-published: false
 
 ---
