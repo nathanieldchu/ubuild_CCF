@@ -21,5 +21,8 @@ page_sections:
   media:
     image: "/uploads/2019/06/10/ndchu_headshot_wedding_2.jpg"
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Copyright Cross Cultured Foods PBC, 2019
 
 ---
