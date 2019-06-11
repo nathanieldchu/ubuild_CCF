@@ -9,7 +9,8 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   content: If you work in <strong>food service or manufacturing</strong>, please reach
-    out if you are interested in collaborating on a new wave of sustainable foods!
+    out if you are interested in collaborating on a new wave of delicious, sustainable
+    foods!
   email_recipient: crossculturedfoods@gmail.com
 - template: full-width-media-element
   block: media-1
