@@ -42,7 +42,7 @@ page_sections:
     meaning that we baked our mission into our corporate DNA (we're also nerds, which
     is why we use words like DNA). We're not making an industrial money machine. We're
     making delicious cheese and working towards lasting prosperity for our human and
-    ecological communities. <strong>Doing the right thing shouldn't have to taste
+    ecological communities. <br><strong>Doing the right thing shouldn't have to taste
     like broccoli</strong> (but for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
