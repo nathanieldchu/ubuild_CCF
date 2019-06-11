@@ -12,8 +12,8 @@ page_sections:
     button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
-  headline: 'a new generation of <strong>sustainable</strong> cultured foods '
-  content: Using culinary tradition and modern microbiology, we are crafting exceptional
+  headline: a new generation of <strong>extraordinary</strong> cultured foods
+  content: Using culinary tradition and modern microbiology, we are crafting remarkable
     foods that offer new and familiar flavors with dramatically smaller ecological
     footprints.
   cta:
