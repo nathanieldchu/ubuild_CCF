@@ -21,8 +21,8 @@ page_sections:
     url: https://nathanieldchu.github.io/ubuild-jekyll/contact
     button_text: WORK WITH US
   image:
-    image: "/uploads/2019/06/06/IMG_1405.jpg"
-    alt_text: Product Shot
+    image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1
