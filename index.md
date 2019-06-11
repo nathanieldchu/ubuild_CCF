@@ -69,8 +69,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <a href="https://nathanieldchu.github.io/ubuild-jekyll/team" title="Team">About
-    our Team</a>. <br>Copyright Cross Cultured Foods PBC, 2019. <br>Site made with
-    Jekyll and Forestry.io. Food photos copyright Max Monn.
+    Our Team</a>. <br>© Cross Cultured Foods PBC, 2019. <br>Site made with Jekyll
+    and Forestry.io. Food photos © Max Monn.
 
 ---
 foo bar
