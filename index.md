@@ -39,10 +39,11 @@ page_sections:
   headline: building a more <strong>sustainable</strong> world
   content: Inspired by the natural world and driven to preserve it, we set out to
     change the food system for the better. We're a public benefit company, meaning
-    that we baked our mission into our corporate DNA. We're not making an industrial
-    money machine. We're making awesome cheese and working for shared prosperity for
-    our human and ecological communities. <strong>Doing the right thing shouldn't
-    have to taste like broccoli</strong> (but for the record, we really like broccoli).
+    that we baked our mission into our corporate DNA. (We're also food nerds, which
+    is why we use words like DNA.) We're not making an industrial money machine. We're
+    making awesome cheese and working for shared prosperity for our human and ecological
+    communities. <strong>Doing the right thing shouldn't have to taste like broccoli</strong>
+    (but for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: Customize Blocks
