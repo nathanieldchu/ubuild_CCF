@@ -51,7 +51,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Our values for you
-    content: We choose <strong>shared, lasting well being over short-term gains</strong>;
+    content: We choose <strong>shared, lasting well-being over short-term gains</strong>;
       openness and partnership over concealment and competition; and mission over
       money
   col_2:
@@ -60,8 +60,8 @@ page_sections:
       missions outshine conflicting opinions</strong>, and go slow to go fast
   col_3:
     headline: Our values for the world
-    content: We know that big scary problems still have solutions, optimists are not
-      always right but sure have more fun, and <strong>even tiny drops add up to waves</strong>
+    content: We know that even big scary problems have solutions, optimists are not
+      always right but sure have more fun, and <strong>tiny drops add up to waves</strong>
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
