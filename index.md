@@ -14,7 +14,7 @@ page_sections:
   block: hero-2
   headline: a new generation of <strong>extraordinary cultured foods</strong>
   content: We are crafting delicious, uncompromising foods using culinary tradition
-    and modern microbiology, inventing new and familiar flavors with remarkably small
+    and modern microbiology, creating new and familiar flavors with remarkably small
     ecological footprints.
   cta:
     enabled: true
