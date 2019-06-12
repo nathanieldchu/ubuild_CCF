@@ -38,13 +38,12 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: building a more <strong>sustainable</strong> world
-  content: Inspired by the natural world and driven to protect it, we are setting
-    out to change the food system for the better. We're making delicious foods and
-    working towards lasting prosperity for our human and ecological communities. We're
-    a public benefit company, meaning that we baked our mission into our company DNA
-    (we're also nerds, which is why we use words like DNA). We're not making an industrial
-    money machine. <br><strong>Doing the right thing shouldn't have to taste like
-    broccoli</strong> (but for the record, we really like broccoli).
+  content: Inspired by the natural world and driven to protect it, we set out to change
+    food for the better. We work to provide foods with <strong>big flavors and tiny
+    footprints</strong>. We're a public benefit company, meaning that we baked this
+    mission into our company DNA (we're also nerds, which is why we use words like
+    DNA).<br><br><strong>Doing the right thing shouldn't have to taste like broccoli</strong>
+    (but for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: Customize Blocks
