@@ -8,9 +8,9 @@ page_sections:
   logo: "/uploads/2019/06/06/oneline_dagger_2.5inwide.png"
 - template: signup-bar
   block: cta-bar
-  content: If you work in <strong>food service or manufacturing</strong>, please reach
-    out if you are interested in collaborating on a new wave of delicious, sustainable
-    foods!
+  content: Are you an <strong>innovative chef, owner, or food manufacturer</strong>
+    who wants to collaborate on a new wave of delicious, sustainable foods? Reach
+    out to us!
   email_recipient: crossculturedfoods@gmail.com
 - template: full-width-media-element
   block: media-1
