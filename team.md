@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Team
-date: 2019-06-10 07:00:00 +0000
+date: 2019-06-10T07:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
@@ -21,6 +21,10 @@ page_sections:
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: You!
+  content: 'Want to help us save the world? (why not aim big!) '
 - template: simple-footer
   block: footer-1
   content: Copyright Cross Cultured Foods PBC, 2019
