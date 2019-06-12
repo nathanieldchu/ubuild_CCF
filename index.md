@@ -29,8 +29,8 @@ page_sections:
   media_alignment: Left
   headline: a whole <strong>new cheese</strong>
   content: A new kind of cheese is coming. No imitations, no compromises, no more
-    missing the good stuff. It's made from plants. It's creamy and melty. Above all,
-    <em>it tastes damn good</em>.
+    missing the good stuff. It's made from plants. It's creamy and melty. <strong>Above
+    all, it tastes damn good</strong>.
   media:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: cheese forward
