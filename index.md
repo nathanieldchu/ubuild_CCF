@@ -28,9 +28,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: a whole <strong>new cheese</strong>
-  content: A <strong>new kind of cheese is coming</strong>. <br><br>No imitation,
-    no compromise. It's made from plants. It's creamy and melty. Above all, <em>it
-    tastes damn good</em>.
+  content: A new kind of cheese is coming. No imitations, no compromises, no more
+    missing the good stuff. It's made from plants. It's creamy and melty. Above all,
+    <em>it tastes damn good</em>.
   media:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: cheese forward
@@ -39,12 +39,12 @@ page_sections:
   media_alignment: Right
   headline: building a more <strong>sustainable</strong> world
   content: Inspired by the natural world and driven to protect it, we are setting
-    out to change the food system for the better. We're a public benefit company,
-    meaning that we baked our mission into our company DNA (we're also nerds, which
-    is why we use words like DNA). We're not making an industrial money machine. We're
-    making delicious foods and working towards lasting prosperity for our human and
-    ecological communities. <br><strong>Doing the right thing shouldn't have to taste
-    like broccoli</strong> (but for the record, we really like broccoli).
+    out to change the food system for the better. We're making delicious foods and
+    working towards lasting prosperity for our human and ecological communities. We're
+    a public benefit company, meaning that we baked our mission into our company DNA
+    (we're also nerds, which is why we use words like DNA). We're not making an industrial
+    money machine. <br><strong>Doing the right thing shouldn't have to taste like
+    broccoli</strong> (but for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: Customize Blocks
