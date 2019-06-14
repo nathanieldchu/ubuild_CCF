@@ -37,10 +37,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: You!
-  content: 'Want to help us save the world? (why not aim big!) '
 - template: simple-footer
   block: footer-1
   content: Copyright Cross Cultured Foods PBC, 2019
