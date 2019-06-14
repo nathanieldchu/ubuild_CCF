@@ -10,14 +10,18 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Nathaniel D. Chu
-  content: I fell in love with the natural world during a childhood spent collecting
-    bugs and searching for salamanders. This love led me to study how the ecology
-    of microbes generate or prevent disease in the context of coral reefs—as a Fulbright
-    Fellow with the Smithsonian Institute—and in the context of the bacteria that
-    live in the human gut—as a PhD at MIT. I also taught team-building, communication,
-    and facilitation as an expedition leader with YMCA Camp Orkila. I am combining
-    these passions with my joy of eating to find ways to create foods with big flavors
-    and tiny footprints.
+  content: 'As a kid, I fell in love with the natural world searching for salamanders
+    in roadside ditches and learned to cook with the help of Kraft mac and cheese.
+    As a student, I studied genetics at Brown University, coral reef diseases as a
+    Fulbright Fellow with the Smithsonian Institution in Panama, and the gut microbiome—the
+    bacteria that live on and in the human body—during a PhD at MIT. As an sea-kayaking
+    expedition leader, I taught communication and leadership to teens with YMCA Camp
+    Orkila.<br><br>Now, I am combining these passions to find ways to make the most
+    delicious choice also the most sustainable choice. I get stoked on efficiency,
+    being outside, climbing and mountaineering, and pretending I''m a bear while sitting
+    in blueberry bushes.<br><br>Fun sustainability fact: I was once called a "cheeky
+    wanker" for picking up a British tourist''s discarded banana peels. I felt like
+    I had be knighted.'
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
