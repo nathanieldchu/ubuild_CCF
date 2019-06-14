@@ -18,6 +18,6 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: Copyright Cross Cultured Foods PBC, 2019
+  content: "© Cross Cultured Foods PBC, 2019"
 
 ---
