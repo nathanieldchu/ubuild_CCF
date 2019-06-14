@@ -21,6 +21,18 @@ page_sections:
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: You!!
+  content: Do you want to save the world by creating new foods that people love? Do
+    you get indecently excited when talking about sustainability, food, branding,
+    or microbiology? Join us!! We're always looking for partners with diverse perspectives
+    but shared missions and values who want to combine forces with us. Connect with
+    us at crossculturedfoods [at] gmail [dot] com
+  media:
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: You!
