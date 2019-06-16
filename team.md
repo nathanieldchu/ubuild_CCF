@@ -31,9 +31,9 @@ page_sections:
   headline: You!!
   content: Do you want to save the world by creating new foods that people love? Do
     you get indecently excited when talking about sustainability, food, branding,
-    or microbiology? Join us!! We're always looking for partners with diverse perspectives
-    but shared missions and values who want to combine forces with us. Connect with
-    us at crossculturedfoods [at] gmail [dot] com
+    or microbiology? <strong>Join us!!</strong> We're always looking for partners
+    with diverse perspectives but shared missions and values who want to combine forces.
+    Connect with us at crossculturedfoods [at] gmail [dot] com
   media:
     image: ''
     alt_text: ''
