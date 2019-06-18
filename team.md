@@ -10,18 +10,14 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Nathaniel D. Chu
-  content: 'As a kid, I fell in love with the natural world searching for salamanders
-    in roadside ditches and learned to cook with the help of Kraft mac and cheese.
-    As a student, I studied genetics at Brown University, coral reef diseases as a
-    Fulbright Fellow with the Smithsonian Institution in Panama, and the gut microbiome—the
-    bacteria that live on and in the human body—during a PhD at MIT. As an sea-kayaking
-    expedition leader, I taught communication and leadership to teens with YMCA Camp
-    Orkila.<br><br>Now, I am combining these passions to find ways to make the most
-    delicious choice also the most sustainable choice. I get stoked on efficiency,
-    being outside, climbing and mountaineering, and pretending I''m a bear while sitting
-    in blueberry bushes.<br><br>Fun sustainability fact: I was once called a "cheeky
-    wanker" for picking up a British tourist''s discarded banana peels. I felt like
-    I had be knighted.'
+  content: I studied genetics and evolution as a undergraduate at Brown University
+    (2012) then coral reef diseases as a Fulbright Fellow with the Smithsonian Institution
+    in Panama. As a PhD student at MIT, I studied the gut microbiome—the bacteria
+    that live on and in the human body—and how it generates disease and contributes
+    to human health and nutrition. As an sea-kayaking expedition leader with YMCA
+    Camp Orkila, I taught communication and leadership to teens with YMCA Camp Orkila.<br><br>Now,
+    I am thrilled to combine these passions to find ways to make the most delicious
+    choice also the most sustainable choice.
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
