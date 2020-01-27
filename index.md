@@ -12,15 +12,15 @@ page_sections:
     button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
-  headline: a new generation of <strong>extraordinary cultured foods</strong>
-  content: We are crafting delicious foods with the help of modern microbiology, creating
-    new and familiar flavors with remarkably small ecological footprints.
+  headline: a entire new world of cheeses
+  content: We are crafting a new category of cheeses, with new flavors, textures,
+    and incredible tastes. They also happen to be made from sustainable plants.
   cta:
     enabled: true
     url: https://nathanieldchu.github.io/ubuild-jekyll/contact
     button_text: WORK WITH US
   image:
-    image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
+    image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: ''
   background_image: ''
 - template: content-feature
