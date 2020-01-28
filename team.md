@@ -5,19 +5,19 @@ date: 2019-06-10T07:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2019/06/06/oneline_dagger_2.5inwide.png"
+  logo: "/uploads/2020/01/27/tezza_text.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: Nathaniel D. Chu
-  content: I studied genetics and evolution as a undergraduate at Brown University
+  content: I studied genetics and evolution as an undergraduate at Brown University,
     then coral reef diseases as a Fulbright Fellow with the Smithsonian Institution
     in Panama. As a PhD student at MIT, I studied the gut microbiome—the bacteria
     that live on and in the human body—and how it generates disease and contributes
-    to human health and nutrition. As a sea-kayaking expedition leader with YMCA Camp
-    Orkila, I taught communication and leadership to teens.<br><br>Now I am thrilled
-    to combine these passions to find ways to make the most delicious choice also
-    the most sustainable choice.
+    to human health. As a sea-kayaking expedition leader with YMCA Camp Orkila, I
+    taught communication and leadership to teens.<br><br>Now I am thrilled to combine
+    these passions to find ways to make the most delicious choice also the most sustainable
+    choice.
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
     alt_text: ''
