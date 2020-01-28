@@ -28,8 +28,8 @@ page_sections:
   content: Do you want to create new foods that people love? Do you get indecently
     excited when talking about sustainability, food, branding, or microbiology? Join
     us!! We're always looking for partners with diverse perspectives but shared missions
-    and values who want to combine forces. Connect with us at crossculturedfoods [at]
-    gmail [dot] com
+    and values who want to combine forces. Connect with us at tezzafoods [at] gmail
+    [dot] com
   media:
     image: ''
     alt_text: ''
