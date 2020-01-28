@@ -29,7 +29,7 @@ page_sections:
   headline: taste something completely different
   content: For thousands of years cultured foods have been discovered by accident—who
     left the milk out? But now, we are taking the time to understand the art of microbes
-    to discover foods and flavors that go beyond where any tastebuds have gone.
+    and discover foods and flavors that go beyond where any tastebuds have gone.
   media:
     image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
     alt_text: mixed board
