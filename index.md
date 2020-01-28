@@ -12,9 +12,9 @@ page_sections:
     button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
-  headline: a entire new world of cheeses
+  headline: a <strong>new world</strong> of cheese
   content: We are crafting a new category of cheeses, with new flavors, textures,
-    and incredible tastes. They also happen to be made from sustainable plants.
+    and incredible tastes. They also happen to be made from <strong>sustainable plants</strong>.
   cta:
     enabled: true
     url: https://nathanieldchu.github.io/ubuild-jekyll/contact
