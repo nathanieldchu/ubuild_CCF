@@ -5,7 +5,7 @@ date: 2019-06-06T07:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2019/06/06/oneline_dagger_2.5inwide.png"
+  logo: "/uploads/2020/01/27/tezza_text.png"
 - template: signup-bar
   block: cta-bar
   content: Are you an <strong>innovative chef, owner, or food manufacturer</strong>
