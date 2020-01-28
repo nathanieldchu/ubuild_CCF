@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/01/27/tezza_text.png"
   navigation: []
   cta:
-    url: https://nathanieldchu.github.io/ubuild-jekyll/contact
+    url: https://www.tezzafoods.com/contact
     button_text: WORK WITH US
 - template: hero-banner-w-image
   block: hero-2
