@@ -21,7 +21,7 @@ page_sections:
     button_text: WORK WITH US
   image:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
-    alt_text: ''
+    alt_text: New times, new cheese
   background_image: ''
 - template: content-feature
   block: feature-1
