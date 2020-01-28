@@ -32,7 +32,7 @@ page_sections:
     art of microbes to discover foods that go beyond where any tastebuds have gone.'
   media:
     image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
-    alt_text: mixed board
+    alt_text: Endless possibilities
 - template: content-feature
   block: feature-1
   media_alignment: Right
