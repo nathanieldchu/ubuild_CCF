@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Tezza - Home
-date: 2020-01-27 08:00:00 +0000
+date: 2020-01-27T08:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -13,8 +13,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: a <strong>new world</strong> of cheese
-  content: We are crafting a new category of cheeses, with new flavors, textures,
-    and incredible tastes. They also happen to be made from <strong>sustainable plants</strong>.
+  content: We are crafting a new category of cheeses, with incredible flavors and
+    textures. The secret? They happen to be made from <strong>sustainable plants</strong>.
   cta:
     enabled: true
     url: https://nathanieldchu.github.io/ubuild-jekyll/contact
