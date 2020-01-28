@@ -67,10 +67,9 @@ page_sections:
   email_recipient: crossculturedfoods@gmail.com
 - template: simple-footer
   block: footer-1
-  content: '<a href="https://nathanieldchu.github.io/ubuild-jekyll/team" title="Team">About
-    Our Team</a>. <br>Contact: crossculturedfoods [at] gmail [dot] com<br>© Cross
-    Cultured Foods PBC, 2019. Food photos © Max Monn, 2019.<br>Site made with Jekyll
-    and Forestry.io.'
+  content: '<a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.
+    <br>Contact: tezzafoods [at] gmail [dot] com<br>© Cross Cultured Foods PBC, 2020.
+    Food photos © Max Monn, 2019.<br>Site made with Jekyll and Forestry.io.'
 
 ---
 foo bar
