@@ -59,7 +59,7 @@ page_sections:
       missions outshine conflicting opinions</strong>, and go slow to go fast
   col_3:
     headline: Our values for the world
-    content: We know that even big scary problems have solutions, optimists are not
+    content: We know that even big, scary problems have solutions, optimists are not
       always right but sure have more fun, and <strong>tiny drops add up to waves</strong>
 - template: signup-bar
   block: cta-bar
