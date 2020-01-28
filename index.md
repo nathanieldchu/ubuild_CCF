@@ -26,13 +26,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: a whole <strong>new cheese</strong>
-  content: A new kind of cheese is coming. No imitations, no compromises, no more
-    missing the good stuff. It's made from plants. It's creamy and melty. <strong>Above
-    all, it tastes damn good</strong>.
+  headline: taste something completely different
+  content: For thousands of years cultured foods have been discovered by accident—who
+    left the milk out? But now, we are taking the time to understand the art of microbes
+    to discover foods and flavors that go beyond where any tastebuds have gone.
   media:
-    image: "/uploads/2019/06/07/IMG_1428.jpg"
-    alt_text: cheese forward
+    image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
+    alt_text: mixed board
 - template: content-feature
   block: feature-1
   media_alignment: Right
