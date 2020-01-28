@@ -26,7 +26,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: taste something completely different
+  headline: "<strong>taste</strong> something completely different"
   content: For thousands of years cultured foods have been discovered by accident—who
     left the milk out? But now, we are taking the time to understand the art of microbes
     and discover foods and flavors that go beyond where any tastebuds have gone.
