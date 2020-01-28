@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Tezza - Home
+title: Tezza
 date: 2020-01-27T08:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
