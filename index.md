@@ -56,7 +56,7 @@ page_sections:
       money
   col_2:
     headline: Our values for us
-    content: We pursue growth through a love of learning, know that <strong>shared
+    content: We pursue growth through a love of learning, know that <strong>communal
       missions outshine conflicting opinions</strong>, and go slow to go fast
   col_3:
     headline: Our values for the world
