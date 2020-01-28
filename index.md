@@ -27,10 +27,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>taste</strong> something completely different"
-  content: For thousands of years, cultured foods have been discovered by accident—who
-    forgot about this milk from <em>last year</em>? Instead, we are taking the time
-    to understand the art of microbes to discover foods that go beyond where any tastebuds
-    have gone.
+  content: For thousands of years, cultured foods have been discovered by accident—<em>what</em>
+    is that growing on the milk? Instead, we are taking the time to understand the
+    art of microbes to discover foods that go beyond where any tastebuds have gone.
   media:
     image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
     alt_text: mixed board
