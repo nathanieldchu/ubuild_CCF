@@ -27,9 +27,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>taste</strong> something completely different"
-  content: For thousands of years cultured foods have been discovered by accident—who
-    left the milk out? We are taking the time to understand the dark art of microbes
-    to discover foods that go beyond where any tastebuds have gone.
+  content: For thousands of years, cultured foods have been discovered by accident—who
+    left the milk out? We are taking the time to understand the art of microbes to
+    discover foods that go beyond where any tastebuds have gone.
   media:
     image: "/uploads/2019/06/11/IMG_1405_crop.jpeg"
     alt_text: mixed board
@@ -39,10 +39,10 @@ page_sections:
   headline: building a more <strong>sustainable</strong> world
   content: Inspired by the natural world and driven to protect it, we set out to change
     food for the better. We work to save the world by making <strong>big flavors with
-    tiny footprints</strong>. We're a public benefit company, meaning that we baked
-    this mission into our company DNA (we're also nerds, which is why we use words
-    like DNA).<br><br><strong>Doing the right thing shouldn't have to taste like broccoli</strong>
-    (but for the record, we really like broccoli).
+    tiny footprints</strong>. We're a public benefit company, which means we baked
+    this mission into our company DNA (we're also nerds, which is why say things like
+    DNA).<br><br><strong>Doing the right thing shouldn't have to taste like broccoli</strong>
+    (but, for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: Customize Blocks
