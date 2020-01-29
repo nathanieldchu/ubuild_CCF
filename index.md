@@ -45,7 +45,7 @@ page_sections:
     (but, for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
-    alt_text: Customize Blocks
+    alt_text: The tiny world around us
 - template: 3-column-text
   block: three-column-1
   col_1:
