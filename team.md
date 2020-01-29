@@ -20,7 +20,7 @@ page_sections:
     choice.
   media:
     image: "/uploads/2019/06/10/ndc_headshot_circle_200px.png"
-    alt_text: ''
+    alt_text: Nathaniel Chu
 - template: content-feature
   block: feature-1
   media_alignment: Right
