@@ -15,7 +15,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/06/07/IMG_1489.jpg"
-  caption: ''
+  caption: Man I love tacos
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2020"
