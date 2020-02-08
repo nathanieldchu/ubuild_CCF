@@ -5,7 +5,7 @@ date: 2020-01-27T08:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/01/27/tezza_text.png"
+  logo: "/uploads/2020/02/08/tezza_tm.png"
   navigation: []
   cta:
     url: https://www.tezzafoods.com/contact
@@ -67,9 +67,9 @@ page_sections:
   email_recipient: crossculturedfoods@gmail.com
 - template: simple-footer
   block: footer-1
-  content: '<a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.
-    <br>Contact: tezzafoods [at] gmail [dot] com<br>© Cross Cultured Foods PBC, 2020.
-    Food photos © Max Monn, 2019.<br>Site made with Jekyll and Forestry.io.'
+  content: '<a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.<br>Contact:
+    tezzafoods [at] gmail [dot] com<br>© Cross Cultured Foods PBC, 2020. Food photos
+    © Max Monn, 2019.<br>Site made with Jekyll and Forestry.io.'
 
 ---
 foo bar
