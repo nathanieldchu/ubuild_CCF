@@ -30,7 +30,6 @@ instant_preview: true
 build:
   preview_env:
   - JEKYLL_ENV=staging
-  - RUBY_VERSION=2.6.1
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
