@@ -3,7 +3,7 @@ title: foods with culture
 author: Forestry.io, Cross Cultured Foods PBC
 email: tezzafoods@gmail.com
 description: Tezza foods website
-baseurl: "/"
+baseurl: ''
 url: ''
 defaults:
 - scope:
