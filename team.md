@@ -39,6 +39,6 @@ page_sections:
     alt_text: ''
 - template: simple-footer
   block: footer-1
-  content: "© Cross Cultured Foods PBC, 2019"
+  content: "© Cross Cultured Foods PBC, 2020"
 
 ---
