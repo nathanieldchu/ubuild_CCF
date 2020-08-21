@@ -49,21 +49,6 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Our values for you
-    content: We choose <strong>shared, lasting well-being over short-term gains</strong>;
-      openness and partnership over concealment and competition; and mission over
-      money
-  col_2:
-    headline: Our values for us
-    content: We pursue growth through a love of learning, know that <strong>communal
-      missions outshine conflicting opinions</strong>, and go slow to go fast
-  col_3:
-    headline: Our values for the world
-    content: We know that even big, scary problems have solutions, optimists are not
-      always right but sure have more fun, and <strong>tiny drops add up to waves</strong>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
     headline: Our Values
     content: ''
   col_2:
@@ -80,11 +65,6 @@ page_sections:
   block: cta-bar
   content: Want updates about our progress?
   email_recipient: crossculturedfoods@gmail.com
-- template: simple-footer
-  block: footer-1
-  content: '<a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.<br>Contact:
-    tezzafoods@gmail.com<br>© Cross Cultured Foods PBC, 2020. Food photos © Max Monn,
-    2019.<br>Site made with Jekyll and Forestry.io.'
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2020/02/08/tezza_tm.png"
