@@ -61,6 +61,21 @@ page_sections:
     headline: Our values for the world
     content: We know that even big, scary problems have solutions, optimists are not
       always right but sure have more fun, and <strong>tiny drops add up to waves</strong>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Our Values
+    content: ''
+  col_2:
+    headline: Give a damn
+    content: Care about what you do, care about how you do it, care about the people
+      you do it with, and care about everything that allows you to be alive and give
+      a $%!+ in the first place
+  col_3:
+    headline: Savor every bite
+    content: No matter your beliefs, you likely acknowledge that you only get to live
+      this life once. Bask in the sun. Give hugs and high-fives. Come sit at the table
+      with family and friends. Savor every bite.
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
@@ -70,6 +85,13 @@ page_sections:
   content: '<a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.<br>Contact:
     tezzafoods@gmail.com<br>© Cross Cultured Foods PBC, 2020. Food photos © Max Monn,
     2019.<br>Site made with Jekyll and Forestry.io.'
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
+published: false
 
 ---
 foo bar
