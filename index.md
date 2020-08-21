@@ -59,7 +59,7 @@ page_sections:
   col_3:
     headline: Savor every bite
     content: No matter your beliefs, you likely acknowledge that you only get to live
-      this life once. Bask in the sun. Give hugs and high-fives. Come sit at the table
+      this life once. Bask in the sun. Give hugs and high-fives. Sit at the table
       with family and friends. Savor every bite.
 - template: signup-bar
   block: cta-bar
