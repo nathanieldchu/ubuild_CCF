@@ -68,7 +68,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: <a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a>.<br><br>
+  col_2: <a href="http://www.tezzafoods.com/team" title="Team">About Our Team</a><br><br>
   col_3: 'Contact: tezzafoods@gmail.com'
   col_4: "© Cross Cultured Foods PBC, 2020. Food photos © Max Monn, 2019.<br>Site
     made with Jekyll and Forestry.io."
