@@ -41,7 +41,7 @@ page_sections:
     food for the better. We work to save the world by making <strong>big flavors with
     tiny footprints</strong>. We're a public benefit company, which means we baked
     this mission into our company DNA (we're also nerds, which is why we say things
-    like DNA).<br><br><strong>Doing the right thing shouldn't have to taste like broccoli</strong>
+    like DNA).<br><br><strong>Sustainability shouldn't have to taste like broccoli</strong>
     (but, for the record, we really like broccoli).
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
