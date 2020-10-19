@@ -55,7 +55,7 @@ page_sections:
     headline: Give a damn
     content: Care about what you do, care about how you do it, care about the people
       you do it with, and care about everything that allows you to be alive and give
-      a $%!+ in the first place
+      a $%!+ in the first place.
   col_3:
     headline: Savor every bite
     content: No matter your beliefs, you likely acknowledge that you only get to live
