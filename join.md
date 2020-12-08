@@ -76,5 +76,34 @@ page_sections:
     this long, we are indecently excited to get to know you more. Please, send us
     an email at tezzafoods@gmail.com. If we don’t have a job for you now, then we’ll
     make sure that we come running as soon as that changes.'
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Who are you?
+    content: ''
+  col_2:
+    content: So your mission and vision aligns with ours. The overlap in our core
+      values and the characteristics you strive for is uncanny. This is going great!
+      We’ve passed the one-drink sniff test and you’ve decided not to pretend that
+      you got a text from your friend so you could ditch us. It’s time to ask more
+      awkward questions.
+    headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Do you love the steep end of the learning curve?
+    content: ''
+  col_2:
+    content: 'What sounds like more fun to you:<br><br>1. Being the expert in something
+      and a company’s go-to resource for that thing. You crush it all day long.<br>2.
+      Continually dreaming up new ideas, getting totally lost, reading 100 wikipedia
+      articles that you never would have guessed existed, figuring out how to turn
+      your idea into reality, building a first version from scratch and duck tape,
+      building another that you are so proud of, and then repeating all of that.<br><br>If
+      the second one sounds like your jam, then we might be a good fit. We put equal
+      value on expertise and open-minded ignorance. We love learning new topics, building
+      new systems, and making real stuff. Few things are as exciting to us as doing
+      something scary and new. Speaking of scary:'
+    headline: ''
 
 ---
