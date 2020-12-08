@@ -9,6 +9,15 @@ page_sections:
   navigation:
   - link: https://www.tezzafoods.com/
     link_text: HOME
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: vision
+  content: On every menu, aisle, and table, the most exciting foods are also the most
+    sustainable
+  media:
+    image: ''
+    alt_text: ''
 published: false
 
 ---
