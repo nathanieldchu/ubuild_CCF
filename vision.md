@@ -13,8 +13,9 @@ page_sections:
     link_text: HOME
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  content: ''
+  headline: vision
+  content: On every menu, aisle, and table, the most exciting foods are also the most
+    sustainable
 - template: 1-column-text
   block: one-column-1
   headline: ''
