@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/02/08/tezza_tm.png"
   navigation:
   - link: https://www.tezzafoods.com/
-    link_text: home
+    link_text: HOME
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/01/27/tezza_text.png"
