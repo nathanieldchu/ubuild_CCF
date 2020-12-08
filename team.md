@@ -34,12 +34,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: You!!
-  content: Do you want to create new foods that people love? Do you get indecently
-    excited when talking about sustainability, food, branding, or microbiology? Join
-    us!! We're always looking for partners with diverse perspectives but shared missions
-    and values who want to combine forces. Connect with us at tezzafoods [at] gmail
-    [dot] com
+  headline: You
+  content: Do you want to create new foods that people love? Do you get excited when
+    talking about sustainability, food, branding, or microbiology? Take a look at
+    our <a href="https://www.tezzafoods.com/values" title="">values</a> and <a href="https://www.tezzafoods.com/join"
+    title="">culture</a>, and reach out to us if you feel inspired.
   media:
     image: ''
     alt_text: ''
