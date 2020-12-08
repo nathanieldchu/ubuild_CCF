@@ -67,5 +67,56 @@ page_sections:
       goals. To you, nothing is more satisfying than coming out the other side, saying
       “Wow, we survived! I can’t believe it! What’s next?”
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Are you a little weird?
+    content: ''
+  col_2:
+    content: 'Normal people don’t like type II fun, and if you are a distinctly normal
+      person, you probably aren’t going to like it here. We push boundaries: political,
+      social, scientific, culinary, etc. Our moral compasses can create odd, occasionally
+      fanatic behavior. We might have a draw full of used plastic bags. We might bike
+      to work even though it’s 90F or raining. We’ve considered taking a train for
+      an outrageously inconvenient distance. We relish breaking traditions or social
+      norms in order to do the right thing or to do something well.<br><br>Our weirdness
+      also comes across as a bit campy, less Rocky Horror Picture Show, more summer,
+      band, or jewish. We aren’t afraid to look like idiots, since we usually act
+      like idiots cause life is more fun that way. We are willing to ask awkward questions,
+      share too much information, and build relationships quickly. We would rather
+      play tag in the mud than wear suits in a conference room. We believe that a
+      group of people with a goal and a safe space can change everyone’s life and
+      the world and can say that without rolling our eyes (that much).'
+    headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Do you scorn money and power?
+    content: ''
+  col_2:
+    content: If you want money, work in finance. If you want power, management consulting
+      is a no-brainer. If you want to join a Silicon Valley startup with glossy offices,
+      trendy swag, and fancy cars parked outside, there are many great options.<br><br>If
+      you are here, be here because of the mission. Be here to work with other nerds
+      excited about the same problems as you. Be here because you feel confident that
+      everyone bottom to top wants to use dollars and power to fulfill the mission,
+      not the pockets of nameless rich people. We want to value people not because
+      of their fancy degrees, but because of what they bring to the company in heart
+      and mind. Unless things go to crap, everyone here will make plenty of money
+      to be secure, and we don’t abstain from things that bring us joy (see Savor
+      Every Bite). But if you wear alligator leather shoes, this is probably a bad
+      fit.
+    headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Who are we?
+    content: ''
+  col_2:
+    content: If you’ve stuck around this long, we are indecently excited to get to
+      know you more. Please, send us an email at tezzafoods@gmail.com. If we don’t
+      have a job for you now, then we’ll make sure that we come running as soon as
+      that changes.
+    headline: ''
 
 ---
