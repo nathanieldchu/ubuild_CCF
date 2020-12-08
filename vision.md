@@ -18,8 +18,9 @@ page_sections:
     sustainable
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  content: ''
+  headline: mission
+  content: To get people excited to eat sustainably by crafting cultured foods that
+    tap into the diversity of the microbial world
 published: false
 
 ---
