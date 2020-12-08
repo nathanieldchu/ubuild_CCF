@@ -9,11 +9,24 @@ page_sections:
   navigation:
   - link: https://www.tezzafoods.com/
     link_text: HOME
-- template: 1-column-text
-  block: one-column-1
-  headline: vision
-  content: On every menu, aisle, and table, the most exciting foods are also the most
-    sustainable
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: VISION
+    content: ''
+  col_2:
+    content: On every menu, aisle, and table, the most exciting foods are also the
+      most sustainable
+    headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: MISSION
+    content: ''
+  col_2:
+    content: To get people excited to eat sustainably by crafting cultured foods that
+      tap into the diversity of the microbial world
+    headline: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -34,15 +47,6 @@ page_sections:
       most valuable things you will ever give or get. Give them thoughtfully, and
       receive them gratefully.<br><br><strong>Savor every bite</strong>. Have fun
       and take care of yourself. You have one life; bask in it."
-    headline: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: MISSION
-    content: ''
-  col_2:
-    content: To get people excited to eat sustainably by crafting cultured foods that
-      tap into the diversity of the microbial world
     headline: ''
 
 ---
