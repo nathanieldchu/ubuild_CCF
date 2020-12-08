@@ -2,7 +2,7 @@
 block: header-3
 logo: "/uploads/2020/02/08/tezza_tm.png"
 layout: blocks
-title: Join the mission
+title: values
 date: 2020-12-08 08:00:00 +0000
 page_sections:
 - template: navigation-header
@@ -42,7 +42,6 @@ page_sections:
   block: one-column-1
   headline: does this sound like you?
   content: 'If you answered with a "YES!", reach out to us. tezzafoods@gmail.com '
-published: false
 
 ---
 # Who we are
