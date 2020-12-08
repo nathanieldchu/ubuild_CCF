@@ -9,9 +9,6 @@ page_sections:
   navigation:
   - link: https://www.tezzafoods.com/
     link_text: HOME
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/01/27/tezza_text.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
