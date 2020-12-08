@@ -18,6 +18,15 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: mission
+  content: To get people excited to eat sustainably by crafting cultured foods that
+    tap into the diversity of the microbial world
+  media:
+    image: ''
+    alt_text: ''
 published: false
 
 ---
