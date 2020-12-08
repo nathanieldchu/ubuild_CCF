@@ -46,21 +46,6 @@ page_sections:
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: The tiny world around us
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Our Values
-    content: ''
-  col_2:
-    headline: Give a damn
-    content: Care about what you do, care about how you do it, care about the people
-      you do it with, and care about everything that allows you to be alive and give
-      a $%!+ in the first place.
-  col_3:
-    headline: Savor every bite
-    content: No matter your beliefs, you likely acknowledge that you only get to live
-      this life once. Bask in the sun. Give hugs and high-fives. Sit at the table
-      with family and friends. Savor every bite.
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
