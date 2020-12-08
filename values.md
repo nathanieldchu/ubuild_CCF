@@ -35,6 +35,5 @@ page_sections:
       receive them gratefully.<br><br><strong>Savor every bite</strong>. Have fun
       and take care of yourself. You have one life; bask in it."
     headline: ''
-published: false
 
 ---
