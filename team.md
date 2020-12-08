@@ -3,6 +3,10 @@ layout: blocks
 title: Team
 date: 2019-06-10T07:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/02/08/tezza_tm.png"
+  navigation: []
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/01/27/tezza_text.png"
