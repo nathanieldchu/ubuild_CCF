@@ -1,6 +1,18 @@
 ---
 block: header-3
 logo: "/uploads/2020/02/08/tezza_tm.png"
+layout: blocks
+title: Join the mission
+date: 2020-12-08 08:00:00 +0000
+page_sections:
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
 published: false
 
 ---
