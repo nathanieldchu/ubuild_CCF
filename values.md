@@ -35,5 +35,14 @@ page_sections:
       receive them gratefully.<br><br><strong>Savor every bite</strong>. Have fun
       and take care of yourself. You have one life; bask in it."
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: MISSION
+    content: ''
+  col_2:
+    content: To get people excited to eat sustainably by crafting cultured foods that
+      tap into the diversity of the microbial world
+    headline: ''
 
 ---
