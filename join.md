@@ -118,5 +118,8 @@ page_sections:
       have a job for you now, then we’ll make sure that we come running as soon as
       that changes.
     headline: ''
+- template: simple-footer
+  block: footer-1
+  content: "© Cross Cultured Foods PBC, 2020"
 
 ---
