@@ -2,7 +2,7 @@
 block: header-3
 logo: "/uploads/2020/02/08/tezza_tm.png"
 layout: blocks
-title: values
+title: Values
 date: 2020-12-08 08:00:00 +0000
 page_sections:
 - template: navigation-header
