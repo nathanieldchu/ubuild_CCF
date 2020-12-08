@@ -50,6 +50,6 @@ page_sections:
     headline: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: "© Cross Cultured Foods PBC, 2020"
 
 ---
