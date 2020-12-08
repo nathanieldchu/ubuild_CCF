@@ -12,7 +12,7 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: VISION
+    headline: Vision
     content: ''
   col_2:
     content: On every menu, aisle, and table, the most exciting foods are also the
@@ -21,7 +21,7 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: MISSION
+    headline: Mission
     content: ''
   col_2:
     content: To get people excited to eat sustainably by crafting cultured foods that
@@ -30,7 +30,7 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: values
+    headline: Values
     content: ''
   col_2:
     content: "<strong>Give a shit</strong>. Care about what you do, care about how
