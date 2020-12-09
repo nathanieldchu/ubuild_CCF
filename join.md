@@ -73,19 +73,19 @@ page_sections:
     content: ''
   col_2:
     content: 'Normal people don’t like type II fun, and if you are a distinctly normal
-      person, you probably aren’t going to like it here. We push boundaries: political,
-      social, scientific, culinary, etc. Our moral compasses can create odd, occasionally
-      fanatic behavior. We might have a draw full of used plastic bags. We might bike
-      to work even though it’s 90F or raining. We’ve considered taking a train for
-      an outrageously inconvenient distance. We relish breaking traditions or social
-      norms in order to do the right thing or to do something well.<br><br>Our weirdness
-      also comes across as a bit campy, less Rocky Horror Picture Show, more summer,
-      band, or jewish. We aren’t afraid to look like idiots, since we usually act
-      like idiots cause life is more fun that way. We are willing to ask awkward questions,
-      share too much information, and build relationships quickly. We would rather
-      play tag in the mud than wear suits in a conference room. We believe that a
-      group of people with a goal and a safe space can change everyone’s life and
-      the world and can say that without rolling our eyes (that much).'
+      person, you probably aren’t going to like it here. We push boundaries: social,
+      scientific, culinary, and more. Our moral compasses can create odd, occasionally
+      fanatic behavior. We may have a draw full of used plastic bags. We may bike
+      to work even though it’s 90 degrees outside. We have taken trains for outrageously
+      inconvenient distances. We relish breaking traditions or social norms to do
+      the right thing or to do something well.<br><br>Our weirdness also comes across
+      as a bit campy, less Rocky Horror Picture Show, more summer-campy/band-campy.
+      We aren’t afraid to look like idiots, since we usually act like idiots because
+      life is more fun that way. We are willing to ask awkward questions, share too
+      much information, and build relationships quickly. We would rather play tag
+      in the mud than wear suits in a conference room. We believe that a group of
+      people with a goal and a safe space can change everyone’s life and the world
+      and can say that without rolling our eyes (that much).'
     headline: ''
 - template: 2-column-text
   block: two-column-1
