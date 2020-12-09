@@ -15,8 +15,8 @@ page_sections:
     headline: Vision
     content: ''
   col_2:
-    content: On every menu, aisle, and table, the most exciting foods are also the
-      most sustainable
+    content: On every menu, grocery shelf, and table, the most exciting foods are
+      also the most sustainable
     headline: ''
 - template: 2-column-text
   block: two-column-1
