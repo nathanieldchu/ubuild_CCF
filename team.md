@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: https://www.tezzafoods.com/
     link_text: HOME
+  - link_text: VALUES
+    link: https://www.tezzafoods.com/values
 - template: content-feature
   block: feature-1
   media_alignment: Right
