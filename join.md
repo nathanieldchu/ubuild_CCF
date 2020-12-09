@@ -68,7 +68,7 @@ page_sections:
       want to push yourself or at least you want to want to push yourself. You may
       even enjoy some of the feelings (fear, intimidation) that you associate with
       these goals. To you, nothing is more satisfying than coming out the other side,
-      saying, “Wow, we survived! I can’t believe it! What’s next?”
+      saying, “Holy crap, we survived! I can’t believe it! What’s next?”
     headline: ''
 - template: 2-column-text
   block: two-column-1
