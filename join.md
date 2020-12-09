@@ -111,10 +111,9 @@ page_sections:
     headline: Who are we?
     content: ''
   col_2:
-    content: If you’ve stuck around this long, we are indecently excited to get to
-      know you more. Please, send us an email at tezzafoods@gmail.com. If we don’t
-      have a job for you now, then we’ll make sure that we come running as soon as
-      that changes.
+    content: If you’ve stuck around this long, we are very excited to get to know
+      you. Please email us at tezzafoods@gmail.com. If we don’t have a job for you
+      now, then we’ll make sure that we come running as soon as we do.
     headline: ''
 - template: simple-footer
   block: footer-1
