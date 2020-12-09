@@ -79,11 +79,11 @@ page_sections:
     content: 'Normal people don’t like type II fun, and if you are a distinctly normal
       person, you probably aren’t going to like it here. We push boundaries: social,
       scientific, culinary, and more. Our moral compasses can create odd, occasionally
-      fanatic behavior. We may have a draw full of used plastic bags. We may bike
+      fanatic behavior. We may have a drawer full of used plastic bags. We may bike
       to work even though it’s 95 degrees outside. We may have taken trains for outrageously
       inconvenient distances. We relish breaking traditions or social norms to do
       the right thing or to do something well.<br><br>Our weirdness also comes across
-      as a bit campy, less Rocky Horror Picture Show, more summer-campy/band-campy.
+      as a bit campy, less <em>Rocky Horror Picture Show</em>, more summer-campy/band-campy.
       We aren’t afraid to look like idiots, since we usually act like idiots because
       life is more fun that way. We are willing to ask awkward questions, share too
       much information, and build relationships quickly. We would rather play tag
