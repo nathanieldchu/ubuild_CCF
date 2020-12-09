@@ -46,25 +46,25 @@ page_sections:
     content: In mountaineering, there are three types of fun:<br><br><strong>Type
       I Fun</strong>—also known as “fun” by normal people—is activities that are fun
       in the moment. Eating at your favorite restaurant. Seeing a surprise hit movie
-      with your friends. Reading Harry Potter. Outdoor activities with great conditions
-      (no bugs, deep powder) and mild objectives (alpine lake swimming, climbing hand
-      cracks, fishing).<br><strong>Type II Fun</strong> sucks in the moment, or it’s
-      at least hard. It is painful, you are hungry and tired, and you were not prepared.
-      You actually might die. Shit, are we going to die? But somehow you make it out,
-      and in the rosy glow of hindsight you declare, “Wow what a great experience!
-      I learned so much about myself and the world! We did it!” Overzealous alpine
-      objectives, your first break-up, having children. In its highest form, type
-      II fun is when you feel in your heart like everything is going to shit (imposter
-      syndrome, breaking norms, pushing yourself to the limit), but you know in your
-      head you are safe.<br><strong>Type III Fun</strong> is not fun ever. It’s awful
-      during the process and never redeeming afterwards. Going to the DMV. Running
-      through the twinge in your knee only to be in crutches for the next 6 months.
-      Irreversible emotional damage from trauma. Avoid.<br><br>Type I fun is great
-      sometimes. But to find a home at Tezza, you need to love type II fun. You want
-      to push yourself or at least you want to want to push yourself. You may even
-      enjoy some of the feelings (fear, intimidation) that you associate with these
-      goals. To you, nothing is more satisfying than coming out the other side, saying
-      “Wow, we survived! I can’t believe it! What’s next?”
+      with your friends. Reading <em>Harry Potter</em>. Outdoor activities with great
+      conditions (no bugs, deep powder) and mild objectives (alpine lake swimming,
+      climbing hand cracks, fishing).<br><strong>Type II Fun</strong> sucks in the
+      moment, or it’s at least hard. It is painful, you are hungry and tired, and
+      you were not prepared. You might die. Shit, are we going to die? But somehow
+      you make it out, and in the rosy glow of hindsight you declare, “Wow what a
+      great experience! I learned so much about myself and the world! We did it!”
+      Overzealous alpine objectives, your first breakup, having children. In its highest
+      form, type II fun is when you feel in your heart like everything is going to
+      implode (imposter syndrome, social rejection, pushing yourself to the limit),
+      but you know in your head you are safe.<br><strong>Type III Fun</strong> is
+      not fun, ever. It’s awful during the process and never redeeming after. Going
+      to the DMV. Running through the twinge in your knee only to be in crutches for
+      the next six months. Irreversible emotional damage from trauma. Avoid.<br><br>Type
+      I fun is great. But to find a home at Tezza, you need to love type II fun. You
+      want to push yourself or at least you want to want to push yourself. You may
+      even enjoy some of the feelings (fear, intimidation) that you associate with
+      these goals. To you, nothing is more satisfying than coming out the other side,
+      saying, “Wow, we survived! I can’t believe it! What’s next?”
     headline: ''
 - template: 2-column-text
   block: two-column-1
