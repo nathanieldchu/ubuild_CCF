@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: https://www.tezzafoods.com/
     link_text: HOME
+  - link: https://www.tezzafoods.com/team
+    link_text: TEAM
 - template: 2-column-text
   block: two-column-1
   col_1:
