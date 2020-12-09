@@ -98,13 +98,12 @@ page_sections:
       trendy swag, and fancy cars parked outside, there are many great options.<br><br>If
       you are here, be here because of the mission. Be here to work with other nerds
       excited about the same problems as you. Be here because you feel confident that
-      everyone bottom to top wants to use dollars and power to fulfill the mission,
+      everyone, bottom to top, wants to use dollars and power to fulfill the mission,
       not the pockets of nameless rich people. We want to value people not because
       of their fancy degrees, but because of what they bring to the company in heart
-      and mind. Unless things go to crap, everyone here will make plenty of money
-      to be secure, and we don’t abstain from things that bring us joy (see Savor
-      Every Bite). But if you wear alligator leather shoes, this is probably a bad
-      fit.
+      and mind. Unless things go to crap, everyone here will make plenty enough money,
+      and we don’t abstain from things that bring us joy (savor every bite). But if
+      you wear alligator leather shoes, Tezza is probably a bad fit.
     headline: ''
 - template: 2-column-text
   block: two-column-1
