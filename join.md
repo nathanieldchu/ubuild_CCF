@@ -26,14 +26,14 @@ page_sections:
     headline: Do you love the steep end of the learning curve?
     content: ''
   col_2:
-    content: 'What sounds like more fun to you:<br><br><strong>Being the expert</strong>
+    content: 'What sounds like more fun:<br><br><strong>Being the expert</strong>
       in something and a company’s go-to resource for that thing. You crush it all
-      day long.<br><strong>Continually dreaming</strong> up new ideas, getting totally
-      lost, reading 100 wikipedia articles that you never would have guessed existed,
+      day long.<br><strong>Constantly dreaming</strong> up new ideas, getting totally
+      lost, reading 100 Wikipedia articles that you never would have guessed existed,
       figuring out how to turn your idea into reality, building a first version from
-      scratch and duck tape, building another that you are so proud of, and then repeating
-      all of that.<br><br>If the second one sounds like your jam, then we might be
-      a good fit. We put equal value on expertise and open-minded ignorance. We love
+      scratch and duct tape, building another that you are so proud of, and then repeating
+      all of it.<br><br>If the second one sounds like your jam, then we might be a
+      good fit. We put equal value on expertise and open-minded ignorance. We love
       learning new topics, building new systems, and making real stuff. Few things
       are as exciting to us as doing something scary and new. Speaking of scary:'
     headline: ''
