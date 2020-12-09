@@ -24,8 +24,8 @@ page_sections:
     headline: Mission
     content: ''
   col_2:
-    content: To get people excited to eat sustainably by crafting cultured foods that
-      tap into the diversity of the microbial world
+    content: To excite people about eating sustainably by crafting cultured foods
+      that tap into the diversity of the microbial world
     headline: ''
 - template: 2-column-text
   block: two-column-1
