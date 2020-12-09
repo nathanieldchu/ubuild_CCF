@@ -19,10 +19,10 @@ page_sections:
     headline: Who are you?
     content: ''
   col_2:
-    content: So your mission and vision align with ours. The overlap in our core values
-      and yours is uncanny. This is going great! We’ve passed the one-drink sniff
-      test and you’ve decided not to pretend that you got a text from your friend
-      so you could ditch us. It’s time to ask more-awkward questions.
+    content: So your mission and vision align with ours. The overlap in our <a href="https://www.tezzafoods.com/values"
+      title="">core values</a> and yours is uncanny. This is going great! We’ve passed
+      the one-drink sniff test and you’ve decided not to pretend that you got a text
+      from your friend so you could ditch us. It’s time to ask more-awkward questions.
     headline: ''
 - template: 2-column-text
   block: two-column-1
