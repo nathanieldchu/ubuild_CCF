@@ -11,6 +11,8 @@ page_sections:
     link_text: HOME
   - link: https://www.tezzafoods.com/team
     link_text: TEAM
+  - link: https://www.tezzafoods.com/values
+    link_text: VALUES
 - template: 2-column-text
   block: two-column-1
   col_1:
