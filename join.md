@@ -55,7 +55,7 @@ page_sections:
       climbing hand cracks, fishing).<br><strong>Type II Fun</strong> sucks in the
       moment, or it’s at least hard. It is painful, you are hungry and tired, and
       you were not prepared. You might die. Shit, are we going to die? But somehow
-      you make it out, and in the rosy glow of hindsight you declare, “Wow what a
+      you make it out, and in the rosy glow of hindsight you declare, “Wow, what a
       great experience! I learned so much about myself and the world! We did it!”
       Overzealous alpine objectives, your first breakup, having children. In its highest
       form, type II fun is when you feel in your heart like everything is going to
