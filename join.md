@@ -88,8 +88,8 @@ page_sections:
       more fun that way. We are willing to ask awkward questions, share too much information,
       and build relationships quickly. We would rather play tag in the mud than wear
       suits in a conference room. We believe that a group of people with a goal and
-      a safe space can change everyone’s life and the world, and we can say that without
-      rolling our eyes (that much).'
+      a safe space can change the world, and we can say that without rolling our eyes
+      (that much).'
     headline: ''
 - template: 2-column-text
   block: two-column-1
