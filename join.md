@@ -80,16 +80,16 @@ page_sections:
       person, you probably aren’t going to like it here. We push boundaries: social,
       scientific, culinary, and more. Our moral compasses can create odd, occasionally
       fanatic behavior. We may have a drawer full of used plastic bags. We may bike
-      to work even though it’s 95 degrees outside. We may have taken trains for outrageously
-      inconvenient distances. We relish breaking traditions or social norms to do
-      the right thing or to do something well.<br><br>Our weirdness also comes across
-      as a bit campy, less <em>Rocky Horror Picture Show</em>, more summer-campy/band-campy.
-      We aren’t afraid to look like idiots, since we usually act like idiots because
-      life is more fun that way. We are willing to ask awkward questions, share too
-      much information, and build relationships quickly. We would rather play tag
-      in the mud than wear suits in a conference room. We believe that a group of
-      people with a goal and a safe space can change everyone’s life and the world,
-      and we can say that without rolling our eyes (that much).'
+      to work even though it’s dumping rain. We may take trains for outrageously inconvenient
+      distances. We relish breaking traditions or social norms to do the right thing
+      or to do something well.<br><br>Our weirdness also comes across as a bit campy,
+      less <em>Rocky Horror Picture Show</em>, more summer-campy/band-campy. We aren’t
+      afraid to look like idiots, since we usually act like idiots because life is
+      more fun that way. We are willing to ask awkward questions, share too much information,
+      and build relationships quickly. We would rather play tag in the mud than wear
+      suits in a conference room. We believe that a group of people with a goal and
+      a safe space can change everyone’s life and the world, and we can say that without
+      rolling our eyes (that much).'
     headline: ''
 - template: 2-column-text
   block: two-column-1
