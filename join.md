@@ -122,6 +122,6 @@ page_sections:
     headline: ''
 - template: simple-footer
   block: footer-1
-  content: "© Cross Cultured Foods PBC, 2020"
+  content: "© Cross Cultured Foods PBC, 2021"
 
 ---
