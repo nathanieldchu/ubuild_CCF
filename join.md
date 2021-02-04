@@ -114,11 +114,8 @@ page_sections:
     content: ''
   col_2:
     content: If you’ve stuck around this long, we are very excited to get to know
-      you. Please email us at join@tezzafoods.com. With a response to the following
-      prompt:<br><br>Tell us a story of a time when a significant emotional/physical/spiritual
-      challenge fundamentally changed who you are, how you think, or how you relate
-      to the world.<br><br>If we don’t have a job for you now, then we’ll make sure
-      that we come running as soon as we do.
+      you. Please email us at join@tezzafoods.com. If we don’t have a job for you
+      now, then we’ll make sure that we come running as soon as we do.
     headline: ''
 - template: simple-footer
   block: footer-1
