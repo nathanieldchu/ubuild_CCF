@@ -1,15 +1,13 @@
 ---
 title: foods with culture
 author: Cross Cultured Foods PBC
-email: tezzafoods@gmail.com
+email: info@tezzafoods.com
 description: Tezza foods website
 baseurl: ''
 url: ''
 defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
+- scope: ''
+  values: ''
 markdown: kramdown
 gems:
 - jekyll-feed
