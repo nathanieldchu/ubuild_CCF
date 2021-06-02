@@ -5,8 +5,12 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/12/08/tezza_tm_8in.png"
+  navigation:
+  - link: https://www.tezzafoods.com/
+    link_text: HOME
+  - link: https://www.tezzafoods.com/values
+    link_text: VALUES
 - template: 2-column-text
   block: two-column-1
   col_1:
