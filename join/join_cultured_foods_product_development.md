@@ -37,6 +37,5 @@ page_sections:
       a public benefit corporation, meaning that we are culturally and legally obligated
       to put our mission over money.
     headline: ''
-published: false
 
 ---
