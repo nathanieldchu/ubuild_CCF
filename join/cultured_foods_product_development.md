@@ -43,5 +43,17 @@ page_sections:
       a public benefit corporation, meaning that we are culturally and legally obligated
       to put our mission over money.
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: What makes a good match?
+    content: ''
+  col_2:
+    content: Take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
+      title="Values">mission and values</a>. Do you feel like you are willing to fight
+      for them? Then ask yourself our <a href="https://www.tezzafoods.com/join" title="Join">cultural
+      questions</a>. Do they fit? These criteria are more important to us than position-specific
+      qualifications.
+    headline: ''
 
 ---
