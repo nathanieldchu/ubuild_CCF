@@ -8,8 +8,8 @@ page_sections:
   logo: "/uploads/2020/02/08/tezza_tm.png"
   navigation: []
   cta:
-    url: https://www.tezzafoods.com/contact
-    button_text: WORK WITH US
+    url: https://www.tezzafoods.com/join
+    button_text: JOIN THE COLONY
 - template: hero-banner-w-image
   block: hero-2
   headline: a <strong>new world</strong> of cheese
