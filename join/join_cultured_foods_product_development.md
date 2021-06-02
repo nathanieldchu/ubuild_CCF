@@ -11,6 +11,9 @@ page_sections:
   block: two-column-1
   col_1:
     headline: About you
+    content: ''
+  col_2:
+    headline: ''
     content: You want to fight ecological destruction. You also want to be a part
       of the fast-paced, passion-driven world of startups. But you are looking for
       people who care about sustainability as more than window-dressing for private
@@ -18,9 +21,6 @@ page_sections:
       prefer to get your hands dirty rather than stare at a computer screen. You love
       to tinker, make great food, work efficiently, maintain clear notes, and keep
       things orderly and clean.
-  col_2:
-    headline: ''
-    content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
