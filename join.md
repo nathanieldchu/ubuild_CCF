@@ -14,7 +14,7 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: Who are you?
+    headline: About you
     content: ''
   col_2:
     content: So your mission and vision align with ours. The overlap in our <a href="https://www.tezzafoods.com/values"
