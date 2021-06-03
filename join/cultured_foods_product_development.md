@@ -57,6 +57,21 @@ page_sections:
     to pursue our mission</p></li></ul>"
 - template: detail-content
   block: text-1
+  headline: What do you get out of it?
+  content: "<ul><li><p>Be a part of a startup that gives a shit about things that
+    aren’t money</p></li><li><p>Work on global sustainability problems via a hands-on,
+    tasty product</p></li><li><p>Large growth potential in different areas (management,
+    research, operations, manufacturing, branding, etc)</p></li><li><p>Equity ownership
+    and equal opportunity profit sharing over time </p></li><li><p>Base pay will be
+    lower than you would get at established companies or traditional startups without
+    a sustainability mission. We will make sure you get paid more than you need, you’ll
+    know where you stand relative to everyone else, and you’ll know the money is going
+    to the mission, not CEO sports cars.</p></li><li><p>Learn about different aspects
+    of building an early-stage (first hires) startup</p></li><li><p>We will work with
+    you to craft a learning plan to achieve your personal and career goals, at Tezza
+    or elsewhere</p></li></ul>"
+- template: detail-content
+  block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
     basis of race, religion, color, national origin, gender, sexual orientation, age,
     marital status, veteran status or disability status. But we acknowledge that we
