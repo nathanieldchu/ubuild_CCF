@@ -86,5 +86,32 @@ page_sections:
       (first hires) startup<br>7. We will work with you to craft a learning plan to
       achieve your personal and career goals, at Tezza or elsewhere.
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Initial trial period
+    content: ''
+  col_2:
+    content: All new hires are brought on as full-time consultants for three months
+      so that both parties can evaluate fit. After that period, a decision on joining
+      Tezza will be made together with the full team. If the fit is not quite right,
+      all candidates will be supported in finding a better home.
+    headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Qualifications
+    content: ''
+  col_2:
+    content: None of these are as important as the cultural factors. But one or more
+      of the following is probably useful:<br>1. BA/BS or MA/MS in a science with
+      experience doing research<br>2. Experience working in food production, food
+      development, or consumer products<br>3. Experience building, making, or creating
+      something over a long term<br>4. So much conviction that you figure out how
+      to make it work<br><br>Two requirements are:<br>1. Willing to work very short
+      hours on occasional weekends to take care of certain types of cheeses (this
+      responsibility is shared among the team)<br>2. Excited to do hands-on, detail
+      oriented, manual and cerebral work
+    headline: ''
 
 ---
