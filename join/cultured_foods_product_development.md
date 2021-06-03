@@ -91,6 +91,20 @@ page_sections:
     and cerebral work</p></li></ul>"
 - template: detail-content
   block: text-1
+  headline: If excited about the job, what should you do?
+  content: "<p>We build relationships thoughtfully, and this approach takes time.
+    Over multiple conversations, we will seek to understand how we can support you—and
+    whether that support involves joining our team—and hopefully you will find out
+    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p>To
+    apply, please email join@tezzafoods.com with a resume and responses to the following
+    prompts:</p><ol><li><p>What motivates you right now? When you think about your
+    short life, what motivates you for the long term? And most important, why?</p></li><li><p>Tell
+    us a story about a time that you took a big risk. How did that decision and its
+    aftermath shape who you are and how you navigate the world?</p></li><li><p>What
+    is one idea in the sustainability movement that you think is clever? What is one
+    that you think is dubious? Why?</p></li></ol>"
+- template: detail-content
+  block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
     basis of race, religion, color, national origin, gender, sexual orientation, age,
     marital status, veteran status or disability status. But we acknowledge that we
