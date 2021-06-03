@@ -29,6 +29,17 @@ page_sections:
     and clean.</p>"
 - template: detail-content
   block: text-1
+  headline: About us
+  content: "<p>Our vision is a world where on every menu, grocery shelf, and table,
+    the most exciting foods are also the most sustainable. Our mission is to excite
+    people about eating sustainably by crafting cultured foods that tap into the diversity
+    of the microbial world. We are starting with a new category of aged, hard cheeses—that
+    happen to be made from plants. Founded by a nerd with fancy degrees from fancy
+    places, we are taking the time to understand the science of cheesemaking and manipulating
+    those processes to work with plants. We are a public benefit corporation, meaning
+    that we are culturally and legally obligated to put our mission over money.</p>"
+- template: detail-content
+  block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
     basis of race, religion, color, national origin, gender, sexual orientation, age,
     marital status, veteran status or disability status. But we acknowledge that we
