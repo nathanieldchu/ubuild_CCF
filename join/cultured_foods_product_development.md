@@ -68,14 +68,23 @@ page_sections:
       cheeses and production methods<br>3. Coordinating logistics for sampling and
       local sales<br>4. Working with the founder to set up production with manufacturing
       partners<br>5. Working with the science and brand teams to pursue our mission
-- template: 1-column-text
-  block: one-column-1
-  content: You will be working with us to craft a new category of cheese made from
-    plants. Some of your duties will include:Working with plant and microbial ingredients
-    to produce and develop new types of aged cheesesAnalyzing cheeses and production
-    methodsCoordinating logistics for sampling and local salesWorking with the founder
-    to set up production with manufacturing partnersWorking with the science and brand
-    teams to pursue our mission
-  headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: What do you get out of it?
+    content: ''
+  col_2:
+    content: 1. Be a part of a startup that gives a shit about things that aren’t
+      money.<br>2. Work on global sustainability problems via a hands-on, tasty product.<br>3.
+      Large growth potential in different areas (management, research, operations,
+      manufacturing, branding, etc).<br>4. Equity ownership and equal opportunity
+      profit sharing over time.<br>5. Base pay will be lower than you would get at
+      established companies or traditional startups without a sustainability mission.
+      We will make sure you get paid more than you need, you’ll know where you stand
+      relative to everyone else, and you’ll know money is going to the mission, not
+      CEO sports cars.<br>6. Learn about different aspects of building an early-stage
+      (first hires) startup<br>7. We will work with you to craft a learning plan to
+      achieve your personal and career goals, at Tezza or elsewhere.
+    headline: ''
 
 ---
