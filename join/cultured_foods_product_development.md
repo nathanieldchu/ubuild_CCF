@@ -40,6 +40,23 @@ page_sections:
     that we are culturally and legally obligated to put our mission over money.</p>"
 - template: detail-content
   block: text-1
+  headline: What makes a good match?
+  content: <p>Take a thoughtful look at our <a href="" title="">mission and values</a>.
+    Are willing to fight for them? Then ask yourself our <a href="https://www.tezzafoods.com/join"
+    title="">cultural questions</a>. Do they fit? These criteria are more important
+    to us than position-specific qualifications.</p>
+- template: detail-content
+  block: text-1
+  headline: About the position
+  content: "<p>You will be working with us to craft a new category of cheese made
+    from plants. Some of your duties will include:</p><ul><li><p>Working with plant
+    and microbial ingredients to produce and develop new types of aged cheeses</p></li><li><p>Analyzing
+    cheeses and production methods</p></li><li><p>Coordinating logistics for sampling
+    and local sales</p></li><li><p>Working with the founder to set up production with
+    manufacturing partners</p></li><li><p>Working with the science and brand teams
+    to pursue our mission</p></li></ul>"
+- template: detail-content
+  block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
     basis of race, religion, color, national origin, gender, sexual orientation, age,
     marital status, veteran status or disability status. But we acknowledge that we
