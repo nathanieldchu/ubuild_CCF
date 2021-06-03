@@ -122,6 +122,18 @@ page_sections:
       anyway. If we both feel like the fit is right, then we will either create a
       suitable position or come running once one opens up.
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Open positions
+    content: ''
+  col_2:
+    content: <a href="https://www.tezzafoods.com/join/cultured_foods_product_development"
+      title="">Cultured foods product development</a> (aka cheese master). Dive into
+      the science and art of making a new category of cheese. <br><br>Microbiologist
+      (aka culture wizard). Lasso the diversity of the microbial world. With really
+      tiny ropes.<br><br>
+    headline: ''
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2021"
