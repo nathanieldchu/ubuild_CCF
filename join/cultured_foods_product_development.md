@@ -113,5 +113,23 @@ page_sections:
       responsibility is shared among the team)<br>2. Excited to do hands-on, detail
       oriented, manual and cerebral work
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: If interested, what should you do?
+    content: ''
+  col_2:
+    content: We build relationships thoughtfully, and this approach takes time. Over
+      multiple conversations, we will seek to understand how we can support you—and
+      whether that support involves joining our team—and hopefully you will find out
+      whether we are a good fit for your goals or simply a bunch of nutcases.<br><br>To
+      apply, please email join@tezzafoods.com with a resume and responses to the following
+      prompts:<br>1. What motivates you right now? When you think about your short
+      life, what motivates you for the long term? And most important, why?<br>2. Tell
+      us a story about a time that you took a big risk. How did that decision and
+      its aftermath shape who you are and how you navigate the world?<br>3. What is
+      one idea in the sustainability movement that you think is clever? What is one
+      that you think is dubious? Why?
+    headline: ''
 
 ---
