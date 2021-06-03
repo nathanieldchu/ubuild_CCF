@@ -146,6 +146,6 @@ page_sections:
     marital status, veteran status or disability status. But we acknowledge that we
     are flawed humans within a flawed society. We do our best and apologize and learn
     when that’s not enough.</p>"
-  headline: ''
+  headline: HEADLINE
 
 ---
