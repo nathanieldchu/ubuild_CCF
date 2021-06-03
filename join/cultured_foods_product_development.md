@@ -72,6 +72,13 @@ page_sections:
     or elsewhere</p></li></ul>"
 - template: detail-content
   block: text-1
+  headline: Initial trial period
+  content: "<p>All new hires are brought on as full-time consultants for three months
+    so that both parties can evaluate fit. After that period, a decision on joining
+    Tezza will be made together with the full team. If the fit is not quite right,
+    all candidates will be supported in finding a better home.</p>"
+- template: detail-content
+  block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
     basis of race, religion, color, national origin, gender, sexual orientation, age,
     marital status, veteran status or disability status. But we acknowledge that we
