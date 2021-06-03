@@ -55,5 +55,27 @@ page_sections:
       questions</a>. Do they fit? These criteria are more important to us than position-specific
       qualifications.
     headline: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: About the position
+    content: ''
+  col_2:
+    headline: ''
+    content: You will be working with us to craft a new category of cheese made from
+      plants. Some of your duties will include:<br><br>1. Working with plant and microbial
+      ingredients to produce and develop new types of aged cheeses<br>2. Analyzing
+      cheeses and production methods<br>3. Coordinating logistics for sampling and
+      local sales<br>4. Working with the founder to set up production with manufacturing
+      partners<br>5. Working with the science and brand teams to pursue our mission
+- template: 1-column-text
+  block: one-column-1
+  content: You will be working with us to craft a new category of cheese made from
+    plants. Some of your duties will include:Working with plant and microbial ingredients
+    to produce and develop new types of aged cheesesAnalyzing cheeses and production
+    methodsCoordinating logistics for sampling and local salesWorking with the founder
+    to set up production with manufacturing partnersWorking with the science and brand
+    teams to pursue our mission
+  headline: ''
 
 ---
