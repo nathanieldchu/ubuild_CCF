@@ -117,8 +117,10 @@ page_sections:
     content: ''
   col_2:
     content: If you’ve stuck around this long, we are very excited to get to know
-      you. Please email us at <strong>join@tezzafoods.com</strong>. If we don’t have
-      a job for you now, then we’ll make sure that we come running as soon as we do.
+      you. Please email us at <strong>join@tezzafoods.com</strong>. Open positions
+      are listed below, but if we don’t have a job for you now then reach out to us
+      anyway. If we both feel like the fit is right, then we will either create a
+      suitable position or come running once one opens up.
     headline: ''
 - template: simple-footer
   block: footer-1
