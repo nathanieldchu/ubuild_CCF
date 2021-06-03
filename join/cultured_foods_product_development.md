@@ -131,5 +131,13 @@ page_sections:
       one idea in the sustainability movement that you think is clever? What is one
       that you think is dubious? Why?
     headline: ''
+- template: 1-column-text
+  block: one-column-1
+  content: Tezza is an equal opportunity employer. We do not discriminate on the basis
+    of race, religion, color, national origin, gender, sexual orientation, age, marital
+    status, veteran status or disability status. But we acknowledge that we are flawed
+    humans within a flawed society. We do our best and apologize and learn when that’s
+    not enough.
+  headline: ''
 
 ---
