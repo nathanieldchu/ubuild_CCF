@@ -92,10 +92,9 @@ page_sections:
     whether that support involves joining our team—and hopefully you will find out
     whether we are a good fit for your goals or simply a bunch of nutcases.</p><p><br></p><p>To
     apply, please email <a href="mailto:join@tezzafoods.com">join@tezzafoods.com</a>
-    with a resume, list of at least 7 references (professional and personal), and
-    responses to the following prompts:</p><ol><li><p>What motivates you right now?
-    When you think about your short life, what motivates you for the long term? And
-    most important, why? Where did those motivations come from?</p></li><li><p>How
+    with a resume and responses to the following prompts:</p><ol><li><p>What motivates
+    you right now? When you think about your short life, what motivates you for the
+    long term? And most important, why? Where did those motivations come from?</p></li><li><p>How
     do you think that the combination of your technical skills with Tezza’s mission
     will improve the world? How will it improve you?</p></li><li><p>What are seven
     things that you are striving to improve in yourself? What are you doing to work
