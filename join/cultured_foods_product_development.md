@@ -92,14 +92,14 @@ page_sections:
     Over multiple conversations, we will seek to understand how we can support you—and
     whether that support involves joining our team—and hopefully you will find out
     whether we are a good fit for your goals or simply a bunch of nutcases.</p><p>To
-    apply, please email join@tezzafoods.com with a resume, a list of at least 7 references
-    (professional and personal), and responses to the following prompts:</p><ol><li><p>What
-    motivates you right now? When you think about your short life, what motivates
-    you for the long term? And most important, why? Where did those motivations come
-    from?</p></li><li><p>How do you think that the combination of your technical skills
-    with Tezza’s mission will improve the world? How will it improve you?</p></li><li><p>What
-    are seven things that you are striving to improve in yourself? What are you doing
-    to work on them?</p></li></ol>"
+    apply, please email <strong>join@tezzafoods.com</strong> with a resume, a list
+    of at least 7 references (professional and personal), and responses to the following
+    prompts:</p><ol><li><p>What motivates you right now? When you think about your
+    short life, what motivates you for the long term? And most important, why? Where
+    did those motivations come from?</p></li><li><p>How do you think that the combination
+    of your technical skills with Tezza’s mission will improve the world? How will
+    it improve you?</p></li><li><p>What are seven things that you are striving to
+    improve in yourself? What are you doing to work on them?</p></li></ol>"
 - template: detail-content
   block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
