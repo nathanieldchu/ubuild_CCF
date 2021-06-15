@@ -54,7 +54,7 @@ page_sections:
     cheeses and production methods</p></li><li><p>Coordinating logistics for sampling
     and local sales</p></li><li><p>Working with the founder to set up production with
     manufacturing partners</p></li><li><p>Working with the science and brand teams
-    to pursue our mission</p></li></ul>"
+    to pursue our mission</p></li><li><p>Full time position</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
