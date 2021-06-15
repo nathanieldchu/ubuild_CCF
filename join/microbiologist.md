@@ -75,6 +75,15 @@ page_sections:
     to evaluate fit. After that period, a decision on joining Tezza will be made together
     with the full team. If the fit is not right, all candidates will be supported
     in finding a better team.</p>"
+- template: detail-content
+  block: text-1
+  headline: Qualifications
+  content: "<ul><li><p>Masters or PhD in microbiology or a related science with significant
+    research experience</p></li><li><p>A deeply held conviction in our mission and
+    values</p></li><li><p>Experience in generating and computationally analyzing genomic
+    and metabolomic data</p></li><li><p>Excited to invest energy into a fast-paced,
+    thoughtful work environment</p></li><li><p>Desire to take on daunting scientific
+    challenges with zeal</p></li></ul>"
 published: false
 
 ---
