@@ -68,6 +68,13 @@ page_sections:
     on growth, and we hire you not for this position, but for your next three positions.
     We will work with you to craft a learning plan to achieve your personal and career
     goals, at Tezza or elsewhere</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: Initial trial period
+  content: "<p>All new hires are brought on as full-time consultants for three months
+    to evaluate fit. After that period, a decision on joining Tezza will be made together
+    with the full team. If the fit is not right, all candidates will be supported
+    in finding a better team.</p>"
 published: false
 
 ---
