@@ -129,7 +129,7 @@ page_sections:
   col_2:
     content: <a href="https://www.tezzafoods.com/join/cultured_foods_product_development"
       title="">Cultured foods product development</a> (aka cheese master). Dive into
-      the science and art of making a new category of cheese. <br><br>Microbiologist
+      the science and art of making a new category of cheese. <br><br><a href="" title="">Microbiologist</a>
       (aka culture wizard). Lasso the diversity of the microbial world. With really
       tiny ropes.<br><br>
     headline: ''
