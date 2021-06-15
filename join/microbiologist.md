@@ -84,6 +84,25 @@ page_sections:
     and metabolomic data</p></li><li><p>Excited to invest energy into a fast-paced,
     thoughtful work environment</p></li><li><p>Desire to take on daunting scientific
     challenges with zeal</p></li></ul>"
-published: false
+- template: detail-content
+  block: text-1
+  headline: If interested, what should you do?
+  content: <p>We build relationships thoughtfully, and this approach takes time. Over
+    multiple conversations, we will seek to understand how we can support you—and
+    whether that support involves joining our team—and hopefully you will find out
+    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p><br></p><p>To
+    apply, please email <a href="mailto:join@tezzafoods.com">join@tezzafoods.com</a>
+    with a resume, list of at least 7 references (professional and personal), and
+    responses to the following prompts:</p><ol><li><p>What motivates you right now?
+    When you think about your short life, what motivates you for the long term? And
+    most important, why? Where did those motivations come from?</p></li><li><p>How
+    do you think that the combination of your technical skills with Tezza’s mission
+    will improve the world? How will it improve you?</p></li><li><p>What are seven
+    things that you are striving to improve in yourself? What are you doing to work
+    on them?</p></li></ol><p></p><p>Tezza is an equal opportunity employer. We do
+    not discriminate on the basis of race, religion, color, national origin, gender,
+    sexual orientation, age, marital status, veteran status or disability status.
+    But we acknowledge that we are flawed humans within a flawed society. We do our
+    best and apologize and learn when that’s not enough.</p>
 
 ---
