@@ -90,7 +90,7 @@ page_sections:
   content: <p>We build relationships thoughtfully, and this approach takes time. Over
     multiple conversations, we will seek to understand how we can support you—and
     whether that support involves joining our team—and hopefully you will find out
-    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p><br></p><p>To
+    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p></p><p>To
     apply, please email <a href="mailto:join@tezzafoods.com">join@tezzafoods.com</a>
     with a resume and responses to the following prompts:</p><ol><li><p>What motivates
     you right now? When you think about your short life, what motivates you for the
