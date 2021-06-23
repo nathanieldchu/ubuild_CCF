@@ -25,9 +25,13 @@ page_sections:
   content: "<p>Our hiring process involves 7 stages:</p><ol><li><p>Initial application,
     resume, and written response to 3 questions</p></li><li><p>30 minute in-person
     or video call conversation</p></li><li><p>Practical skills assessment</p></li><li><p>30
-    minute in-person or video call conversation with another team member</p></li><li><p>Extensive
-    reference checks</p></li><li><p>Full-time trial period of 3 months</p></li><li><p>Joining
-    the colony or supported in their search</p></li></ol>"
+    minute in-person or video call conversation</p></li><li><p>Extensive reference
+    checks</p></li><li><p>Full-time trial period of 3 months</p></li><li><p>You join
+    the colony or we support you in your search for the right fit</p></li></ol>"
+- template: detail-content
+  block: text-1
+  headline: Details
+  content: ''
 published: false
 
 ---
