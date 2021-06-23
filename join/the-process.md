@@ -15,8 +15,10 @@ page_sections:
     link_text: VALUES
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: The goal
+  content: "<p>Our goal is to help you find the best place for your personal growth.
+    We care deeply about our relationships, and we try to bring that care into the
+    way we find new team members.</p>"
 published: false
 
 ---
