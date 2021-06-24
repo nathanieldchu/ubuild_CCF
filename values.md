@@ -12,7 +12,7 @@ page_sections:
   - link: https://www.tezzafoods.com/join
     link_text: JOIN
   - link: https://www.tezzafoods.com/join/the-process
-    link_text: The Process
+    link_text: THE PROCESS
 - template: 2-column-text
   block: two-column-1
   col_1:
