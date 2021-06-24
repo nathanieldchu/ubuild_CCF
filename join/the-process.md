@@ -57,8 +57,8 @@ page_sections:
     we help you find your next adventure.</strong> Whatever the outcome, we want to
     enable you to achieve your mission. If you join us, we will challenge each other
     everyday to make ourselves and the world better. If you don't, we will do the
-    same thing but probably a lot less frequently. Either way, there will probably
-    be at least the opportunity to have an awkward moment where you don't know if
-    a hug or handshake is more appropriate. Isn't life great/mortifying/hilarious?</p>
+    same thing but probably a lot less frequently. At minimum, there will probably
+    be a chance to have an awkward moment where you don't know if a hug or handshake
+    is more appropriate. Isn't life great?</p>
 
 ---
