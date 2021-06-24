@@ -86,12 +86,16 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: The Process
-  content: "<p>Before you apply for any positions, first ask yourself big questions:</p><ul><li><p>In
-    which moments have you felt the most fulfilled?</p></li><li><p>If you haven't
-    had those moments, have you tried doing a bunch of random shit yet (i.e., not
-    the same-same path that society shoves you into)?</p></li><li><p>When you are
-    dying and looking back on your life, what do you want to have felt, done, changed,
-    or learned?</p></li></ul><p></p>"
+  content: <p>Before you apply for any positions, first ask yourself big questions:</p><ul><li><p>In
+    which moments have you felt the most fulfilled?* Why?</p></li><li><p>When you
+    are dying and looking back on your life, what do you want to have felt, done,
+    changed, created, or learned?</p></li></ul><p>*If you haven't had those moments,
+    have you tried doing a bunch of random shit yet (i.e., not the same-same path
+    that society shoves you into)?</p><p>If after thinking about those questions,
+    you think that Tezza might be a good place for you to grow in the next stage of
+    your life, take a look at our <a href="https://www.tezzafoods.com/join/the-process"
+    title="">hiring process</a>. If that sounds exciting to you, take a look at the
+    jobs open below.</p>
 - template: 2-column-text
   block: two-column-1
   col_1:
