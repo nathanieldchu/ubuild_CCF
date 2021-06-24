@@ -76,15 +76,14 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Qualifications
-  content: "<p>None of these are as important as the factors above. One or more of
-    the following:</p><ul><li><p>BA/BS or MA/MS in a science with experience doing
-    research </p></li><li><p>Experience working in food production or development
-    or consumer products</p></li><li><p>Experience building, making, or creating something
-    over a long term</p></li><li><p>So much conviction that you figure out how to
-    make it work</p></li></ul><p>Also:</p><ul><li><p>Willing to work very short hours
-    on occasional weekends to take care of cheeses (this responsibility is shared
-    among the team)</p></li><li><p>Excited to do hands-on, detail oriented, manual
-    and cerebral work</p></li></ul>"
+  content: "<p>One or more of the following:</p><ul><li><p>BA/BS or MA/MS in a science
+    with experience doing research</p></li><li><p>Experience working in food production
+    or development or consumer products</p></li><li><p>Experience building, making,
+    or creating something over a long term</p></li><li><p>So much conviction that
+    you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Willing
+    to work very short hours on occasional weekends to take care of cheeses (this
+    responsibility is shared among the team)</p></li><li><p>Excited to do hands-on,
+    detail oriented, manual and cerebral work</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: If excited about the job, what should you do?
