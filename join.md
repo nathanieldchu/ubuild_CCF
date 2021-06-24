@@ -94,8 +94,8 @@ page_sections:
     that society shoves you into)?</p><p>If after thinking about those questions,
     you think that Tezza might be a good place for you to grow in the next stage of
     your life, take a look at our <a href="https://www.tezzafoods.com/join/the-process"
-    title="">hiring process</a>. If that sounds exciting to you, take a look at the
-    jobs open below.</p>
+    title=""><strong>hiring process</strong></a>. If that sounds exciting to you,
+    take a look at the jobs open below.</p>
 - template: detail-content
   block: text-1
   headline: Open positions
