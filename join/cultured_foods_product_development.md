@@ -88,17 +88,19 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: If excited about the job, what should you do?
-  content: "<p>We build relationships thoughtfully, and this approach takes time.
-    Over multiple conversations, we will seek to understand how we can support you—and
+  content: <p>We build relationships thoughtfully, and this approach takes time. Over
+    multiple conversations, we will seek to understand how we can support you—and
     whether that support involves joining our team—and hopefully you will find out
-    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p>To
-    apply, please email <strong>join@tezzafoods.com</strong> with a resume and responses
+    whether we are a good fit for your goals or simply a bunch of nutcases.</p><p>Read
+    about our <a href="https://www.tezzafoods.com/join/the-process" title="">hiring
+    process</a> to make sure that you are ready to start this journey.</p><p>To apply,
+    please email <strong>join@tezzafoods.com</strong> with a resume and responses
     to the following prompts:</p><ol><li><p>What motivates you right now? When you
     think about your short life, what motivates you for the long term? And most important,
     why? Where did those motivations come from?</p></li><li><p>How do you think that
     the combination of your technical skills with Tezza’s mission will improve the
     world? How will it improve you?</p></li><li><p>What are seven things that you
-    are striving to improve in yourself? What are you doing to work on them?</p></li></ol>"
+    are striving to improve in yourself? Why? What are you doing to work on them?</p></li></ol>
 - template: detail-content
   block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
