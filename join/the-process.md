@@ -22,12 +22,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: The process
-  content: <h4>Our hiring process involves 7 stages.</h4><p></p><p><strong>Initial
-    application. </strong>When creating your resume, <a href="https://careers.google.com/videos/google-resume-tips-and-advice/"
-    title="">google has pretty good advice</a> on how to build it. If you are a recent
-    college/masters student, include your classes and grades. When responding to our
-    written questions, please be specific and elaborate. These answers are your chance
-    to tell us about how we fit into the journey of your life. Do yourself justice.</p><p><strong>30
+  content: <p><strong>Initial application. </strong>When creating your resume, <a
+    href="https://careers.google.com/videos/google-resume-tips-and-advice/" title="">google
+    has pretty good advice</a> on how to build it. If you are a recent college/masters
+    student, include your classes and grades. When responding to our written questions,
+    please be specific and elaborate. These answers are your chance to tell us about
+    how we fit into the journey of your life. Do yourself justice.</p><p><strong>30
     minute in-person or video call conversation.</strong> We will have a brief, structured
     30 minute conversation with you to help give us context on who you are, how you
     think, and how you execute. What is special about you and how can we help you
