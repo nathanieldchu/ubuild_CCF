@@ -46,7 +46,7 @@ page_sections:
     to incorporate the wisdom of the crowd. We will contact people who have interacted
     with you in different contexts, including above, beside, and below you in a professional
     setting and others from your personal network.</p><p><strong>Full-time trial period
-    of 3 months.</strong> The real discovery begins! If we are both excited about
+    of 3 months*.</strong> The real discovery begins! If we are both excited about
     a potential fit, you will be hired as a full-time consultant for three months.
     During this time, we'll seek answers to whether the job and our team are the right
     fit for this stage of your journey. We will make a learning plan with you to ensure
@@ -57,6 +57,8 @@ page_sections:
     join the colony, or we help you find your next adventure.</strong> Whatever the
     outcome, we want to enable you to achieve your mission. If you join us, we will
     challenge one another every day to make ourselves and the world better. If you
-    don't join us, we will do the same thing but probably a lot less often.</p>
+    don't join us, we will do the same thing but probably a lot less often.</p><p>*If
+    you don't live in California, this is pretty shitty. We'll figure out a combination
+    of in-person and remote work that will still allow us to test our hypothesis.</p>
 
 ---
