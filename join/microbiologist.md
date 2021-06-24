@@ -97,9 +97,9 @@ page_sections:
     long term? And most important, why? Where did those motivations come from?</p></li><li><p>How
     do you think that the combination of your technical skills with Tezza’s mission
     will improve the world? How will it improve you?</p></li><li><p>What are seven
-    things that you are striving to improve in yourself? What are you doing to work
-    on them?</p></li></ol><p></p><p>Tezza is an equal opportunity employer. We do
-    not discriminate on the basis of race, religion, color, national origin, gender,
+    things that you are striving to improve in yourself? Why? What are you doing to
+    work on them?</p></li></ol><p></p><p>Tezza is an equal opportunity employer. We
+    do not discriminate on the basis of race, religion, color, national origin, gender,
     sexual orientation, age, marital status, veteran status or disability status.
     But we acknowledge that we are flawed humans within a flawed society. We do our
     best and apologize and learn when that’s not enough.</p>
