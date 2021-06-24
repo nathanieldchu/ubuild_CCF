@@ -7,12 +7,12 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/02/08/tezza_tm.png"
   navigation:
-  - link: https://www.tezzafoods.com/join/the-process
-    link_text: THE PROCESS
   - link: https://www.tezzafoods.com/
     link_text: HOME
   - link: https://www.tezzafoods.com/values
     link_text: VALUES
+  - link: https://www.tezzafoods.com/join/the-process
+    link_text: THE PROCESS
 - template: 2-column-text
   block: two-column-1
   col_1:
