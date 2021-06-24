@@ -13,6 +13,13 @@ page_sections:
     link_text: VALUES
   - link: https://www.tezzafoods.com/join/the-process
     link_text: THE PROCESS
+- template: detail-content
+  block: text-1
+  headline: About you
+  content: "<p>You want to fight ecological destruction and build a more thoughtful,
+    connected world. To this end, you want to grow in the fast-paced, passion-driven
+    world of startups. We at Tezza want to arm you with the tools and agency to create
+    that vision.</p>"
 - template: 2-column-text
   block: two-column-1
   col_1:
