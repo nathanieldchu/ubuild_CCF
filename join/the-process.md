@@ -30,14 +30,14 @@ page_sections:
     the colony or we support you in your search for the right fit</p></li></ol>"
 - template: detail-content
   block: text-1
-  headline: Details
-  content: <p><strong>Initial application. </strong>When creating your resume, <a
-    href="https://careers.google.com/videos/google-resume-tips-and-advice/" title="">google
-    has pretty good advice</a> on how to build it. If you are a recent college/masters
-    student, include your classes and grades. When responding to our questions, please
-    be specific and elaborate. These answers are your chance to tell us about how
-    we fit into the journey of your life. Do yourself justice.</p><p><strong>30 minute
-    in-person or video call conversation.</strong> We will have a brief, structured
+  headline: The process
+  content: <h4>Our hiring process involves 7 stages.</h4><p><strong>Initial application.
+    </strong>When creating your resume, <a href="https://careers.google.com/videos/google-resume-tips-and-advice/"
+    title="">google has pretty good advice</a> on how to build it. If you are a recent
+    college/masters student, include your classes and grades. When responding to our
+    questions, please be specific and elaborate. These answers are your chance to
+    tell us about how we fit into the journey of your life. Do yourself justice.</p><p><strong>30
+    minute in-person or video call conversation.</strong> We will have a brief, structured
     30 minute conversation with you to help give us context on who you are, how you
     think, and how you execute. What is special about you and how can we help you
     find the best place for your mind and heart? There will also be time for you to
@@ -50,7 +50,7 @@ page_sections:
     science role, we might ask you to do a limited literature review or analyze a
     recent paper of your choice.</p><p><strong>More 30 minute in-person or video call
     conversations</strong>. Depending on the role, you will have at least one more
-    structured conversation with other team members. </p><p><strong>Extensive reference
+    structured conversation with other team members.</p><p><strong>Extensive reference
     checks.</strong> Honestly, nobody is really good at reading people, so we try
     to incorporate the wisdom of the crowd. We will contact people who have interacted
     with you in different circumstances, including above, beside, and below you in
@@ -63,6 +63,9 @@ page_sections:
     the team and exchange feedback. If at any time you or the team decide that the
     fit is not right, you will be supported financially, professionally, and emotionally
     for the remainder of the period as we try to find a better place for you.</p><p><strong>You
-    join the colony or we help you find your next adventure.</strong></p>
+    join the colony or we help you find your next adventure.</strong> Whatever the
+    outcome, we want to enable you to achieve your mission. If you join us, we will
+    challenge each other everyday to make ourselves and the world better. If you don't,
+    we will do the same thing but probably a lot less frequently.</p>
 
 ---
