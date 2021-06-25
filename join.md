@@ -23,7 +23,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: About us
-  content: '<p>First, take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
+  content: '<p>First take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
     title="">mission and values</a>. Are you fired up? You can find our open positions
     below, but but before that it might be useful to ask yourself a few questions
     to see whether you are a good cultural fit.</p><h4>Do you love the steep end of
