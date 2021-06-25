@@ -17,8 +17,8 @@ page_sections:
     textures. The secret? They happen to be made from <strong>sustainable plants</strong>.
   cta:
     enabled: true
-    url: https://www.tezzafoods.com/contact
-    button_text: WORK WITH US
+    url: https://www.tezzafoods.com/join
+    button_text: JOIN THE COLONY
   image:
     image: "/uploads/2019/06/07/IMG_1428.jpg"
     alt_text: New times, new cheese
