@@ -26,7 +26,8 @@ page_sections:
     firms or shiny packaging for influencers.</p><p>For this position, you prefer
     to get your hands dirty rather than stare at a computer screen. You love to tinker,
     make great food, work efficiently, maintain clear notes, and keep things orderly
-    and clean.</p>"
+    and clean. You have surprising physical endurance and can lift heavy stuff and
+    work quickly for many hours at a time.</p>"
 - template: detail-content
   block: text-1
   headline: About us
