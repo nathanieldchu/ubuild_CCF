@@ -24,10 +24,10 @@ page_sections:
   block: text-1
   headline: About us
   content: "<p>You can find our open positions below, but but before that it might
-    be useful to ask yourself a few questions to see whether or not you are a good
-    cultural fit.</p><h4>Do you love the steep end of the learning curve?</h4><p>What
-    sounds like more fun:</p><p><strong>Being the expert</strong> in something and
-    a company’s go-to resource for that thing. You crush it all day long.</p><p><strong>Constantly
+    be useful to ask yourself a few questions to see whether you are a good cultural
+    fit.</p><h4>Do you love the steep end of the learning curve?</h4><p>What sounds
+    like more fun:</p><p><strong>Being the expert</strong> in something and a company’s
+    go-to resource for that thing. You crush it all day long.</p><p><strong>Constantly
     building</strong> by scheming up new ideas, getting totally lost, reading 100
     Wikipedia articles that you never would have guessed existed, figuring out how
     to turn your idea into reality, making a first version from scratch and duct tape,
