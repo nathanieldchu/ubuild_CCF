@@ -57,23 +57,24 @@ page_sections:
     after. Going to the DMV. Running through the twinge in your knee only to be in
     crutches for the next six months. Irreversible emotional damage from trauma. Avoid.</p><p>Type
     I fun is great. But to find a home at Tezza, you need to love type II fun. You
-    want to push yourself. You may even enjoy the feelings (fear, intimidation, tears)
-    that you associate with these goals. To you, nothing is more satisfying than coming
-    out the other side, saying, “Holy crap, we survived! I can’t believe it! What’s
-    next?”</p><p></p><h4>Are you a little weird?</h4><p>Normal people don’t like type
-    II fun, and if you are a distinctly normal person, you probably aren’t going to
-    like it here. We push boundaries: social, scientific, culinary, and more. Our
-    moral compasses can create odd, occasionally fanatic behavior. We have drawers
-    full of used plastic bags. We bike to work even though it’s dumping rain. We take
-    trains for outrageously inconvenient distances. We relish breaking traditions
-    or social norms to do the right thing or to do something well.</p><p>Our weirdness
-    also comes across as a bit campy, less Rocky Horror Picture Show, more summer-campy/band-campy.
-    We aren’t afraid to look like idiots, since we usually act like idiots because
-    life is more fun that way. We are willing to ask awkward questions, share too
-    much information, and build relationships quickly. We would rather play tag in
-    the mud than wear suits in a conference room. We believe that a group of people
-    with a goal and a safe space can change the world, and we can say that without
-    rolling our eyes (that much).</p><p></p><h4>Do you consider money and power by-products?</h4><p>If
+    want to push yourself, hard. You want to move, learn, and change extremely fast.
+    You may even enjoy the feelings (fear, intimidation, tears) that you associate
+    with these goals. To you, nothing is more satisfying than coming out the other
+    side, saying, “Holy crap, we survived! I can’t believe it! What’s next?”</p><p></p><h4>Are
+    you a little weird?</h4><p>Normal people don’t like type II fun, and if you are
+    a distinctly normal person, you probably aren’t going to like it here. We push
+    boundaries: social, scientific, culinary, and more. Our moral compasses can create
+    odd, occasionally fanatic behavior. We have drawers full of used plastic bags.
+    We bike to work even though it’s dumping rain. We take trains for outrageously
+    inconvenient distances. We relish breaking traditions or social norms to do the
+    right thing or to do something well.</p><p>Our weirdness also comes across as
+    a bit campy, less Rocky Horror Picture Show, more summer-campy/band-campy. We
+    aren’t afraid to look like idiots, since we usually act like idiots because life
+    is more fun that way. We are willing to ask awkward questions, share too much
+    information, and build relationships quickly. We would rather play tag in the
+    mud than wear suits in a conference room. We believe that a group of people with
+    a goal and a safe space can change the world, and we can say that without rolling
+    our eyes (that much).</p><p></p><h4>Do you consider money and power by-products?</h4><p>If
     money is your first priority, work in finance. If you want power above all, management
     consulting is a no-brainer. If you want to join a Silicon Valley startup with
     glossy offices, trendy swag, and fancy cars parked outside, there are many great
