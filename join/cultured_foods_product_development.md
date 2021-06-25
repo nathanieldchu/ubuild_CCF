@@ -13,6 +13,8 @@ page_sections:
     link_text: VALUES
   - link: https://www.tezzafoods.com/join
     link_text: JOIN
+  - link: https://www.tezzafoods.com/join/the-process
+    link_text: THE PROCESS
 - template: 1-column-text
   block: one-column-1
   headline: Cultured foods product developer
