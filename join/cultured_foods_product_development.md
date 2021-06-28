@@ -29,7 +29,7 @@ page_sections:
     to get your hands dirty rather than stare at a computer screen. You love to tinker,
     make great food, work efficiently, maintain clear notes, and keep things orderly
     and clean. You have surprising physical endurance and can lift heavy stuff and
-    work quickly for many hours at a time.</p>"
+    work quickly for long work days.</p>"
 - template: detail-content
   block: text-1
   headline: About us
