@@ -45,20 +45,13 @@ page_sections:
     is really good at reading people, so we try to incorporate the wisdom of the crowd.
     We will contact people who have interacted with you in different contexts, including
     above, beside, and below you in a professional setting and others from your personal
-    network.</p><p><strong>Full-time trial period of 3 months*.</strong> The real
-    discovery begins! If we are both excited about a potential fit, you will be hired
-    as a full-time consultant for three months. During this time, we'll seek answers
-    to whether the job and our team are the right fit for this stage of your journey.
-    We will make a learning plan with you to ensure that you grow during the experience.
-    At multiple time points, you will meet with the team and exchange feedback. If
-    at any time you or the team decide that the fit is not right, you will be supported
-    financially, professionally, and emotionally for what remains of the trial period
-    as you find a better place.</p><p><strong>You join the colony, or we help you
-    find your next adventure.</strong> Whatever the outcome, we want to enable you
-    to achieve your mission. If you join us, we will challenge one another every day
-    to make ourselves and the world better. If you don't join us, we will do the same
-    thing but probably a lot less often.</p><p>*If you don't live in California, this
-    is pretty shitty. We'll figure out a combination of in-person and remote work
-    that will still allow us to test our hypothesis.</p>
+    network.</p><p><strong>You join the colony, or we help you find your next adventure.</strong>
+    Whatever the outcome, we want to enable you to achieve your mission. If you join
+    us, we will challenge one another every day to make ourselves and the world better.
+    If you don't join us, we will do the same thing but probably a lot less often.
+    Throughout the hiring process and early days of our partnership, we will craft
+    a structured plan for your growth with regular opportunities for feedback. If
+    we find that the fit isn't right, we will support you fully in finding the right
+    place for you to advance your mission.</p>
 
 ---
