@@ -54,11 +54,11 @@ page_sections:
   content: "<p>You will be working with us to discover new microbial cultures that
     can be used in cultured foods, specifically cheese. Some of your duties will include:</p><ul><li><p>Isolating
     and screening microbes</p></li><li><p>Developing high-throughput methods for evaluating
-    microbial communities for food applications</p></li><li><p>Maintain robust and
-    reliable documentation of your work such that others can effectively collaborate
-    with you</p></li><li><p>Work with the product team to apply cultures to novel
-    cheeses and foods</p></li><li><p>Work with the product and brand team to further
-    our collective mission</p></li></ul>"
+    and designing microbial communities for food applications</p></li><li><p>Maintain
+    robust and reliable documentation of your work such that others can effectively
+    collaborate with you</p></li><li><p>Work with the product team to apply cultures
+    to novel cheeses and foods</p></li><li><p>Work with the product and brand team
+    to further our collective mission</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
