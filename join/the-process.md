@@ -28,38 +28,37 @@ page_sections:
     master's student, include your classes and grades. When responding to our written
     questions, please be specific and detailed (always include an answer to "why?").
     These answers are your chance to tell us about how we fit into the journey of
-    your life. Do yourself justice.</p><p><strong>Thirty-minute in-person or video-call
-    conversation.</strong> We will have a structured 30-minute conversation with you
-    to learn a bit about who you are, how you think, and how you execute. What is
-    special about you, and how can we help you find the best place for your mind and
-    heart? We will also have time for you to ask us questions.</p><p><strong>Practical
-    skills assessment.</strong> For all positions, we will ask you to choose your
-    own small project that reflects the position. It's meant to be a chance to explore
-    your curiosity! These projects will usually task you to ask a question you find
-    exciting, formulate a plan to seek answers, and execute that plan if practical.
-    If the job is one in product development, we may ask you to document an experiment
-    in the kitchen that you've been dying to do. Or if it is a science role, we may
-    ask you to analyze a recent paper of your choice.</p><p><strong>More 30-minute
-    in-person or video-call conversations</strong>. Depending on the role, you will
-    have at least one more structured conversation with other team members.</p><p><strong>Extensive
-    reference checks.</strong> Honestly, nobody is really good at reading people,
-    so we try to incorporate the wisdom of the crowd. We will contact people who have
-    interacted with you in different contexts, including above, beside, and below
-    you in a professional setting and others from your personal network.</p><p><strong>Full-time
-    trial period of 3 months*.</strong> The real discovery begins! If we are both
-    excited about a potential fit, you will be hired as a full-time consultant for
-    three months. During this time, we'll seek answers to whether the job and our
-    team are the right fit for this stage of your journey. We will make a learning
-    plan with you to ensure that you grow during the experience. At multiple time
-    points, you will meet with the team and exchange feedback. If at any time you
-    or the team decide that the fit is not right, you will be supported financially,
-    professionally, and emotionally for what remains of the trial period as you find
-    a better place.</p><p><strong>You join the colony, or we help you find your next
-    adventure.</strong> Whatever the outcome, we want to enable you to achieve your
-    mission. If you join us, we will challenge one another every day to make ourselves
-    and the world better. If you don't join us, we will do the same thing but probably
-    a lot less often.</p><p>*If you don't live in California, this is pretty shitty.
-    We'll figure out a combination of in-person and remote work that will still allow
-    us to test our hypothesis.</p>
+    your life.</p><p><strong>Thirty-minute in-person or video-call conversation.</strong>
+    We will have a structured 30-minute conversation with you to learn a bit about
+    who you are, how you think, and how you execute. What is special about you, and
+    how can we help you find the best place for your mind and heart? We will also
+    have time for you to ask us questions.</p><p><strong>Practical skills assessment.</strong>
+    For all positions, we will ask you to choose your own small project that reflects
+    the position. It's meant to be a chance to explore your curiosity! These projects
+    will usually task you to ask a question you find exciting, formulate a plan to
+    seek answers, and execute that plan if practical. If the job is one in product
+    development, we may ask you to document an experiment in the kitchen that you've
+    been dying to do. Or if it is a science role, we may ask you to analyze a recent
+    paper of your choice.</p><p><strong>More 30-minute in-person or video-call conversations</strong>.
+    Depending on the role, you will have at least one more structured conversation
+    with other team members.</p><p><strong>Reference checks.</strong> Honestly, nobody
+    is really good at reading people, so we try to incorporate the wisdom of the crowd.
+    We will contact people who have interacted with you in different contexts, including
+    above, beside, and below you in a professional setting and others from your personal
+    network.</p><p><strong>Full-time trial period of 3 months*.</strong> The real
+    discovery begins! If we are both excited about a potential fit, you will be hired
+    as a full-time consultant for three months. During this time, we'll seek answers
+    to whether the job and our team are the right fit for this stage of your journey.
+    We will make a learning plan with you to ensure that you grow during the experience.
+    At multiple time points, you will meet with the team and exchange feedback. If
+    at any time you or the team decide that the fit is not right, you will be supported
+    financially, professionally, and emotionally for what remains of the trial period
+    as you find a better place.</p><p><strong>You join the colony, or we help you
+    find your next adventure.</strong> Whatever the outcome, we want to enable you
+    to achieve your mission. If you join us, we will challenge one another every day
+    to make ourselves and the world better. If you don't join us, we will do the same
+    thing but probably a lot less often.</p><p>*If you don't live in California, this
+    is pretty shitty. We'll figure out a combination of in-person and remote work
+    that will still allow us to test our hypothesis.</p>
 
 ---
