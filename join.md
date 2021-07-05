@@ -105,11 +105,14 @@ page_sections:
     title=""><strong>Cultured foods product development</strong></a> (aka cheese master).
     Dive into the science and art of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
     title=""><strong>Microbiologist</strong></a> (aka culture wizard). Lasso the diversity
-    of the microbial world. With really tiny ropes.</p><p><strong>Brand creator</strong>
+    of the microbial world. With really tiny ropes.</p><p><strong>Brand creative</strong>
     (aka social architect). Tell stories that shape how people connect to each other
-    and their food.</p><p><strong>[Insert-what-you-do-here] badass</strong> (aka I-will-smash-down-this-door).
-    Do you do something that we need, and we're too stupid to know it? Tell us about
-    it. Skills can be taught, but passion is a fruit.</p>
+    and their food.</p><p><strong>Business development</strong> (aka make mission,
+    then money). Build relationships and collaborations with food vendors and producers
+    to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
+    badass</strong> (aka I-will-smash-down-this-door). Do you do something that we
+    need, and we're too stupid to know it? Tell us about it. Skills can be taught,
+    but passion is a fruit.</p>
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2021"
