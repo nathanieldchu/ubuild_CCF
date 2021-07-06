@@ -45,7 +45,7 @@ page_sections:
   block: text-1
   headline: What makes a good match?
   content: <p>Take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
-    title="">mission and values</a>. Are willing to fight for them? Then ask yourself
+    title="">mission and values</a>. Are you willing to fight for them? Then ask yourself
     our <a href="https://www.tezzafoods.com/join" title="">cultural questions</a>.
     Do they fit? These criteria are more important to us than position-specific qualifications.</p>
 - template: detail-content
