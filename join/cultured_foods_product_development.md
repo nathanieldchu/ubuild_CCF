@@ -57,7 +57,7 @@ page_sections:
     cheeses</p></li><li><p>Analyzing cheeses and production methods</p></li><li><p>Coordinating
     logistics for sampling and local sales</p></li><li><p>Working with the founder
     to set up production with manufacturing partners</p></li><li><p>Working with the
-    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li><li><p></p></li></ul><h4>First-year
+    science and brand teams to pursue our mission</p></li><li><p>Full time position</p><p></p></li></ul><h4>First-year
     target goals</h4><ul><li><p>Research, pilot, and develop our line of cheese</p><ul><li><p>Develop
     one novel cheese variety from concept to bench-scale</p></li><li><p>Improve the
     taste and functional profiles of 6–10 established cheese types</p></li><li><p>Experiment
