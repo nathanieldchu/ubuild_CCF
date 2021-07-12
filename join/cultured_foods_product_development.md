@@ -58,15 +58,13 @@ page_sections:
     logistics for sampling and local sales</p></li><li><p>Working with the founder
     to set up production with manufacturing partners</p></li><li><p>Working with the
     science and brand teams to pursue our mission</p></li><li><p>Full time position</p><p></p></li></ul><h4>First-year
-    target goals</h4><ul><li><p>Research, pilot, and develop our line of cheese</p><ul><li><p>Develop
-    one novel cheese variety from concept to bench-scale</p></li><li><p>Improve the
-    taste and functional profiles of 6–10 established cheese types</p></li><li><p>Experiment
-    with cheese processes based on theoretical and scientific knowledge</p></li></ul></li><li><p>Improve
-    manufacturing efficiency by 20%</p><ul><li><p>Refine detailed protocols and research
-    new methods and equipment</p></li></ul></li><li><p>Build and lead a small-scale
-    production team for local cheese production</p><ul><li><p>Hire one top-10% partner
-    for production and process design</p></li></ul></li><li><p>Work with contract
-    manufacturers to scale production methods for a single cheese variety to industrial
+    target goals</h4><ul><li><p>Research, pilot, and develop our line of cheese using
+    theoretical and scientific knowledge</p></li><li><p>Develop one novel cheese variety
+    from concept to bench-scale</p></li><li><p>Improve the taste and functional profiles
+    of 6–10 established cheese types</p></li><li><p>Improve manufacturing efficiency
+    by 20%</p></li><li><p>Refine detailed protocols and research new methods and equipment</p></li><li><p>Hire
+    one high-performance partner for production and process design</p></li><li><p>Work
+    with contract manufacturers to scale production of a one cheese variety to industrial
     scale (&gt;10,000lbs)</p></li><li><p>Support production for microscale proof-of-concept
     sales</p></li></ul>"
 - template: detail-content
