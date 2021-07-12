@@ -51,13 +51,24 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: About the position
-  content: "<p>You will be working with us to craft a new category of cheese made
-    from plants. Some of your duties will include:</p><ul><li><p>Working with plant
-    and microbial ingredients to produce and develop new types of aged cheeses</p></li><li><p>Analyzing
-    cheeses and production methods</p></li><li><p>Coordinating logistics for sampling
-    and local sales</p></li><li><p>Working with the founder to set up production with
-    manufacturing partners</p></li><li><p>Working with the science and brand teams
-    to pursue our mission</p></li><li><p>Full time position</p></li></ul>"
+  content: "<h4>Duties</h4><p>You will be working with us to craft a new category
+    of cheese made from plants. Some of your duties will include:</p><ul><li><p>Working
+    with plant and microbial ingredients to produce and develop new types of aged
+    cheeses</p></li><li><p>Analyzing cheeses and production methods</p></li><li><p>Coordinating
+    logistics for sampling and local sales</p></li><li><p>Working with the founder
+    to set up production with manufacturing partners</p></li><li><p>Working with the
+    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><h4>First-year
+    target goals</h4><ul><li><p>Research, pilot, and develop our line of cheese</p><ul><li><p>Develop
+    one novel cheese variety from concept to bench-scale</p></li><li><p>Improve the
+    taste and functional profiles of 6–10 established cheese types</p></li><li><p>Experiment
+    with cheese processes based on theoretical and scientific knowledge</p></li></ul></li><li><p>Improve
+    manufacturing efficiency by 20%</p><ul><li><p>Refine detailed protocols and research
+    new methods and equipment</p></li></ul></li><li><p>Build and lead a small-scale
+    production team for local cheese production</p><ul><li><p>Hire one top-10% partner
+    for production and process design</p></li></ul></li><li><p>Work with contract
+    manufacturers to scale production methods for a single cheese variety to industrial
+    scale (&gt;10,000lbs)</p></li><li><p>Support production for microscale proof-of-concept
+    sales</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
