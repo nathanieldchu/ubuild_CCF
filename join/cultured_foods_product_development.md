@@ -80,22 +80,17 @@ page_sections:
     to achieve your personal and career goals, at Tezza or elsewhere</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: Initial trial period
-  content: "<p>All new hires are brought on as full-time consultants for three months
-    so that both parties can evaluate fit. After that period, a decision on joining
-    Tezza will be made together with the full team. If the fit is not quite right,
-    all candidates will be supported in finding a better home.</p>"
-- template: detail-content
-  block: text-1
   headline: Qualifications
-  content: "<p>One or more of the following:</p><ul><li><p>BA/BS or MA/MS in a science
-    with experience doing research</p></li><li><p>Experience working in food production
-    or development or consumer products</p></li><li><p>Experience building, making,
-    or creating something over a long term</p></li><li><p>So much conviction that
-    you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Willing
-    to work very short hours on occasional weekends to take care of cheeses (this
-    responsibility is shared among the team)</p></li><li><p>Excited to do hands-on,
-    detail oriented, manual and cerebral work</p></li></ul>"
+  content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
+    science with experience doing research </p></li><li><p>Experience working in food
+    development in a technical role</p></li><li><p>So much conviction and brains that
+    you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Experience
+    working in cheese or the ability to rapidly learn from textbooks</p></li><li><p>Willing
+    to work short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
+    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
+    physical endurance for on-your-feet active work</p></li><li><p>Looking invest
+    energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
+    to take on daunting production challenges with zeal</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: If excited about the job, what should you do?
@@ -108,10 +103,14 @@ page_sections:
     please email <strong>join@tezzafoods.com</strong> with a resume and responses
     to the following prompts:</p><ol><li><p>What motivates you right now? When you
     think about your short life, what motivates you for the long term? And most important,
-    why? Where did those motivations come from?</p></li><li><p>How do you think that
-    the combination of your technical skills with Tezza’s mission will improve the
-    world? How will it improve you?</p></li><li><p>What are seven things that you
-    are striving to improve in yourself? Why? What are you doing to work on them?</p></li></ol>
+    why? Where did those motivations come from?</p></li><li><p>How do you think your
+    unique technical skills and perspective will shape and strengthen Tezza's mission?</p></li><li><p>What
+    are seven things that you are striving to improve in yourself? Why? What are you
+    doing to work on them? <em>Why?</em></p></li></ol><p>Tezza is an equal opportunity
+    employer. We do not discriminate on the basis of race, religion, color, national
+    origin, gender, sexual orientation, age, marital status, veteran status or disability
+    status. But we acknowledge that we are flawed humans within a flawed society.
+    We do our best and apologize and learn when that’s not enough.</p>
 - template: detail-content
   block: text-1
   content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
