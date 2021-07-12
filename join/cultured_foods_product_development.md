@@ -51,16 +51,18 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: About the position
-  content: "<h4>Duties</h4><p>You will be working with us to craft a new category
-    of cheese made from plants. Some of your duties will include:</p><ul><li><p>Working
+  content: "<p>You will be working with us to craft a new category of cheese made
+    from plants. Some of your <strong>duties</strong> will include:</p><ul><li><p>Working
     with plant and microbial ingredients to produce and develop new types of aged
     cheeses</p></li><li><p>Analyzing cheeses and production methods</p></li><li><p>Coordinating
     logistics for sampling and local sales</p></li><li><p>Working with the founder
     to set up production with manufacturing partners</p></li><li><p>Working with the
-    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><h4>First-year
-    target goals</h4><ul><li><p>Research, pilot, and develop our line of cheese using
-    theoretical and scientific knowledge</p></li><li><p>Develop one novel cheese variety
-    from concept to bench-scale</p></li><li><p>Improve the taste and functional profiles
+    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><p>We
+    will work with you to set goals and milestones for your professional development.
+    Some of the concrete <strong>goals for the first year</strong> of this position
+    are:</p><ul><li><p>Research, pilot, and develop our line of cheese using theoretical
+    and scientific knowledge</p></li><li><p>Develop one novel cheese variety from
+    concept to bench-scale</p></li><li><p>Improve the taste and functional profiles
     of 6–10 established cheese types</p></li><li><p>Improve manufacturing efficiency
     by 20%</p></li><li><p>Refine detailed protocols and research new methods and equipment</p></li><li><p>Hire
     one high-performance partner for production and process design</p></li><li><p>Work
@@ -111,13 +113,5 @@ page_sections:
     origin, gender, sexual orientation, age, marital status, veteran status or disability
     status. But we acknowledge that we are flawed humans within a flawed society.
     We do our best and apologize and learn when that’s not enough.</p>
-- template: detail-content
-  block: text-1
-  content: "<p>Tezza is an equal opportunity employer. We do not discriminate on the
-    basis of race, religion, color, national origin, gender, sexual orientation, age,
-    marital status, veteran status or disability status. But we acknowledge that we
-    are flawed humans within a flawed society. We do our best and apologize and learn
-    when that’s not enough.</p>"
-  headline: ''
 
 ---
