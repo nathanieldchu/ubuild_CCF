@@ -57,7 +57,7 @@ page_sections:
     cheeses</p></li><li><p>Analyzing cheeses and production methods</p></li><li><p>Coordinating
     logistics for sampling and local sales</p></li><li><p>Working with the founder
     to set up production with manufacturing partners</p></li><li><p>Working with the
-    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><p>We
+    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><p></p><p>We
     will work with you to set goals and milestones for your professional development.
     Some of the concrete <strong>goals for the first year</strong> of this position
     are:</p><ul><li><p>Research, pilot, and develop our line of cheese using theoretical
