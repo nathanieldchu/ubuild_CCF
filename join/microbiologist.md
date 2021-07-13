@@ -52,9 +52,10 @@ page_sections:
   block: text-1
   headline: About the position
   content: "<p>You will be working with us to discover new microbial cultures that
-    can be used in cultured foods, specifically cheese. Some of your duties will include:</p><ul><li><p>Isolating
-    and screening microbes</p></li><li><p>Developing high-throughput methods for evaluating
-    and designing microbial communities for food applications</p></li><li><p>Maintain
+    can be used in cultured foods, specifically cheese. Some of your duties will include:</p><ul><li><p>Isolate
+    and screen microbes</p></li><li><p>Develop high-throughput methods (both experimental
+    and computational) for evaluating and designing microbial communities for food
+    applications</p></li><li><p>Work with data from genomics and mass spectrometry</p></li><li><p>Maintain
     robust and reliable documentation of your work such that others can effectively
     collaborate with you</p></li><li><p>Work with the product team to apply cultures
     to novel cheeses and foods</p></li><li><p>Work with the product and brand team
@@ -70,13 +71,6 @@ page_sections:
     on growth, and we hire you not for this position, but for your next three positions.
     We will work with you to craft a learning plan to achieve your personal and career
     goals, at Tezza or elsewhere</p></li></ul>"
-- template: detail-content
-  block: text-1
-  headline: Initial trial period
-  content: "<p>All new hires are brought on as full-time consultants for three months
-    to evaluate fit. After that period, a decision on joining Tezza will be made together
-    with the full team. If the fit is not right, all candidates will be supported
-    in finding a better team.</p>"
 - template: detail-content
   block: text-1
   headline: Qualifications
