@@ -28,8 +28,8 @@ page_sections:
     firms or shiny packaging for influencers.</p><p>For this position, you want to
     apply your microbiological curiosity to a real product that you can put in your
     mouth and out into the world. You want to be on the forefront of bringing modern
-    community ecology and systems thinking to the still narrowly focused field of
-    microbial engineering.</p>"
+    community ecology, systems thinking, and computational throughput to the still
+    narrowly focused field of microbial engineering.</p>"
 - template: detail-content
   block: text-1
   headline: About us
