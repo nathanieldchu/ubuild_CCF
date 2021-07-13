@@ -81,10 +81,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Qualifications
-  content: "<ul><li><p>Masters or PhD in microbiology or a related science with significant
-    research experience</p></li><li><p>A deeply held conviction in our mission and
-    values</p></li><li><p>Experience in generating and computationally analyzing genomic
-    and metabolomic data</p></li><li><p>Excited to invest energy into a fast-paced,
+  content: "<ul><li><p>PhD in microbiology or a related science</p></li><li><p>A deeply
+    held conviction in our mission and values</p></li><li><p>Experience in generating
+    and computationally analyzing genomic and metabolomic data</p></li><li><p>Eager
+    to do both experimental and computational work, as well as branch into other scientific
+    disciplines as necessary</p></li><li><p>Excited to invest energy into a fast-paced,
     thoughtful work environment</p></li><li><p>Desire to take on daunting scientific
     challenges with zeal</p></li></ul>"
 - template: detail-content
