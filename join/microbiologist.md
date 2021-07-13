@@ -59,7 +59,14 @@ page_sections:
     robust and reliable documentation of your work such that others can effectively
     collaborate with you</p></li><li><p>Work with the product team to apply cultures
     to novel cheeses and foods</p></li><li><p>Work with the product and brand team
-    to further our collective mission</p></li></ul>"
+    to further our collective mission</p></li><li><p>Work with manufacturers to scale
+    products</p></li></ul><p></p><p>We will work with you to set goals and milestones
+    for your professional development. Some of the concrete goals for the first year
+    of this position are:</p><ul><li><p>Add thousands of microbial strains to our
+    isolate library</p></li><li><p>Help build and perform candidate pipeline from
+    early days into final, scalable products</p></li><li><p>In collaboration with
+    the product development team, create a second generation of cheeses where at least
+    80% of people significantly prefer new cheese versions</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
