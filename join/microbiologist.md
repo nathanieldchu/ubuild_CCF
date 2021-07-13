@@ -47,26 +47,26 @@ page_sections:
   content: <p>Take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
     title="">mission and values</a>. Are you willing to fight for them? Then ask yourself
     our <a href="https://www.tezzafoods.com/join" title="">cultural questions</a>.
-    Do they fit? These criteria are more important to us than position-specific qualifications.</p>
+    Do they fit?</p>
 - template: detail-content
   block: text-1
   headline: About the position
   content: "<p>You will be working with us to discover new microbial cultures that
-    can be used in cultured foods, specifically cheese. Some of your duties will include:</p><ul><li><p>Isolate
-    and screen microbes</p></li><li><p>Develop high-throughput methods (both experimental
-    and computational) for evaluating and designing microbial communities for food
-    applications</p></li><li><p>Work with data from genomics and mass spectrometry</p></li><li><p>Maintain
-    robust and reliable documentation of your work such that others can effectively
-    collaborate with you</p></li><li><p>Work with the product team to apply cultures
-    to novel cheeses and foods</p></li><li><p>Work with the product and brand team
-    to further our collective mission</p></li><li><p>Work with manufacturers to scale
-    products</p></li></ul><p></p><p>We will work with you to set goals and milestones
-    for your professional development. Some of the concrete goals for the first year
-    of this position are:</p><ul><li><p>Add thousands of microbial strains to our
-    isolate library</p></li><li><p>Help build and perform candidate pipeline from
-    early days into final, scalable products</p></li><li><p>In collaboration with
-    the product development team, create a second generation of cheeses where at least
-    80% of people significantly prefer new cheese versions</p></li></ul>"
+    can be used in cultured foods, specifically cheese. Some of your <strong>duties</strong>
+    will include:</p><ul><li><p>Isolate and screen microbes</p></li><li><p>Develop
+    high-throughput methods (both experimental and computational) for evaluating and
+    designing microbial communities for food applications</p></li><li><p>Work with
+    data from genomics and mass spectrometry</p></li><li><p>Maintain robust and reliable
+    documentation of your work such that others can effectively collaborate with you</p></li><li><p>Work
+    with the product team to apply cultures to novel cheeses and foods</p></li><li><p>Work
+    with the product and brand team to further our collective mission</p></li><li><p>Work
+    with manufacturers to scale products</p></li></ul><p></p><p>We will work with
+    you to set goals and milestones for your professional development. Some of the
+    concrete <strong>goals for the first year</strong> of this position are:</p><ul><li><p>Add
+    thousands of microbial strains to our isolate library</p></li><li><p>Help build
+    and perform candidate pipeline from early days into final, scalable products</p></li><li><p>In
+    collaboration with the product development team, create a second generation of
+    cheeses where at least 80% of people significantly prefer new cheese versions</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
