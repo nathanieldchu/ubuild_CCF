@@ -19,6 +19,18 @@ page_sections:
   block: text-1
   headline: ''
   content: ''
+- template: detail-content
+  block: text-1
+  headline: About you
+  content: "<p>You want to fight ecological destruction. You also want to be a part
+    of the fast-paced, passion-driven world of startups. But you are looking for people
+    who care about sustainability as more than window-dressing for private equity
+    firms or shiny packaging for influencers.</p><p>For this position, you want to
+    use your experience building teams and businesses to maintain an unwavering focus
+    on sustainability as a global problem. Not a sort-your-trash kind of problem (although
+    we do that anyway), but a scalable, mass-market, broad-social-change kind of problem.
+    You always think about what it takes to grow, and you want to work with the team
+    to make sure that optimistic ideals never get in the way of true impact.</p>"
 published: false
 
 ---
