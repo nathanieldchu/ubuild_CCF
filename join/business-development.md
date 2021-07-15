@@ -48,6 +48,23 @@ page_sections:
   content: <p>Take a thoughtful look at our <a href="https://www.tezzafoods.com/values">mission
     and values</a>. Are you willing to fight for them? Then ask yourself <a href="https://www.tezzafoods.com/join">our
     cultural questions</a>. Do they fit?</p>
+- template: detail-content
+  block: text-1
+  headline: About the position
+  content: "<p>You will be working with us to build a company that uses business to
+    combat a global social problem called climate change. Some of your duties will
+    include:</p><ul><li><p>Organize supply chain, manufacturing, and distribution
+    to produce scalable foods</p></li><li><p>Build new relationships with partners
+    in food service and retail</p></li><li><p>Retain focus on financial viability
+    and growth to support our fundamental mission</p></li><li><p>Work with other team
+    members to raise capital</p></li><li><p>Work with the technical team to identify
+    efficient means of production</p></li><li><p>Build a company where mission and
+    money meet<br></p></li></ul><p>We will work with you to set goals and milestones
+    for your professional development. Some of the concrete goals for the first year
+    of this position are:</p><ul><li><p>Grow the reach of our first generation of
+    products to strategic partners at a velocity of over 20,000lbs per month.</p></li><li><p>Raise
+    Series A</p></li><li><p>Choose 7 key partners in food service and get our cheese
+    on their food</p></li></ul>"
 published: false
 
 ---
