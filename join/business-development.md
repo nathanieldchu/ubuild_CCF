@@ -14,7 +14,7 @@ page_sections:
     link_text: JOIN
   - link: https://www.tezzafoods.com/join/the-process
     link_text: THE PROCESS
-  logo: ''
+  logo: "/uploads/2020/02/08/tezza_tm.png"
 - template: detail-content
   block: text-1
   headline: ''
