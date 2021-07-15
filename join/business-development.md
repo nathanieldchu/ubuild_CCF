@@ -76,6 +76,14 @@ page_sections:
     on growth, and we hire you not for this position, but for your next three positions.
     We will work with you to craft a learning plan to achieve your personal and career
     goals, at Tezza or elsewhere</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: Qualifications
+  content: "<ul><li><p>Significant experience in business development or operations
+    at research-driven company</p></li><li><p>Ability to hire and recruit uncommonly
+    capable people</p></li><li><p>A deeply held conviction in our mission and values</p></li><li><p>Eager
+    to work hard in a early-startup setting</p></li><li><p>Excited to invest a lot
+    of energy into a fast-paced, thoughtful work environment</p></li></ul>"
 published: false
 
 ---
