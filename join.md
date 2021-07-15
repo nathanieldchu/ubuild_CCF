@@ -107,9 +107,10 @@ page_sections:
     title=""><strong>Microbiologist</strong></a> (aka culture wizard). Lasso the diversity
     of the microbial world. With really tiny ropes.</p><p><strong>Brand storyteller</strong>
     (aka social architect). Tell stories that shape how people connect to each other
-    and their food.</p><p><strong>Business development</strong> (aka make mission,
-    then money). Build relationships and collaborations with partners in food and
-    biotechnology to advance sustainable cultured foods. </p><p><strong>[Insert-what-you-do-here]
+    and their food.</p><p><a href="https://www.tezzafoods.com/join/business_development"
+    title=""><strong>Business development</strong></a> (aka make mission, then money).
+    Build relationships and collaborations with partners in food and biotechnology
+    to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
     badass</strong> (aka I-will-smash-down-this-door). Do you do something that we
     need, and we're too stupid to know it? Tell us about it. Skills can be taught,
     but passion is a fruit.</p>
