@@ -85,11 +85,11 @@ page_sections:
   block: text-1
   headline: Qualifications
   content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
-    science with experience doing research </p></li><li><p>Experience working in food
-    development in a technical role</p></li><li><p>So much conviction and brains that
-    you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Experience
-    working in cheese or the ability to rapidly learn from textbooks</p></li><li><p>Willing
-    to work short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
+    science with experience doing research</p></li><li><p>Experience working in food
+    development in a technical role, preferably in cheese</p></li><li><p>So much conviction
+    and brains that you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Comfort
+    seeking new material from books and research papers</p></li><li><p>Willing to
+    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
     to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
     physical endurance for on-your-feet active work</p></li><li><p>Looking invest
     energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
