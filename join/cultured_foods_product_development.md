@@ -17,7 +17,7 @@ page_sections:
     link_text: THE PROCESS
 - template: 1-column-text
   block: one-column-1
-  headline: Cultured foods product developer
+  headline: Cheesemaker and product developer
   content: ''
 - template: detail-content
   block: text-1
