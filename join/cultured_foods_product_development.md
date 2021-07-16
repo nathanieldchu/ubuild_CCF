@@ -52,23 +52,24 @@ page_sections:
   block: text-1
   headline: About the position
   content: "<p>You will be working with us to craft a new category of cheese made
-    from plants. Some of your <strong>duties</strong> will include:</p><ul><li><p>Working
+    from plants. Some of your <strong>duties</strong> will include:</p><ul><li><p>Work
     with plant and microbial ingredients to produce and develop new types of aged
-    cheeses</p></li><li><p>Analyzing cheeses and production methods</p></li><li><p>Coordinating
-    logistics for sampling and local sales</p></li><li><p>Working with the founder
-    to set up production with manufacturing partners</p></li><li><p>Working with the
-    science and brand teams to pursue our mission</p></li><li><p>Full time position</p></li></ul><p></p><p>We
-    will work with you to set goals and milestones for your professional development.
-    Some of the concrete <strong>goals for the first year</strong> of this position
-    are:</p><ul><li><p>Research, pilot, and develop our line of cheese using theoretical
-    and scientific knowledge</p></li><li><p>Develop one novel cheese variety from
-    concept to bench-scale</p></li><li><p>Improve the taste and functional profiles
-    of 6–10 established cheese types</p></li><li><p>Improve manufacturing efficiency
-    by 20%</p></li><li><p>Refine detailed protocols and research new methods and equipment</p></li><li><p>Hire
-    one high-performance partner for production and process design</p></li><li><p>Work
-    with contract manufacturers to scale production of a one cheese variety to industrial
-    scale (&gt;10,000lbs)</p></li><li><p>Support production for microscale proof-of-concept
-    sales</p></li></ul>"
+    cheeses</p></li><li><p>Analyze cheeses and alter production methods based on scientific
+    principles</p></li><li><p>Work with the science team to manipulate microbes in
+    the context of cheese</p></li><li><p>Coordinate production for sampling</p></li><li><p>Work
+    with the founder to set up production with manufacturing partners</p></li><li><p>Work
+    with the science and brand teams to pursue our mission</p></li><li><p>This position
+    is full time</p><p></p></li></ul><p>We will work with you to set goals and milestones
+    for your professional development. Some of the concrete <strong>goals for the
+    first year</strong> of this position are:</p><ul><li><p>Research, pilot, and develop
+    our line of cheese using theoretical and scientific knowledge</p></li><li><p>Develop
+    one novel cheese variety from concept to bench-scale</p></li><li><p>Improve the
+    taste and functional profiles of 6–10 established cheese types</p></li><li><p>Improve
+    manufacturing efficiency by 20%</p></li><li><p>Refine detailed protocols and research
+    new methods and equipment</p></li><li><p>Hire one high-performance partner for
+    production and process design</p></li><li><p>Work with contract manufacturers
+    to scale production of a one cheese variety to industrial scale (&gt;10,000lbs)</p></li><li><p>Support
+    production for microscale sales and samples</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
