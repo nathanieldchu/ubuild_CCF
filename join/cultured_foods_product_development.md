@@ -91,8 +91,9 @@ page_sections:
     seeking new material from books and research papers</p></li><li><p>Willing to
     work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
     to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
-    physical endurance for on-your-feet active work</p></li><li><p>Looking invest
-    energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
+    physical and mental endurance for on-your-feet active work for up to 10 hours
+    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
+    invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
     to take on daunting production challenges with zeal</p></li></ul>"
 - template: detail-content
   block: text-1
