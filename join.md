@@ -102,8 +102,8 @@ page_sections:
   block: text-1
   headline: Open positions
   content: <p><a href="https://www.tezzafoods.com/join/cultured_foods_product_development"
-    title=""><strong>Cultured foods product development</strong></a> (aka cheese master).
-    Dive into the science and art of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
+    title=""><strong>Cheesemaker and product development</strong></a> (aka cave master).
+    Dive into the science of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
     title=""><strong>Microbiologist</strong></a> (aka culture wizard). Lasso the diversity
     of the microbial world. With really tiny ropes.</p><p><strong>Brand storyteller</strong>
     (aka social architect). Tell stories that shape how people connect to each other
