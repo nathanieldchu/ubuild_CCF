@@ -57,8 +57,8 @@ page_sections:
     after. Going to the DMV. Running through the twinge in your knee only to be in
     crutches for the next six months. Irreversible emotional damage from trauma. Avoid.</p><p>Type
     I fun is great. But to find a home at Tezza, you need to love type II fun. You
-    want to push yourself, hard. You want to move, learn, and change extremely fast.
-    You may even enjoy the feelings (fear, intimidation, tears) that you associate
+    want to push yourself, hard. You want to work, learn, and change extremely fast.
+    You may even enjoy the feelings (fear, exhaustion, tears, sweat) that you associate
     with these goals. To you, nothing is more satisfying than coming out the other
     side, saying, “Holy crap, we survived! I can’t believe it! What’s next?”</p><p></p><h4>Are
     you a little weird?</h4><p>Normal people don’t like type II fun, and if you are
