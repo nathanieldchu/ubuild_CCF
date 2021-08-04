@@ -41,7 +41,7 @@ page_sections:
     the context of cheese</p></li><li><p>Coordinate production for sampling</p></li><li><p>Work
     with the founder to set up production with manufacturing partners</p></li><li><p>Work
     with the science and brand teams to pursue our mission</p></li><li><p>This position
-    is full time and not remote</p><p></p></li></ul><p>We will work with you to set
+    is full time and not remote</p></li></ul><p></p><p>We will work with you to set
     goals and milestones for your professional development. Some of the concrete <strong>goals
     for the first year</strong> of this position are:</p><ul><li><p>Develop one novel
     cheese variety from concept to bench-scale</p></li><li><p>Improve the taste and
