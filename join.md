@@ -68,7 +68,8 @@ page_sections:
     the hiring process. If you think that Tezza might be a good place for you to grow
     in the next stage of your life, take a look at our <a href="https://www.tezzafoods.com/join/the-process"
     title=""><strong>hiring process</strong></a>. The dream is that the hiring dance
-    we do together will be actually helpful instead of an exhausting pain in the ass.</p>
+    we do together will be actually helpful and fun for you instead of an exhausting
+    pain in the ass.</p>
 - template: detail-content
   block: text-1
   headline: Team support
