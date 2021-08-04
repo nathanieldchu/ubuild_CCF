@@ -11,6 +11,8 @@ page_sections:
     link_text: HOME
   - link: https://www.tezzafoods.com/values
     link_text: VALUES
+  - link: https://www.tezzafoods.com/join
+    link_text: JOIN
 - template: detail-content
   block: text-1
   content: "<h4>Do you love the steep end of the learning curve?</h4><p>What sounds
