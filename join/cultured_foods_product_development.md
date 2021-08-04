@@ -77,22 +77,14 @@ page_sections:
     that we are culturally and legally obligated to put our mission over money.</p>"
 - template: detail-content
   block: text-1
-  headline: What makes a good match?
-  content: <p>Take a thoughtful look at our <a href="https://www.tezzafoods.com/values"
-    title="">mission and values</a>. Are you willing to fight for them? Then ask yourself
-    our <a href="https://www.tezzafoods.com/join" title="">cultural questions</a>.
-    Do they fit? These criteria are more important to us than position-specific qualifications.</p>
-- template: detail-content
-  block: text-1
   headline: What do you get out of it?
   content: "<ul><li><p>Work on global sustainability problems via a hands-on, tasty
     product</p></li><li><p>Large growth potential in different areas (management,
-    research, operations, manufacturing, branding, etc)</p></li><li><p>Equity ownership,
-    equal opportunity profit sharing, and transparent pay structures</p></li><li><p>Competitive
-    salary</p></li><li><p>Learn about different aspects of building an early-stage
-    startup</p></li><li><p>We focus on growth, and we hire you not for this position,
-    but for your next three positions. We will work with you to craft a learning plan
-    to achieve your personal and career goals, at Tezza or elsewhere</p></li></ul>"
+    research, operations, manufacturing, branding, etc)</p></li><li><p>Learn about
+    different aspects of building an early-stage startup</p></li><li><p>We focus on
+    growth, and we hire you not for this position, but for your next three positions.
+    We will work with you to craft a learning plan to achieve your personal and career
+    goals, at Tezza or elsewhere</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: If excited about the job, what should you do?
