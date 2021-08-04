@@ -63,12 +63,16 @@ page_sections:
   headline: The Process
   content: <p>When seeking and building team members, we take a mission perspective.
     If you share our mission of a more sustainable world, then we want to do whatever
-    we can to arm you with the tools you need to achieve your goals, whether those
-    goals are with us or somewhere else.</p><p>Thus, we often focus on learning and
-    growth, even during the hiring process. If you think that Tezza might be a good
-    place for you to grow in the next stage of your life, take a look at our <a href="https://www.tezzafoods.com/join/the-process"
+    we can to support you achieving your goals, whether those goals are with us or
+    somewhere else.</p><p>Thus, we often focus on learning and growth, even during
+    the hiring process. If you think that Tezza might be a good place for you to grow
+    in the next stage of your life, take a look at our <a href="https://www.tezzafoods.com/join/the-process"
     title=""><strong>hiring process</strong></a>. The dream is that the hiring dance
     we do together will be actually helpful instead of an exhausting pain in the ass.</p>
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2021"
