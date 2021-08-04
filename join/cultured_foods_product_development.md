@@ -52,6 +52,20 @@ page_sections:
     to scale production of one cheese variety to industrial scale (&gt;10,000lbs)</p></li></ul>"
 - template: detail-content
   block: text-1
+  headline: Qualifications
+  content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
+    science with experience doing research</p></li><li><p>Experience working in food
+    development in a technical role, preferably in cheese</p></li><li><p>So much conviction
+    and brains that you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Comfort
+    seeking new material from books and research papers</p></li><li><p>Willing to
+    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
+    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
+    physical and mental endurance for on-your-feet active work for up to 10 hours
+    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
+    invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
+    to take on daunting production challenges with zeal</p></li></ul>"
+- template: detail-content
+  block: text-1
   headline: About us
   content: "<p>Our vision is a world where on every menu, grocery shelf, and table,
     the most exciting foods are also the most sustainable. Our mission is to excite
@@ -79,20 +93,6 @@ page_sections:
     startup</p></li><li><p>We focus on growth, and we hire you not for this position,
     but for your next three positions. We will work with you to craft a learning plan
     to achieve your personal and career goals, at Tezza or elsewhere</p></li></ul>"
-- template: detail-content
-  block: text-1
-  headline: Qualifications
-  content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
-    science with experience doing research</p></li><li><p>Experience working in food
-    development in a technical role, preferably in cheese</p></li><li><p>So much conviction
-    and brains that you figure out how to make it work</p></li></ul><p>Also:</p><ul><li><p>Comfort
-    seeking new material from books and research papers</p></li><li><p>Willing to
-    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
-    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
-    physical and mental endurance for on-your-feet active work for up to 10 hours
-    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
-    invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
-    to take on daunting production challenges with zeal</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: If excited about the job, what should you do?
