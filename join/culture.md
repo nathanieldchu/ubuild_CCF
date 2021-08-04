@@ -5,8 +5,12 @@ date: 2021-08-03 07:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/02/08/tezza_tm.png"
+  navigation:
+  - link: https://www.tezzafoods.com/
+    link_text: HOME
+  - link: https://www.tezzafoods.com/values
+    link_text: VALUES
 - template: detail-content
   block: text-1
   content: "<h4>Do you love the steep end of the learning curve?</h4><p>What sounds
