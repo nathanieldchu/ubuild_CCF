@@ -28,18 +28,18 @@ page_sections:
     master's student, include your classes and grades. When responding to our written
     questions, please be specific and detailed (always include an answer to "why?").
     These answers are your chance to tell us about how we fit into the journey of
-    your life.</p><p><strong>Thirty-minute in-person or video-call conversation.</strong>
-    We will have a structured 30-minute conversation with you to learn a bit about
-    who you are, how you think, and how you execute. What is special about you, and
-    how can we help you find the best place for your mind and heart? We will also
-    have time for you to ask us questions.</p><p><strong>Practical skills assessment.</strong>
-    For all positions, we will ask you to choose your own small project that reflects
+    your life.</p><p><strong>In-person or video-call conversation.</strong> We will
+    have an unstructured conversation with you to learn a bit about who you are, how
+    you think, and how you execute. What is special about you, and how can we help
+    you find the best place for your mind and heart? We will also have time for you
+    to ask us questions.</p><p><strong>Practical skills assessment.</strong> For all
+    positions, we will ask you to choose your own very small project that reflects
     the position. It's meant to be a chance to explore your curiosity! These projects
     will usually task you to ask a question you find exciting, formulate a plan to
     seek answers, and execute that plan if practical. If the job is one in product
     development, we may ask you to document an experiment in the kitchen that you've
     been dying to do. Or if it is a science role, we may ask you to analyze a recent
-    paper of your choice.</p><p><strong>More 30-minute in-person or video-call conversations</strong>.
+    paper of your choice.</p><p><strong>More structured in-person or video-call conversations</strong>.
     Depending on the role, you will have at least one more structured conversation
     with other team members.</p><p><strong>Reference checks.</strong> Honestly, nobody
     is really good at reading people, so we try to incorporate the wisdom of the crowd.
@@ -50,8 +50,6 @@ page_sections:
     us, we will challenge one another every day to make ourselves and the world better.
     If you don't join us, we will do the same thing but probably a lot less often.
     Throughout the hiring process and early days of our partnership, we will craft
-    a structured plan for your growth with regular opportunities for feedback. If
-    we find that the fit isn't right, we will support you fully in finding the right
-    place for you to advance your mission.</p>
+    a structured plan for your growth with regular opportunities for feedback.</p>
 
 ---
