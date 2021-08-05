@@ -85,7 +85,8 @@ page_sections:
     support for taking more when you need it</p></li><li><p><strong>Social health</strong>:
     parental leave, communal lunch not at your desk</p></li><li><p><strong>Spiritual
     health</strong>: regular meetings to exchange feedback and ensure that you are
-    asking the hard questions and pursuing your truest self, dark chocolate</p></li></ul>"
+    asking the hard questions and we are supporting you to pursue your truest self,
+    dark chocolate</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2021"
