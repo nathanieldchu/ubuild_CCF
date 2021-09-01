@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Cultured foods product development-(copy)
+title: Brand architect
 date: 
 page_sections:
 - template: navigation-header
@@ -17,7 +17,7 @@ page_sections:
     link_text: THE PROCESS
 - template: 1-column-text
   block: one-column-1
-  headline: Cheesemaker and product developer
+  headline: Brand architect
   content: ''
 - template: detail-content
   block: text-1
@@ -25,31 +25,28 @@ page_sections:
   content: "<p>You want to fight ecological destruction. You also want to be a part
     of the fast-paced, passion-driven world of startups. But you are looking for people
     who care about sustainability as more than window-dressing for private equity
-    firms or shiny packaging for influencers.</p><p>For this position, you prefer
-    to get your hands dirty rather than stare at a computer screen. You love to tinker,
-    make great food, work efficiently, maintain clear notes, and keep things orderly
-    and clean. You have surprising physical endurance and can lift heavy stuff and
-    work quickly for long work days.</p>"
+    firms or shiny packaging for influencers.</p><p>For this position, you want to
+    tell stories through a brand that tries to make the world a better place without
+    being a pedantic ass. You are bold, experimental, and human, while creating the
+    very first seeds and roots of a food brand with big ambitions. You are a brand
+    omnivore, excited to tackle all types of channels and strategies.</p>"
 - template: detail-content
   block: text-1
   headline: About the position
-  content: "<p>You will be working with us to craft a new category of cheese made
-    from plants. Some of your <strong>duties</strong> will include:</p><ul><li><p>Work
-    with plant and microbial ingredients to produce and develop new types of aged
-    cheeses</p></li><li><p>Analyze cheeses and alter production methods based on scientific
-    principles</p></li><li><p>Work with the science team to manipulate microbes in
-    the context of cheese</p></li><li><p>Coordinate production for sampling</p></li><li><p>Work
-    with the founder to set up production with manufacturing partners</p></li><li><p>Work
-    with the science and brand teams to pursue our mission</p></li><li><p>This position
-    is full time and not remote</p></li></ul><p></p><p>We will work with you to set
-    goals and milestones for your professional development. Some of the concrete <strong>goals
-    for the first year</strong> of this position are:</p><ul><li><p>Develop one novel
-    cheese variety from concept to bench-scale</p></li><li><p>Improve the taste and
-    functional profiles of multiple established cheese types of primary importance</p></li><li><p>Hire
-    one high-performance partner for production and process design</p></li><li><p>Work
-    with the science team to create new generations of cheeses that are significantly
-    better according to tasting panels</p></li><li><p>Work with contract manufacturers
-    to scale production of one cheese variety to industrial scale (&gt;10,000lbs)</p></li></ul>"
+  content: "<p>You will be working with us to create a more sustainable world by deepening
+    people’s connections with each other and their food. Some of your duties will
+    include:</p><ul><li><p>Building a brand and voice that furthers our sustainability
+    mission</p></li><li><p>Working with vendors and partners to spread knowledge about
+    our mission and products</p></li><li><p>Using social media to amplify not just
+    products but also ideas</p></li><li><p>Work with the science and product teams
+    to understand and communicate our approach to food and science and craft</p></li><li><p>Rigorously
+    testing market hypotheses with field experiments, collecting and analyzing data</p></li></ul><p></p><p>We
+    will work with you to set goals and milestones for your professional development.
+    Some of the <strong>concrete goals for the first year</strong> of this position
+    are:</p><ul><li><p>Establish a brand that is abnormally human, idealistic, personal,
+    weird, skeptical, self-deprecating, and oddly supportive</p></li><li><p>Design,
+    implement, and analyze at least 3 market experiments on core market risks</p></li><li><p>Map
+    out brand strategy to grow with our product line</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: Qualifications
