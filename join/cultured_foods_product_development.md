@@ -61,7 +61,7 @@ page_sections:
     to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
     physical and mental endurance for on-your-feet active work for up to 10 hours
     at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
-    invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
+    to invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
     to take on daunting production challenges with zeal</p></li></ul>"
 - template: detail-content
   block: text-1
@@ -90,7 +90,8 @@ page_sections:
   content: <p>We build relationships thoughtfully, and this approach takes time. Over
     multiple conversations, we will seek to understand how we can support you, and
     hopefully you will find out whether we are a good fit for your goals or simply
-    a bunch of nutcases.</p><p>You can read more about our <a href="https://www.tezzafoods.com/join/the-process"
+    a bunch of nutcases. You can learn about <a href="https://www.tezzafoods.com/values"
+    title="">our values here</a>.</p><p>You can read more about our <a href="https://www.tezzafoods.com/join/the-process"
     title="">hiring process here</a>.</p><p>To apply, please email <strong>join@tezzafoods.com</strong>
     with a resume and responses to the following prompts (a conversational, unpolished
     tone is fine):</p><ol><li><p>What motivates you right now? When you think about
