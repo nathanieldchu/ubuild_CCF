@@ -35,31 +35,26 @@ page_sections:
   headline: About the position
   content: "<p>You will be working with us to create a more sustainable world by deepening
     people’s connections with each other and their food. Some of your duties will
-    include:</p><ul><li><p>Building a brand and voice that furthers our sustainability
-    mission</p></li><li><p>Working with vendors and partners to spread knowledge about
-    our mission and products</p></li><li><p>Using social media to amplify not just
-    products but also ideas</p></li><li><p>Work with the science and product teams
-    to understand and communicate our approach to food and science and craft</p></li><li><p>Rigorously
-    testing market hypotheses with field experiments, collecting and analyzing data</p></li></ul><p></p><p>We
-    will work with you to set goals and milestones for your professional development.
-    Some of the <strong>concrete goals for the first year</strong> of this position
-    are:</p><ul><li><p>Establish a brand that is abnormally human, idealistic, personal,
-    weird, skeptical, self-deprecating, and oddly supportive</p></li><li><p>Design,
-    implement, and analyze at least 3 market experiments on core market risks</p></li><li><p>Map
-    out brand strategy to grow with our product line</p></li></ul>"
+    include:</p><ul><li><p>Building a brand that furthers our sustainability mission</p></li><li><p>Working
+    with vendors and partners to spread knowledge about our mission and products</p></li><li><p>Using
+    social media to amplify not just products but also ideas</p></li><li><p>Work with
+    the science and product teams to understand and communicate our approach to food
+    and science and craft</p></li><li><p>Rigorously testing market hypotheses with
+    field experiments, collecting and analyzing data</p></li></ul><p></p><p>We will
+    work with you to set goals and milestones for your professional development. Some
+    of the <strong>concrete goals for the first year</strong> of this position are:</p><ul><li><p>Establish
+    a brand that is abnormally human, idealistic, personal, weird, skeptical, self-deprecating,
+    and oddly supportive</p></li><li><p>Design, implement, and analyze at least 3
+    market experiments on core market risks</p></li><li><p>Map out brand strategy
+    to grow with our product line</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: Qualifications
-  content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
-    science with experience doing research</p></li><li><p>Experience working in food
-    development in a technical role, preferably in cheese</p></li></ul><p>Also:</p><ul><li><p>Comfort
-    seeking new material from books and research papers</p></li><li><p>Willing to
-    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
-    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
-    physical and mental endurance for on-your-feet active work for up to 10 hours
-    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
-    to invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
-    to take on daunting production challenges with zeal</p></li></ul>"
+  content: "<p>One or more of the following:</p><ul><li><p>Experience growing a brand
+    from early stages of development and deployment to realizing a coherent identity
+    and voice</p></li><li><p>Demonstrated fluency in communicating through different
+    media (articles, video, images, websites, social, letters)</p></li><li><p>Desire
+    to take on daunting marketing challenges with zeal</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: About us
@@ -101,6 +96,5 @@ page_sections:
     age, marital status, veteran status or disability status. But we acknowledge that
     we are flawed humans within a flawed society. We do our best and apologize and
     learn when that’s not enough.</p>
-published: false
 
 ---
