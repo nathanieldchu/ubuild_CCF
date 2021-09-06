@@ -11,8 +11,6 @@ page_sections:
     link_text: HOME
   - link: https://www.tezzafoods.com/values
     link_text: VALUES
-  - link: https://www.tezzafoods.com/join/the-process
-    link_text: THE PROCESS
 - template: detail-content
   block: text-1
   headline: Open positions
