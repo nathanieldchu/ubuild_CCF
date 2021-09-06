@@ -55,15 +55,14 @@ page_sections:
     and money meet</p></li><li><p>This position is full time and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: About us
-  content: "<p>Our vision is a world where on every menu, grocery shelf, and table,
-    the most exciting foods are also the most sustainable. Our mission is to excite
-    people about eating sustainably by crafting cultured foods that tap into the diversity
-    of the microbial world. We are starting with a new category of aged, hard cheeses—that
-    happen to be made from plants. Founded by a nerd with fancy degrees from fancy
-    places, we are taking the time to understand the science of cheesemaking and manipulating
-    those processes to work with plants. We are a public benefit corporation, meaning
-    that we are culturally and legally obligated to put our mission over money.</p>"
+  headline: Qualifications
+  content: <ul><li><p>PhD in microbiology or a related science</p></li><li><p>Ability
+    to hire and recruit uncommonly capable people</p></li><li><p>A deeply held conviction
+    in our <a href="https://www.tezzafoods.com/values">mission and values</a></p></li><li><p>Desire
+    to take on daunting scientific challenges with zeal</p></li><li><p>Experience
+    in experimental microbiology work, particularly isolating and characterizing microbes</p></li><li><p>Preferably
+    experience generating and computationally analyzing genomic data and eager to
+    branch into other scientific disciplines as necessary</p></li></ul>
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
