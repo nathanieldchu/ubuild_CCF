@@ -30,21 +30,16 @@ page_sections:
     is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
-  headline: About the position
-  content: "<p>You will be working with us to build a company that uses business to
-    combat a global social problem called climate change. Some of your duties will
-    include:</p><ul><li><p>Organize supply chain, manufacturing, and distribution
-    to produce scalable foods</p></li><li><p>Build new relationships with partners
-    in food service and retail</p></li><li><p>Retain focus on financial viability
-    and growth to support our fundamental mission</p></li><li><p>Work with other team
-    members to raise capital</p></li><li><p>Work with the technical team to identify
-    efficient means of production</p></li><li><p>Build a company where mission and
-    money meet<br></p></li></ul><p>We will work with you to set goals and milestones
-    for your professional development. Some of the concrete goals for the first year
-    of this position are:</p><ul><li><p>Grow the reach of our first generation of
-    products to strategic partners at a velocity of over 20,000lbs per month.</p></li><li><p>Raise
-    Series A</p></li><li><p>Choose 7 key partners in food service and get our cheese
-    on their food</p></li></ul>"
+  headline: About Tezza
+  content: <p>Tezza is an early-stage public benefit corporation focused on climate
+    change and sustainability. Our vision is a world where on every menu, grocery
+    shelf, and table, the most exciting foods are also the most sustainable. To achieve
+    this, our mission is to craft cultured foods that tap into the diversity of the
+    microbial world.</p><p>We are starting with a new category of aged, hard cheeses—that
+    happen to be made from plants. The dairy industry produces more than <a href="http://www.fao.org/3/CA2929EN/ca2929en.pdf">3%</a>
+    of global greenhouse gas emissions—more than aviation—and poses further sustainability
+    as well as animal-welfare challenges. We provide better, more affordable, and
+    healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
   headline: Qualifications
