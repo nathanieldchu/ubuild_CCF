@@ -29,24 +29,16 @@ page_sections:
     This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
-  headline: About the position
-  content: "<p>You will be working with us to craft a new category of cheese made
-    from plants. Some of your <strong>duties</strong> will include:</p><ul><li><p>Work
-    with plant and microbial ingredients to produce and develop new types of aged
-    cheeses</p></li><li><p>Analyze cheeses and alter production methods based on scientific
-    principles</p></li><li><p>Work with the science team to manipulate microbes in
-    the context of cheese</p></li><li><p>Coordinate production for sampling</p></li><li><p>Work
-    with the founder to set up production with manufacturing partners</p></li><li><p>Work
-    with the science and brand teams to pursue our mission</p></li><li><p>This position
-    is full time and not remote</p></li></ul><p></p><p>We will work with you to set
-    goals and milestones for your professional development. Some of the concrete <strong>goals
-    for the first year</strong> of this position are:</p><ul><li><p>Develop one novel
-    cheese variety from concept to bench-scale</p></li><li><p>Improve the taste and
-    functional profiles of multiple established cheese types of primary importance</p></li><li><p>Hire
-    one high-performance partner for production and process design</p></li><li><p>Work
-    with the science team to create new generations of cheeses that are significantly
-    better according to tasting panels</p></li><li><p>Work with contract manufacturers
-    to scale production of one cheese variety to industrial scale (&gt;10,000lbs)</p></li></ul>"
+  headline: About Tezza
+  content: <p>Tezza is an early-stage public benefit corporation focused on climate
+    change and sustainability. Our vision is a world where on every menu, grocery
+    shelf, and table, the most exciting foods are also the most sustainable. To achieve
+    this, our mission is to craft cultured foods that tap into the diversity of the
+    microbial world.</p><p><br>We are starting with a new category of aged, hard cheeses—that
+    happen to be made from plants. The dairy industry produces more than <a href="http://www.fao.org/3/CA2929EN/ca2929en.pdf">3%</a>
+    of global greenhouse gas emissions—more than aviation—and poses further sustainability
+    as well as animal-welfare challenges. We provide better, more affordable, and
+    healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
   headline: Qualifications
