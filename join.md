@@ -53,7 +53,7 @@ page_sections:
     bike? By helping others, you achieve missions greater than yourself and feel the
     joy of being proud instead of pompous.</p><p><strong>Treat feedback as a gift</strong>.
     Ideas, critiques, questions, and feelings are the most valuable things you will
-    ever give or get. Give them thoughtfully, and receive them gratefully.</p><p><strong>Savor
+    ever give or get. Give them thoughtfully and receive them gratefully.</p><p><strong>Savor
     every bite</strong>. Have fun and take care of yourself. You have one life; bask
     in it.</p>"
 - template: detail-content
