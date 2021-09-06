@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Business Development
+title: Business operations
 date: 2021-07-14 07:00:00 +0000
 page_sections:
 - template: navigation-header
