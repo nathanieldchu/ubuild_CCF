@@ -17,7 +17,7 @@ page_sections:
   logo: "/uploads/2020/02/08/tezza_tm.png"
 - template: 1-column-text
   block: one-column-1
-  headline: Business development and operations
+  headline: Business operations and strategy
   content: ''
 - template: detail-content
   block: text-1
