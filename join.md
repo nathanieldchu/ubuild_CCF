@@ -22,9 +22,8 @@ page_sections:
     href="https://www.tezzafoods.com/join/brand_coordinator" title=""><strong>Brand
     coordinator</strong></a><strong> </strong>(aka social storyteller). Tell stories
     that shape how people connect to each other and their food.</p><p><a href="https://www.tezzafoods.com/join/business_operations"
-    title=""><strong>Business operations and strategy</strong></a> (aka make mission,
-    then money). Build relationships and collaborations with partners in food and
-    biotechnology to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
+    title=""><strong>Business operations and strategy</strong></a> (aka mission maker).
+    Build a company in pursuit of a better world. And nachos.</p><p><strong>[Insert-what-you-do-here]
     badass</strong> (aka I-will-smash-down-this-door). Do you do something that we
     need, and we don't know it? Tell us about it. Skills can be taught, but passion
     is a fruit.</p>
