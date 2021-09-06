@@ -29,15 +29,17 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: About Tezza
-  content: <p>Tezza is an early-stage public benefit corporation focused on climate
-    change and sustainability. Our vision is a world where on every menu, grocery
-    shelf, and table, the most exciting foods are also the most sustainable. To achieve
-    this, our mission is to craft cultured foods that tap into the diversity of the
-    microbial world.</p><p>We are starting with a new category of aged, hard cheeses—that
-    happen to be made from plants. The dairy industry produces more than <a href="http://www.fao.org/3/CA2929EN/ca2929en.pdf">3%</a>
-    of global greenhouse gas emissions—more than aviation—and poses further sustainability
-    as well as animal-welfare challenges. We provide better, more affordable, and
-    healthier products that bring people together around a shared love of food.</p>
+  content: <p><a href="https://www.tezzafoods.com/">Tezza</a> is an early-stage public
+    benefit corporation focused on climate change and sustainability. Our vision is
+    a world where on every menu, grocery shelf, and table, the most exciting foods
+    are also the most sustainable. To achieve this, our mission is to use modern,
+    high-throughput science to discover cultured foods that tap into the diversity
+    of the microbial world.</p><p>We are starting with a new category of aged, hard
+    cheeses—that happen to be made from plants. The dairy industry produces more than
+    <a href="http://www.fao.org/3/CA2929EN/ca2929en.pdf">3%</a> of global greenhouse
+    gas emissions—more than aviation—and poses further sustainability as well as animal-welfare
+    challenges. We provide better, more affordable, and healthier products that bring
+    people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
   headline: About the position
