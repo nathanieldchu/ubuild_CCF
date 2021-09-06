@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Cultured foods product development
+title: Product developer, cheese
 date: 
 page_sections:
 - template: navigation-header
