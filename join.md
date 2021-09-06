@@ -17,15 +17,16 @@ page_sections:
   block: text-1
   headline: Open positions
   content: <p><a href="https://www.tezzafoods.com/join/cultured_foods_product_development"
-    title=""><strong>Cheesemaker and product development</strong></a> (aka cave master).
-    Dive into the science of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
-    title=""><strong>Microbiologist</strong></a> (aka culture wizard). Lasso the diversity
+    title=""><strong>Product developer, cheese</strong></a><strong> </strong>(aka
+    cave master). Dive into the science of making a new category of cheese.</p><p><a
+    href="https://www.tezzafoods.com/join/microbiologist" title=""><strong>Scientist,
+    microbiology</strong></a><strong> </strong>(aka culture wizard). Lasso the diversity
     of the microbial world. With really tiny ropes.</p><p><a href="" title=""><strong>Brand
-    architect</strong></a><strong> </strong>(aka social storyteller). Tell stories
+    </strong></a><strong>coordinator </strong>(aka social storyteller). Tell stories
     that shape how people connect to each other and their food.</p><p><a href="https://www.tezzafoods.com/join/business_development"
-    title=""><strong>Business development</strong></a> (aka make mission, then money).
-    Build relationships and collaborations with partners in food and biotechnology
-    to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
+    title=""><strong>Business operations and strategy</strong></a> (aka make mission,
+    then money). Build relationships and collaborations with partners in food and
+    biotechnology to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
     badass</strong> (aka I-will-smash-down-this-door). Do you do something that we
     need, and we don't know it? Tell us about it. Skills can be taught, but passion
     is a fruit.</p>
