@@ -41,17 +41,16 @@ page_sections:
     healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: Qualifications
-  content: "<p>One or more of the following:</p><ul><li><p>Bachelor’s degree in a
-    science with experience doing research</p></li><li><p>Experience working in food
-    development in a technical role, preferably in cheese</p></li></ul><p>Also:</p><ul><li><p>Comfort
-    seeking new material from books and research papers</p></li><li><p>Willing to
-    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
-    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
-    physical and mental endurance for on-your-feet active work for up to 10 hours
-    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Looking
-    to invest energy into a fast-paced, constantly changing work environment</p></li><li><p>Desire
-    to take on daunting production challenges with zeal</p></li></ul>"
+  headline: About the position
+  content: "<p>You will be working with us to craft a new category of cheese made
+    from plants. Some of your <strong>responsibilities</strong> include:</p><ul><li><p>Work
+    with plant and microbial ingredients to produce and develop new types of aged
+    cheeses</p></li><li><p>Analyze cheeses and alter production methods based on scientific
+    principles</p></li><li><p>Work with the science team to manipulate microbes in
+    the context of cheese</p></li><li><p>Coordinate pilot production</p></li><li><p>Work
+    with the founder to set up production with manufacturing partners</p></li><li><p>Work
+    with the science and brand teams to pursue our mission</p></li><li><p>This position
+    is preferably full time and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: About us
