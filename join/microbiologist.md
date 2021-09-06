@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Microbiologist
+title: Scientist, microbiology
 date: 2021-06-14 07:00:00 +0000
 page_sections:
 - template: navigation-header
@@ -17,19 +17,17 @@ page_sections:
     link_text: THE PROCESS
 - template: 1-column-text
   block: one-column-1
-  headline: Microbiologist
+  headline: Scientist, microbiology
   content: ''
 - template: detail-content
   block: text-1
-  headline: About you
-  content: "<p>You want to fight ecological destruction. You also want to be a part
-    of the fast-paced, passion-driven world of startups. But you are looking for people
-    who care about sustainability as more than window-dressing for private equity
-    firms or shiny packaging for influencers.</p><p>For this position, you want to
-    apply your microbiological curiosity to a real product that you can put in your
-    mouth and out into the world. You want to be on the forefront of bringing modern
-    community ecology, systems thinking, and computational throughput to the still
-    narrowly focused field of microbial engineering.</p>"
+  headline: Summary
+  content: <p>We’re looking for an experimental microbiologist to help us create a
+    more sustainable food system. You want to apply your scientific expertise to a
+    real product that you can taste and push forward the application of community
+    ecology, systems thinking, and computational throughput to the narrowly focused
+    field of microbial engineering. And most importantly, you share our <a href="https://www.tezzafoods.com/values">values</a>.
+    This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
   headline: About the position
