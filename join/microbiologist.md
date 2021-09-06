@@ -72,7 +72,8 @@ page_sections:
     different aspects of building an early-stage startup</p></li><li><p>We focus on
     growth, and we hire you not for this position, but for your next three positions.
     We will work with you to craft a learning plan to achieve your personal and career
-    goals, at Tezza or elsewhere</p></li></ul>"
+    goals, at Tezza or elsewhere</p></li><li><p>A chance to build the kind of place
+    where you’d like to work</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: If interested, what should you do?
