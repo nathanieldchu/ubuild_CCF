@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Brand architect
+title: Brand coordinator
 date: 
 page_sections:
 - template: navigation-header
