@@ -53,15 +53,17 @@ page_sections:
     is preferably full time and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: About us
-  content: "<p>Our vision is a world where on every menu, grocery shelf, and table,
-    the most exciting foods are also the most sustainable. Our mission is to excite
-    people about eating sustainably by crafting cultured foods that tap into the diversity
-    of the microbial world. We are starting with a new category of aged, hard cheeses—that
-    happen to be made from plants. Founded by a nerd with fancy degrees from fancy
-    places, we are taking the time to understand the science of cheesemaking and manipulating
-    those processes to work with plants. We are a public benefit corporation, meaning
-    that we are culturally and legally obligated to put our mission over money.</p>"
+  headline: Qualifications
+  content: <ul><li><p>A bachelor’s or associate’s degree in dairy science, food science,
+    or a life science</p></li><li><p>A deeply held conviction in our <a href="https://www.tezzafoods.com/values">mission
+    and values</a></p></li><li><p>Experience doing research on or making cheese or
+    other cultured dairy products in a commercial setting</p></li></ul><ul><li><p>Comfort
+    seeking new material from books and research papers</p></li><li><p>Willing to
+    work very short hours on occasional weekends to take care of cheeses</p></li><li><p>Excited
+    to do hands-on, detail oriented, manual and cerebral work</p></li><li><p>Significant
+    physical and mental endurance for on-your-feet active work for up to 10 hours
+    at a time, as shown by experience in manual work or endurance sports</p></li><li><p>Desire
+    to take on daunting production challenges with zeal</p></li></ul>
 - template: detail-content
   block: text-1
   headline: What do you get out of it?
