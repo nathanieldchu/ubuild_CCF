@@ -42,12 +42,19 @@ page_sections:
     healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: Qualifications
-  content: "<ul><li><p>Significant experience in business development and/or operations
-    at research-driven company</p></li><li><p>Ability to hire and recruit uncommonly
-    capable people</p></li><li><p>A deeply held conviction in our mission and values</p></li><li><p>Eager
-    to work hard in a early-startup setting</p></li><li><p>Excited to invest a lot
-    of energy into a fast-paced, thoughtful work environment</p></li></ul>"
+  headline: About the position
+  content: "<p>You will be working with us on our business execution and overall strategy.
+    Some of your <strong>responsibilities</strong> will include:</p><ul><li><p>Work
+    with founding team to set company strategy and streamline company operations</p></li><li><p>Organize
+    supply chain, manufacturing, and distribution of cultured foods</p></li><li><p>Build
+    new relationships with partners in food service and retail</p></li><li><p>Conceive,
+    design, and perform marketing and production experiments to answer key company
+    questions</p></li><li><p>Set up new functions as the company grows</p></li><li><p>Retain
+    focus on financial viability and growth to support our fundamental mission</p></li><li><p>Collaborate
+    with other team members on capital formation</p></li><li><p>Work with the science
+    and product teams to identify efficient means of production</p></li><li><p>Build
+    a company where mission and money meet</p></li><li><p>This position is full time
+    and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: About us
