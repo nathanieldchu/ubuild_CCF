@@ -47,18 +47,18 @@ page_sections:
     the most sustainable ingredients around.</p><p><strong>Our core values</strong>
     are:</p><p><strong>Give a shit</strong>. Care about what you do, care about how
     you do it, care about the people you do it with, and care about the planet and
-    everything else that brought you here in the first place.</p><p><strong>Strive
-    for better</strong>. To make a future world better than the present, make your
-    present self better than your past. Challenge yourself to change. Invest in the
-    person you want remembered. Don’t compare yourself with others, but with who you
-    were yesterday.</p><p><strong>Empower others</strong>. Seek your success by helping
-    others achieve theirs. On your deathbed, what will you remember: learning to ride
-    a bike or teaching your kid to ride a bike? By helping others, you achieve missions
-    greater than yourself and feel the joy of being proud instead of pompous.</p><p><strong>Treat
-    feedback as a gift</strong>. Ideas, critiques, questions, and feelings are the
-    most valuable things you will ever give or get. Give them thoughtfully, and receive
-    them gratefully.</p><p><strong>Savor every bite</strong>. Have fun and take care
-    of yourself. You have one life; bask in it.</p>"
+    everything else that brought you here in the first place.</p><p><strong>Log growth</strong>.
+    To make a future world better than the present, make your present self better
+    than your past. Challenge yourself to change. Invest in the person you want remembered.
+    Don’t compare yourself with others, but with who you were yesterday.</p><p><strong>Empower
+    others</strong>. Seek your success by helping others achieve theirs. On your deathbed,
+    what will you remember: learning to ride a bike or teaching your kid to ride a
+    bike? By helping others, you achieve missions greater than yourself and feel the
+    joy of being proud instead of pompous.</p><p><strong>Treat feedback as a gift</strong>.
+    Ideas, critiques, questions, and feelings are the most valuable things you will
+    ever give or get. Give them thoughtfully, and receive them gratefully.</p><p><strong>Savor
+    every bite</strong>. Have fun and take care of yourself. You have one life; bask
+    in it.</p>"
 - template: detail-content
   block: text-1
   headline: The Process
