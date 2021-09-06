@@ -42,13 +42,17 @@ page_sections:
     healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: Qualifications
-  content: "<ul><li><p>PhD in microbiology or a related science</p></li><li><p>A deeply
-    held conviction in our mission and values</p></li><li><p>Experience in experimental
-    work, preferably also computational analyses of high-throughput data</p></li><li><p>Eager
-    to learn new scientific fields as needed to address problems</p></li><li><p>Excited
-    to invest energy into a fast-paced, thoughtful work environment</p></li><li><p>Desire
-    to take on daunting scientific challenges with zeal</p></li></ul>"
+  headline: About the position
+  content: "<p>You will be working with us to accelerate the discovery of cultured
+    foods. Some of your <strong>responsibilities</strong> will include:</p><ul><li><p>Isolate
+    and screen microbes</p></li><li><p>With the founder, develop high-throughput methods
+    (both experimental and computational) for evaluating and designing microbial communities
+    for food applications</p></li><li><p>Work with high-throughput data with guidance
+    from the founder</p></li><li><p>Maintain robust documentation of your work so
+    others can collaborate with you</p></li><li><p>Work with the product team to apply
+    cultures to novel cheeses and foods</p></li><li><p>Work with the product and brand
+    team to further our collective mission</p></li><li><p>Build a company where mission
+    and money meet</p></li><li><p>This position is full time and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: About us
