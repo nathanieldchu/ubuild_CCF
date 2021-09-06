@@ -41,12 +41,18 @@ page_sections:
     healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: Qualifications
-  content: "<p>One or more of the following:</p><ul><li><p>Experience growing a brand
-    from early stages of development and deployment to realizing a coherent identity
-    and voice</p></li><li><p>Demonstrated fluency in communicating through different
-    media (articles, video, images, websites, social, letters)</p></li><li><p>Desire
-    to take on daunting marketing challenges with zeal</p></li></ul>"
+  headline: About the position
+  content: "<p>You will be working with us to create a more sustainable world by deepening
+    people’s connections with each other and their food. Some of your responsibilities
+    will include:</p><ul><li><p>With the Tezza team and consulting designers, writers,
+    and other creatives, create a brand that furthers our sustainability mission</p></li><li><p>Rigorously
+    test market hypotheses by collecting and analyzing data from field and digital
+    marketing experiments</p></li><li><p>Talk to and understand our customers, from
+    individuals to large corporations</p></li><li><p>Work with vendors and partners
+    to spread knowledge about our mission and products</p></li><li><p>Produce articles,
+    videos, stories, and posts that explore food, culture, people, sustainability,
+    science, and Tezza’s particular journey to support those pieces of society</p></li><li><p>Publish
+    that work over social media and other media outlets</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: About us
