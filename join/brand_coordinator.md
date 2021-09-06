@@ -29,21 +29,16 @@ page_sections:
     This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
-  headline: About the position
-  content: "<p>You will be working with us to create a more sustainable world by deepening
-    people’s connections with each other and their food. Some of your duties will
-    include:</p><ul><li><p>Building a brand that furthers our sustainability mission</p></li><li><p>Working
-    with vendors and partners to spread knowledge about our mission and products</p></li><li><p>Using
-    social media to amplify not just products but also ideas</p></li><li><p>Work with
-    the science and product teams to understand and communicate our approach to food
-    and science and craft</p></li><li><p>Rigorously testing market hypotheses with
-    field experiments, collecting and analyzing data</p></li></ul><p></p><p>We will
-    work with you to set goals and milestones for your professional development. Some
-    of the <strong>concrete goals for the first year</strong> of this position are:</p><ul><li><p>Establish
-    a brand that is abnormally human, idealistic, personal, weird, skeptical, self-deprecating,
-    and oddly supportive</p></li><li><p>Design, implement, and analyze at least 3
-    market experiments on core market risks</p></li><li><p>Map out brand strategy
-    to grow with our product line</p></li></ul>"
+  headline: About Tezza
+  content: <p>Tezza is an early-stage public benefit corporation focused on climate
+    change and sustainability. Our vision is a world where on every menu, grocery
+    shelf, and table, the most exciting foods are also the most sustainable. To achieve
+    this, our mission is to craft cultured foods that tap into the diversity of the
+    microbial world.</p><p>We are starting with a new category of aged, hard cheeses—that
+    happen to be made from plants. The dairy industry produces more than <a href="http://www.fao.org/3/CA2929EN/ca2929en.pdf">3%</a>
+    of global greenhouse gas emissions—more than aviation—and poses further sustainability
+    as well as animal-welfare challenges. We provide better, more affordable, and
+    healthier products that bring people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
   headline: Qualifications
