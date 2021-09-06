@@ -23,7 +23,7 @@ page_sections:
     wizard). Lasso the diversity of the microbial world. With really tiny ropes.</p><p><a
     href="https://www.tezzafoods.com/join/brand_coordinator" title=""><strong>Brand
     coordinator</strong></a><strong> </strong>(aka social storyteller). Tell stories
-    that shape how people connect to each other and their food.</p><p><a href="https://www.tezzafoods.com/join/business_development"
+    that shape how people connect to each other and their food.</p><p><a href="https://www.tezzafoods.com/join/business_operations"
     title=""><strong>Business operations and strategy</strong></a> (aka make mission,
     then money). Build relationships and collaborations with partners in food and
     biotechnology to advance sustainable cultured foods.</p><p><strong>[Insert-what-you-do-here]
