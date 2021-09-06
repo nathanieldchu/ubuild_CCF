@@ -17,19 +17,16 @@ page_sections:
     link_text: THE PROCESS
 - template: 1-column-text
   block: one-column-1
-  headline: Brand architect
+  headline: Brand coordinator
   content: ''
 - template: detail-content
   block: text-1
-  headline: About you
-  content: "<p>You want to fight ecological destruction. You also want to be a part
-    of the fast-paced, passion-driven world of startups. But you are looking for people
-    who care about sustainability as more than window-dressing for private equity
-    firms or shiny packaging for influencers.</p><p>For this position, you want to
-    tell stories through a brand that tries to make the world a better place without
-    being a pedantic ass. You are bold, experimental, and human, while creating the
-    very first seeds and roots of a food brand with big ambitions. You are a brand
-    omnivore, excited to tackle all types of channels and strategies.</p>"
+  headline: Summary
+  content: <p>We’re looking for a branding and marketing hire to help us create a
+    more sustainable food system. You are a story and data-driven marketer eager to
+    take on all types of marketing challenges, from field research to storytelling
+    to brand design. Most importantly, you share our <a href="https://www.tezzafoods.com/values">values</a>.
+    This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
   headline: About the position
