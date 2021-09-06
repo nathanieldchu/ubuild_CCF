@@ -21,15 +21,12 @@ page_sections:
   content: ''
 - template: detail-content
   block: text-1
-  headline: About you
-  content: "<p>You want to fight ecological destruction. You also want to be a part
-    of the fast-paced, passion-driven world of startups. But you are looking for people
-    who care about sustainability as more than window-dressing for private equity
-    firms or shiny packaging for influencers.</p><p>For this position, you prefer
-    to get your hands dirty rather than stare at a computer screen. You love to tinker,
-    make great food, work efficiently, maintain clear notes, and keep things orderly
-    and clean. You have surprising physical endurance and can lift heavy stuff and
-    work quickly for long work days.</p>"
+  headline: Summary
+  content: <p>We’re looking for a cheesemaker to help us create a more sustainable
+    food system. You appreciate the craft and tradition of cheesemaking; love fast-paced,
+    methodical, hands-on work; and possess an enduring curiosity in creating new kinds
+    of cheese. And most importantly, you share our <a href="https://www.tezzafoods.com/values">values</a>.
+    This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
   headline: About the position
