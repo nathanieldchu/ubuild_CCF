@@ -80,18 +80,18 @@ page_sections:
   content: <p>We build relationships thoughtfully, and this approach takes time. Over
     multiple conversations, we will seek to understand how we can support you, and
     hopefully you will find out whether we are a good fit for your goals or simply
-    a bunch of nutcases.</p><p>You can read more about our <a href="https://www.tezzafoods.com/join/the-process"
-    title="">hiring process here</a>.</p><p>To apply, please email <strong>join@tezzafoods.com</strong>
-    with a resume and responses to the following prompts (a conversational, unpolished
-    tone is fine):</p><ol><li><p>What motivates you right now? When you think about
-    your short life, what motivates you for the long term? And most important, why?
-    Where did those motivations come from?</p></li><li><p>What are the most important
-    things that you are striving to improve in yourself? What are you doing to work
-    on them? And how would that work either amplify a superpower or cure an achilles
-    heel?</p></li></ol><p>Tezza is an equal opportunity employer. We do not discriminate
-    on the basis of race, religion, color, national origin, gender, sexual orientation,
-    age, marital status, veteran status or disability status. But we acknowledge that
-    we are flawed humans within a flawed society. We do our best and apologize and
-    learn when that’s not enough.</p>
+    a bunch of nutcases. You can learn about<a href="https://www.tezzafoods.com/join">
+    our values, hiring process, and benefits here</a>.</p><p>To apply, please email
+    <strong>join@tezzafoods.com</strong> with a resume and responses to the following
+    prompts (a conversational, unpolished tone is fine):</p><ol><li><p>What motivates
+    you right now? When you think about your short life, what motivates you for the
+    long term? And most importantly, why? Where did those motivations come from?</p></li><li><p>What
+    are the most important things that you are striving to improve in yourself? What
+    are you doing to work on them? And how would that work either amplify a superpower
+    or cure an achilles heel?</p></li></ol><p>Tezza is an equal opportunity employer.
+    We do not discriminate on the basis of race, religion, color, national origin,
+    gender, sexual orientation, age, marital status, veteran status or disability
+    status. But we acknowledge that we are flawed humans within a flawed society.
+    We do our best and apologize and learn when that’s not enough.</p>
 
 ---
