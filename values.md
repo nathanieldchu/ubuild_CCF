@@ -48,9 +48,9 @@ page_sections:
       ride a bike or teaching your kid to ride a bike? By helping others, you achieve
       missions greater than yourself and feel the joy of being proud instead of pompous.<br><br><strong>Treat
       feedback as a gift</strong>. Ideas, critiques, questions, and feelings are the
-      most valuable things you will ever give or get. Give them thoughtfully, and
-      receive them gratefully.<br><br><strong>Savor every bite</strong>. Have fun
-      and take care of yourself. You have one life; bask in it."
+      most valuable things you will ever give or get. Give them thoughtfully and receive
+      them gratefully.<br><br><strong>Savor every bite</strong>. Have fun and take
+      care of yourself. You have one life; bask in it."
     headline: ''
 - template: simple-footer
   block: footer-1
