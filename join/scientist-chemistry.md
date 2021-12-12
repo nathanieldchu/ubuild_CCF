@@ -56,12 +56,25 @@ page_sections:
     and not remote</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Qualifications
+  content: <ul><li><p>PhD in chemistry or a related science</p></li><li><p>Ability
+    to hire and recruit uncommonly capable people</p></li><li><p>A deeply held conviction
+    in our <a href="https://www.tezzafoods.com/values">mission and values</a></p></li><li><p>Desire
+    to take on daunting scientific challenges with zeal</p></li><li><p>Experience
+    in mass spectrometry, particularly untargeted data</p></li><li><p>Preferably experience
+    both generating and analyzing mass spectrometry data and eager to branch into
+    other scientific disciplines as necessary</p></li></ul>
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: What do you get out of it?
+  content: "<ul><li><p>Work on global sustainability problems via a hands-on, tasty
+    product</p></li><li><p>Large growth potential in different areas (management,
+    research, operations, manufacturing, branding, etc)</p></li><li><p>Learn about
+    different aspects of building an early-stage startup</p></li><li><p>We focus on
+    growth, and we hire you not for this position, but for your next three positions.
+    We will work with you to craft a learning plan to achieve your personal and career
+    goals, at Tezza or elsewhere</p></li><li><p>A chance to build the kind of place
+    where you’d like to work</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: ''
