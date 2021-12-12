@@ -19,14 +19,16 @@ page_sections:
     science of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
     title=""><strong>Scientist, microbiology</strong></a><strong> </strong>(aka culture
     wizard). Lasso the diversity of the microbial world. With really tiny ropes.</p><p><a
-    href="https://www.tezzafoods.com/join/brand_coordinator" title=""><strong>Brand
-    coordinator</strong></a><strong> </strong>(aka social storyteller). Tell stories
-    that shape how people connect to each other and their food.</p><p><a href="https://www.tezzafoods.com/join/business_operations"
-    title=""><strong>Business operations and strategy</strong></a> (aka mission maker).
-    Build a company in pursuit of a better world. And nachos.</p><p><strong>[Insert-what-you-do-here]
-    badass</strong> (aka I-will-smash-down-this-door). Do you do something that we
-    need, and we don't know it? Tell us about it. Skills can be taught, but passion
-    is a fruit.</p>
+    href="https://www.tezzafoods.com/join/scientist-chemistry" title=""><strong>Scientist,
+    chemistry</strong></a> (aka flavor pirate). Search the open seas of flavor for
+    new discoveries using high-throughput chemistry.</p><p><a href="https://www.tezzafoods.com/join/brand_coordinator"
+    title=""><strong>Brand coordinator</strong></a><strong> </strong>(aka social storyteller).
+    Tell stories that shape how people connect to each other and their food.</p><p><a
+    href="https://www.tezzafoods.com/join/business_operations" title=""><strong>Business
+    operations and strategy</strong></a> (aka mission maker). Build a company in pursuit
+    of a better world. And nachos.</p><p><strong>[Insert-what-you-do-here] badass</strong>
+    (aka I-will-smash-down-this-door). Do you do something that we need, and we don't
+    know it? Tell us about it. Skills can be taught, but passion is a fruit.</p>
 - template: detail-content
   block: text-1
   headline: About you
