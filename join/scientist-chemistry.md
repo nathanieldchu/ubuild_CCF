@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Scientist, chemistry
-date: 
+date: 2021-12-11 08:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
