@@ -15,7 +15,7 @@ page_sections:
     link_text: JOIN
 - template: 1-column-text
   block: one-column-1
-  headline: ''
+  headline: Scientist, chemistry
   content: ''
 - template: detail-content
   block: text-1
