@@ -42,8 +42,18 @@ page_sections:
     people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: About the position
+  content: "<p>You will be working with us to accelerate the discovery of cultured
+    foods. Some of your responsibilities will include:</p><ul><li><p>Analyzing food
+    and microbiological samples to predict deliciousness</p></li><li><p>With the founder
+    and microbiology team, develop high-throughput methods (both experimental and
+    computational) for evaluating and designing microbial communities for food applications</p></li><li><p>Design
+    experiments to pave the way for automated sample and data analysis</p></li><li><p>Maintain
+    robust documentation of your work so others can collaborate with you</p></li><li><p>Work
+    with the product team to apply cultures to novel cheeses and foods</p></li><li><p>Work
+    with the product and brand team to further our collective mission</p></li><li><p>Build
+    a company where mission and money meet</p></li><li><p>This position is full time
+    and not remote</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: ''
