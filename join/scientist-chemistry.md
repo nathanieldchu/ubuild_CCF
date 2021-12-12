@@ -19,8 +19,13 @@ page_sections:
   content: ''
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Summary
+  content: <p>We’re looking for an analytical chemist to help us create a more sustainable
+    food system. You want to apply your scientific expertise to a real product that
+    you can taste and push forward the application of mass spectrometry, sensory prediction,
+    and computational throughput to accelerate the discovery of cultured foods. And
+    most importantly, you share our <a href="https://www.tezzafoods.com/values">values</a>.
+    This position is based in Oakland, CA and offers competitive salary and equity.</p>
 - template: detail-content
   block: text-1
   headline: ''
