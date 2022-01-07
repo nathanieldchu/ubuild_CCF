@@ -78,15 +78,14 @@ page_sections:
     to build a supportive community so that each member can take on challenges, demons,
     and missions with chutzpah. As part of this community, we work to provide security
     in the following areas:</p><ul><li><p><strong>Financial health</strong>: competitive
-    salaries, retirement plans, transparent and progressive pay structures, profit
-    sharing, equity ownership</p></li><li><p><strong>Physical health</strong>: strong
-    health insurance, active community, proximity to Berkeley Bowl produce</p></li><li><p><strong>Mental
-    health</strong>: minimum and mandatory 3 weeks paid time off with bullshit-free
-    support for taking more when you need it</p></li><li><p><strong>Social health</strong>:
-    parental leave, communal lunch not at your desk</p></li><li><p><strong>Spiritual
-    health</strong>: regular meetings to exchange feedback and ensure that you are
-    asking the hard questions and we are supporting you to pursue your truest self,
-    dark chocolate</p></li></ul>"
+    salaries, equity ownership, retirement plans, transparent and progressive pay
+    structures</p></li><li><p><strong>Physical health</strong>: health insurance,
+    active community, proximity to Berkeley Bowl produce</p></li><li><p><strong>Mental
+    health</strong>: minimum 3 weeks paid time off with bullshit-free support for
+    taking more when you need it</p></li><li><p><strong>Social health</strong>: parental
+    leave, communal lunch not at your desk</p></li><li><p><strong>Spiritual health</strong>:
+    regular meetings to exchange feedback and ensure that you are asking the hard
+    questions and we are supporting you to pursue your truest self, dark chocolate</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2021"
