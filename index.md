@@ -38,11 +38,11 @@ page_sections:
   headline: Our take on greenwashing
   content: "<p>Two crises threaten our existence—<strong>mass extinction and climate
     change</strong>. Global food and agriculture is the largest contributor to shrinking
-    natural habitats and rising atmospheric carbon. We think that existence is pretty
-    fucking great. So to help preserve it, our mission is not to build a unicorn,
-    give rich people nice things, or create tech for tech’s sake. We are building
-    this public benefit company to create <strong>delicious, cheap, and nutritions
-    foods that change how the 99% eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
+    natural habitats and rising atmospheric carbon. We love existence. So to help
+    preserve it, our mission is not to build a unicorn, give rich people nice things,
+    or create tech for tech’s sake. We are building this public benefit company to
+    create <strong>delicious, cheap, and nutritions foods that change how the 99%
+    eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
