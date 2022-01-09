@@ -45,6 +45,16 @@ page_sections:
   media:
     image: "/uploads/2019/06/07/mg_6300.jpg"
     alt_text: The tiny world around us
+- template: detail-content
+  block: text-1
+  headline: Our take on greenwashing
+  content: "<p>Two crises threaten our existence—<strong>mass extinction and climate
+    change</strong>. Global food and agriculture is the largest contributor to decimating
+    natural habitats and producing atmospheric carbon. We think that existence is
+    pretty fucking great. So to help preserve it, our mission is not to build a unicorn,
+    give rich people nice things, or create tech for tech’s sake. We are building
+    this public benefit corporation to create <strong>delicious, cheap, and nutritions
+    foods that change how the 99% eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
