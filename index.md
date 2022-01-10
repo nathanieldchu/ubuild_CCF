@@ -41,7 +41,7 @@ page_sections:
     and rising atmospheric carbon. <strong>We love existence</strong>. So to help
     preserve it, our mission is not to build a unicorn, give rich people nice things,
     or create tech for tech’s sake. We are building this public benefit company to
-    create <strong>delicious, cheap, and nutritions foods that change how the 99%
+    create <strong>delicious, cheap, and nutritious foods that change how the 99%
     eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
 - template: signup-bar
   block: cta-bar
