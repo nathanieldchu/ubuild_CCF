@@ -37,12 +37,12 @@ page_sections:
   block: text-1
   headline: Our take on greenwashing
   content: "<p>Two crises threaten our existence—mass extinction and climate change.
-    Global food and agriculture is the largest contributor to shrinking natural habitats
-    and rising atmospheric carbon. <strong>We love existence</strong>. So to help
-    preserve it, our mission is not to build a unicorn, give rich people nice things,
-    or create tech for tech’s sake. We are building this public benefit company to
-    create <strong>delicious, cheap, and nutritious foods that change how the 99%
-    eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
+    Global food and agriculture is the single largest contributor to shrinking natural
+    habitats and a top cause of rising atmospheric carbon. <strong>We love existence</strong>.
+    So to help preserve it, our mission is not to build a unicorn, give rich people
+    nice things, or create tech for tech’s sake. We are building this public benefit
+    company to create <strong>delicious, cheap, and nutritious foods that change how
+    the 99% eat</strong>.</p><p>Or at least we’ll make nachos.</p>"
 - template: signup-bar
   block: cta-bar
   content: Want updates about our progress?
