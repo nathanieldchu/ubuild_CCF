@@ -57,9 +57,9 @@ page_sections:
     in life, the most meaningful things are experienced with others, and the biggest
     problems aren’t solved alone. Trust others, and they will trust you; understand
     others, and you will understand yourself; work with others on big problems, and
-    wake up with a purpose.<br><strong>Savor every bite.</strong> Have fun and take
-    care of yourself. Sometimes even the end of civilization isn’t that serious. You
-    have one life; bask in it.</p>"
+    wake up with a purpose.</p><p><strong>Savor every bite.</strong> Have fun and
+    take care of yourself. Sometimes even the end of civilization isn’t that serious.
+    You have one life; bask in it.</p>"
 - template: detail-content
   block: text-1
   headline: The Process
