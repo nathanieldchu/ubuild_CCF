@@ -50,16 +50,16 @@ page_sections:
     on evolutionary timescales</strong>. Most bad things result from short-term thinking.
     Climate change, war, all-you-can-eat Indian buffet. But life is a long-term game,
     so be honest, be humble, and don’t be an asshole.</p><p><strong>Stay hungry</strong>.
-    Always seek discomfort and growth. To make a future world better than the present,
-    make your present self better than your past. Don’t compare yourself with others
-    but with who you were yesterday.</p><p><strong>Make meaning through others</strong>.
+    Seek discomfort and growth. To make a future world better than the present, make
+    your present self better than your past. Don’t compare yourself with others but
+    with who you were yesterday.</p><p><strong>Make meaning through others</strong>.
     Look, we all fantasize about abandoning the world for a hut in the woods. But
-    in life, the most meaningful things are experienced with others, and the biggest
-    problems aren’t solved alone. Trust others, and they will trust you; understand
-    others, and you will understand yourself; work with others on big problems, and
-    wake up with a purpose.</p><p><strong>Savor every bite.</strong> Have fun and
-    take care of yourself. Sometimes even the end of civilization isn’t that serious.
-    You have one life; bask in it.</p>"
+    in life, most meaningful things are experienced with others, and the biggest problems
+    aren’t solved alone. Trust others, and they will trust you; understand others,
+    and you will understand yourself; work with others on big problems, and wake up
+    with a purpose.</p><p><strong>Savor every bite.</strong> Have fun and take care
+    of yourself. Sometimes even the end of civilization isn’t that serious. You have
+    one life; bask in it.</p>"
 - template: detail-content
   block: text-1
   headline: The Process
