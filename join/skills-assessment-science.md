@@ -24,8 +24,8 @@ page_sections:
     informal conversations with groups of no more than three people. The intent is
     to provide a forum for active questions, discussions, and tangents. Please do
     not spend crazy amounts of time preparing for this assessment (i.e., more than
-    a couple of hours) or feel compelled to do something immediately relevant or valuable
-    to us. Do what sounds fun!</p><p>We ask you to prepare one of the following:</p><p><em>Project
+    a couple of hours) or feel compelled to do something relevant or valuable to us.
+    Do what sounds fun!</p><p>We ask you to prepare one of the following:</p><p><em>Project
     story</em></p><p>Please prepare a story of a scientific or technical project that
     you have done. Instead of a standard expositional talk (since we likely have already
     read your papers), we are most interested in the decision making that happened
