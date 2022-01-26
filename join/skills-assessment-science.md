@@ -15,9 +15,10 @@ page_sections:
     link_text: JOIN
   - link: https://www.tezzafoods.com/join/the-process
     link_text: HIRING
-- template: simple-header
-  block: header-3
-  logo: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Skills assessment, science
+  content: ''
 - template: detail-content
   block: text-1
   headline: ''
