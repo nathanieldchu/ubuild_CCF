@@ -40,9 +40,9 @@ page_sections:
     or video-call conversations</strong>. Depending on the role, you will have more
     structured conversations around values, culture, and professional and personal
     growth.</p><p><strong>Reference checks.</strong> Honestly, nobody is really good
-    at reading people, so we try to incorporate the wisdom of the crowd. We will contact
-    people who have interacted with you in different contexts, including above, beside,
-    and below you in a professional setting and from your personal life.</p><p><strong>You
+    at reading people, so we try to incorporate the wisdom of the crowd. We will ask
+    for at least four references from someone who has worked above, beside, and below
+    you in a professional setting and one more from your personal life.</p><p><strong>You
     join the colony or we help you find your next adventure.</strong> Whatever the
     outcome, we want to enable you to achieve your mission. If you join us, we will
     challenge one another every day to make ourselves and the world better. If you
