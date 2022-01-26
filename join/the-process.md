@@ -31,27 +31,23 @@ page_sections:
     your life.</p><p><strong>Introductory conversation.</strong> We will have an unstructured
     conversation with you to learn a bit about who you are, how you think, and how
     you execute. What is special about you, and how can we help you find the best
-    place for your mind and heart? We will also have time for you to ask us questions.</p><p><strong>Practical
-    skills assessment.</strong> For all positions, we will ask you to choose your
-    own very small project that reflects the position. It's meant to be a chance to
-    explore your curiosity! These projects will usually task you to ask a question
-    you find exciting, formulate a plan to seek answers, and execute that plan if
-    practical. If the job is one in product development, we may ask you to document
-    an experiment in the kitchen that you've been dying to do. Or if it is a science
-    role, we may ask you to analyze a recent paper of your choice.</p><p><strong>More
-    structured in-person or video-call conversations</strong>. Depending on the role,
-    you will have at least one more structured conversation with other team members.
-    Most often these conversations will cover the skills assessment, how you know
-    your references, and your personal and professional goals.</p><p><strong>Reference
-    checks.</strong> Honestly, nobody is really good at reading people, so we try
-    to incorporate the wisdom of the crowd. We will contact people who have interacted
-    with you in different contexts, including above, beside, and below you in a professional
-    setting and from your personal network.</p><p><strong>You join the colony or we
-    help you find your next adventure.</strong> Whatever the outcome, we want to enable
-    you to achieve your mission. If you join us, we will challenge one another every
-    day to make ourselves and the world better. If you don't join us, we will do the
-    same thing but probably a lot less often. Throughout the hiring process and early
-    days of our partnership, we will craft a structured plan for your growth with
-    regular opportunities for feedback.</p>
+    place for your mind and heart? We will also have time for you to ask us questions.</p><p><a
+    href="https://www.tezzafoods.com/join/skills-assessment" title=""><strong>Practical
+    skills assessment</strong></a><strong>.</strong> For all positions, we will ask
+    you guide us in a technical discussion about a project you have done or one that
+    you propose. The goal is for both parties to learn how the other approaches problems
+    and whether working together would be fun!</p><p><strong>More structured in-person
+    or video-call conversations</strong>. Depending on the role, you will have more
+    structured conversations around values, culture, and professional and personal
+    growth.</p><p><strong>Reference checks.</strong> Honestly, nobody is really good
+    at reading people, so we try to incorporate the wisdom of the crowd. We will contact
+    people who have interacted with you in different contexts, including above, beside,
+    and below you in a professional setting and from your personal life.</p><p><strong>You
+    join the colony or we help you find your next adventure.</strong> Whatever the
+    outcome, we want to enable you to achieve your mission. If you join us, we will
+    challenge one another every day to make ourselves and the world better. If you
+    don't join us, we will do the same thing but probably a lot less often. Throughout
+    the hiring process and early days of our partnership, we will craft a structured
+    plan for your growth with regular opportunities for feedback.</p>
 
 ---
