@@ -13,6 +13,8 @@ page_sections:
     link: https://www.tezzafoods.com/values
   - link: https://www.tezzafoods.com/join
     link_text: JOIN
+  - link: https://www.tezzafoods.com/join/the-process
+    link_text: HIRING
 - template: simple-header
   block: header-3
   logo: ''
