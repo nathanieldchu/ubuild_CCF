@@ -11,6 +11,8 @@ page_sections:
     link_text: HOME
   - link_text: VALUES
     link: https://www.tezzafoods.com/values
+  - link: https://www.tezzafoods.com/join
+    link_text: JOIN
 - template: simple-header
   block: header-3
   logo: ''
