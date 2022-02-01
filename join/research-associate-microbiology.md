@@ -42,12 +42,55 @@ page_sections:
     people together around a shared love of food.</p>
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: About the position
+  content: "<p>You will be working with us to accelerate the discovery of cultured
+    foods. Some of your <strong>responsibilities</strong> will include:</p><ul><li><p>Isolate
+    and screen microbes and microbial communities</p></li><li><p>With the microbiology
+    team, develop high-throughput methods (both experimental and computational) for
+    evaluating and designing microbial communities for food applications</p></li><li><p>Maintain
+    robust documentation of your work so others can collaborate with you</p></li><li><p>Work
+    with the product team to apply cultures to novel cheeses and foods</p></li><li><p>Work
+    with the product and brand team to further our collective mission</p></li><li><p>Build
+    a company where mission and money meet</p></li><li><p>This position is full time
+    and not fully remote</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Qualifications
+  content: <ul><li><p>BS in Biology or a related field</p></li><li><p>A deeply held
+    conviction in our <a href="https://www.tezzafoods.com/values">mission and values</a></p></li><li><p>Experience
+    in experimental microbiology, particularly isolating and characterizing microbes</p></li><li><p>Preferably
+    experience independently designing, performing, and analyzing experiments</p></li></ul>
+- template: detail-content
+  block: text-1
+  headline: What do you get out of it?
+  content: "<ul><li><p>Work on global sustainability problems via a hands-on, tasty
+    product</p></li><li><p>Large growth potential in different areas (management,
+    research, operations, manufacturing, branding, etc)</p></li><li><p>Learn about
+    different aspects of building an early-stage startup</p></li><li><p>We focus on
+    growth, and we hire you not for this position, but for your next three positions.
+    We will work with you to craft a learning plan to achieve your personal and career
+    goals, at Tezza or elsewhere</p></li><li><p>A chance to build the kind of place
+    where you’d like to work</p></li><li><p>Competitive salary, equity, benefits,
+    time off, and support</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: If interested, what should you do?
+  content: <p>We build relationships thoughtfully, and this approach takes time. Over
+    multiple conversations, we will seek to understand how we can support you, and
+    hopefully you will find out whether we are a good fit for your goals or simply
+    a bunch of nutcases. You can learn about<a href="https://www.tezzafoods.com/join">
+    our values, hiring process, and benefits here</a>.</p><p>To apply, please email
+    <strong>join@tezzafoods.com</strong> with a resume and responses to the following
+    prompts (a conversational, unpolished tone is fine):</p><ol><li><p>What motivates
+    you right now? When you think about your short life, what motivates you for the
+    long term? And most importantly, why? Where did those motivations come from?</p></li><li><p>What
+    are the most important things that you are striving to improve in yourself? What
+    are you doing to work on them? And how would that work either amplify a superpower
+    or cure an achilles heel?</p></li></ol><p>Tezza is an equal opportunity employer.
+    We do not discriminate on the basis of race, religion, color, national origin,
+    gender, sexual orientation, age, marital status, veteran status or disability
+    status. But we acknowledge that we are flawed humans within a flawed society.
+    We do our best and apologize and learn when that’s not enough.</p>
 published: false
 
 ---
