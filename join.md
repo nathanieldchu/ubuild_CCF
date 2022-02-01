@@ -19,9 +19,11 @@ page_sections:
     science of making a new category of cheese.</p><p><a href="https://www.tezzafoods.com/join/microbiologist"
     title=""><strong>Scientist, microbiology</strong></a><strong> </strong>(aka culture
     wizard). Lasso the diversity of the microbial world. With really tiny ropes.</p><p><a
-    href="https://www.tezzafoods.com/join/scientist-chemistry" title=""><strong>Scientist,
-    chemistry</strong></a> (aka flavor pirate). Search the open seas of flavor for
-    new discoveries using high-throughput chemistry.</p><p><a href="https://www.tezzafoods.com/join/brand_coordinator"
+    href="https://www.tezzafoods.com/join/research-associate-microbiology" title=""><strong>Research
+    associate, microbiology</strong></a> (aka lactic lead). If you were a microbe,
+    what would you want?</p><p><a href="https://www.tezzafoods.com/join/scientist-chemistry"
+    title=""><strong>Scientist, chemistry</strong></a> (aka flavor pirate). Use high-throughput
+    chemistry to discover novel flavors and foods.</p><p><a href="https://www.tezzafoods.com/join/brand_coordinator"
     title=""><strong>Brand coordinator</strong></a><strong> </strong>(aka social storyteller).
     Tell stories that shape how people connect to each other and their food.</p><p><a
     href="https://www.tezzafoods.com/join/business_operations" title=""><strong>Business
