@@ -54,6 +54,11 @@ page_sections:
       Have fun and take care of yourself. Sometimes even the end of civilization isn’t
       that serious. You have one life; bask in it."
     headline: ''
+- template: 1-column-text
+  block: one-column-1
+  content: If our mission and values get you excited, consider <a href="https://www.tezzafoods.com/join"
+    title="">joining the colony</a>!
+  headline: ''
 - template: simple-footer
   block: footer-1
   content: "© Cross Cultured Foods PBC, 2020"
